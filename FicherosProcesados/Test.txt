@@ -1,0 +1,2799 @@
+ctx_00031921-n(belong_to#v#wf3#02719930-v)#factotum
+relation#n#wf0#2 abstraction#n#wf2#1 belong_to#v#wf3#1 characteristic#a#wf6#1 entity#n#wf9#1 part#n#wf11#1 together#r#wf12#1
+
+ctx_00038262-n(action#n#wf4#00037396-n)#factotum
+course_of_action#n#wf0#2 mode#n#wf2#1 action#n#wf4#1
+
+ctx_00081174-n(given#a#wf8#00028280-a)#law
+straddle#n#wf0#2 option#n#wf2#1 buy#v#wf4#1 sell#v#wf6#1 given#a#wf8#1 stock#n#wf9#1 stock_index#n#wf12#1 commodity#n#wf15#1 future#n#wf16#1 given#a#wf20#1 price#n#wf21#1 given#a#wf24#1 date#n#wf25#1 consist#v#wf27#1 equal#a#wf30#1 number#n#wf31#1 put_option#n#wf33#1 call_option#n#wf35#1
+
+ctx_00087218-n(hold#v#wf9#02283324-v)#factotum
+sequestration#n#wf0#2 seizing#n#wf1#1 property#n#wf2#1 belong#v#wf4#1 someone#n#wf6#1 hold#v#wf9#1 profit#n#wf12#1 pay#v#wf13#1 demand#n#wf15#1 be#v#wf19#1 seize#v#wf20#1
+
+ctx_00142361-n(person#n#wf21#00007846-n)#medicine
+medical_examination#n#wf0#2 thorough#a#wf2#1 physical#a#wf3#1 examination#n#wf4#1 include#v#wf6#1 variety#n#wf8#1 test#n#wf10#1 age#n#wf14#1 sex#n#wf16#1 health#n#wf18#1 person#n#wf21#1
+
+ctx_00207622-n(negative#a#wf8#00075515-a)#factotum
+blackball#n#wf0#2 act#n#wf2#1 exclude#v#wf4#1 someone#n#wf5#1 negative#a#wf8#1 vote#n#wf9#1 veto#n#wf11#1
+
+ctx_00286360-n(box#v#wf9#01419982-v)#factotum
+sidestep#n#wf0#2 step#n#wf2#1 side#n#wf5#1 box#v#wf9#1 dance#v#wf11#1
+
+ctx_00288671-n(fast#a#wf2#00976508-a)#factotum
+gallop#n#wf0#2 fast#a#wf2#1 gait#n#wf3#1 horse#n#wf6#1 beat#v#wf10#1 stride#n#wf11#1 leg#n#wf16#1 be#v#wf17#1 ground#n#wf20#1 simultaneously#r#wf21#1
+
+ctx_00294868-n(hand#n#wf7#05564590-n)#factotum
+creeping#n#wf0#2 slow#a#wf2#1 mode#n#wf3#1 locomotion#n#wf5#1 hand#n#wf7#1 knee#n#wf9#1 drag#v#wf11#1 body#n#wf13#1
+
+ctx_00300206-n(capture#v#wf1#01215421-v)#free_time
+calf_roping#n#wf0#2 capture#v#wf1#1 calf#n#wf3#1 lasso#n#wf6#1 bind#v#wf8#1 foot#n#wf10#1
+
+ctx_00337844-n(involuntary#a#wf2#02522417-a)#factotum
+physiological_nystagmus#n#wf0#2 small#a#wf1#1 involuntary#a#wf2#1 tremor#n#wf3#1 eyeball#n#wf6#1 be#v#wf10#1 eliminate#v#wf11#1 stabilize#v#wf13#1 image#n#wf15#1 retina#n#wf18#1 visual_perception#n#wf20#1 fade#v#wf22#1 rapidly#r#wf23#1 fatigue#n#wf25#1 retinal#a#wf28#1 receptor#n#wf29#1
+
+ctx_00425278-n(someone#n#wf5#00007846-n)#factotum
+worrying#n#wf0#2 act#n#wf2#1 harass#v#wf4#1 someone#n#wf5#1
+
+ctx_00457038-n(immediate#a#wf2#01579853-a)#cricket
+follow-on#n#wf0#2 immediate#a#wf2#1 second#a#wf3#1 inning#n#wf4#1 force#v#wf5#1 cricket#n#wf8#1 team#n#wf9#1 score#v#wf10#1 prescribed#a#wf12#1 number#n#wf13#1 run#n#wf15#1 opponent#n#wf19#1 first#a#wf22#1 inning#n#wf23#1
+
+ctx_00484362-n(try#v#wf9#02530167-v)#play
+blindman's_buff#n#wf0#2 child#n#wf2#1 game#n#wf3#1 blindfolded#a#wf7#1 player#n#wf8#1 try#v#wf9#1 catch#v#wf11#1 identify#v#wf13#1 other#a#wf14#1 player#n#wf15#1
+
+ctx_00489475-n(deal#v#wf9#02246686-v)#card
+cutting#n#wf0#2 division#n#wf2#1 deck_of_cards#n#wf5#1 deal#v#wf9#1
+
+ctx_00535956-n(fixed#a#wf17#00347707-a)#dance
+foxtrot#n#wf0#2 ballroom_dance#n#wf2#1 quadruple_time#n#wf5#1 combine#v#wf8#1 short#a#wf9#1 long#a#wf11#1 fast#a#wf13#1 slow#a#wf15#1 step#n#wf16#1 fixed#a#wf17#1 sequence#n#wf18#1
+
+ctx_00536120-n(ballroom_dance#n#wf2#00534849-n)#dance
+two-step#n#wf0#2 ballroom_dance#n#wf2#1 duple#a#wf5#1 meter#n#wf6#1 mark#v#wf8#1 slide#v#wf10#1 step#n#wf11#1
+
+ctx_00590626-n(commander#n#wf6#09941383-n)#factotum
+commandery#n#wf0#2 position#n#wf2#1 office#n#wf4#1 commander#n#wf6#1
+
+ctx_00626838-n(then#r#wf13#00117620-r)#sport
+clean_and_jerk#n#wf0#2 weightlift#n#wf2#1 barbell#n#wf6#1 be#v#wf7#1 lift#v#wf8#1 shoulder#v#wf10#1 height#n#wf11#1 then#r#wf13#1 jerk#v#wf14#1 overhead#r#wf15#1
+
+ctx_00684128-n(brain#n#wf14#05481095-n)#medicine
+prefrontal_lobotomy#n#wf0#2 surgical#a#wf1#1 interruption#n#wf2#1 nerve_tract#n#wf4#1 frontal_lobe#n#wf10#1 brain#n#wf14#1 often#r#wf16#1 result#v#wf17#1 marked#a#wf19#1 cognitive#a#wf20#1 personality#n#wf22#1 change#n#wf23#1
+
+ctx_00698794-n(blood#n#wf14#05399847-n)#medicine
+cupping#n#wf0#2 treatment#n#wf2#1 evacuate#v#wf5#1 cup#n#wf6#1 be#v#wf7#1 apply#v#wf8#1 skin#n#wf11#1 draw#v#wf13#1 blood#n#wf14#1 surface#n#wf17#1
+
+ctx_00800825-n(inevitable#a#wf11#00343015-a)#sociology
+lost_cause#n#wf0#2 defeated#a#wf2#1 cause#n#wf3#1 cause#n#wf6#1 defeat#n#wf9#1 be#v#wf10#1 inevitable#a#wf11#1
+
+ctx_00804909-n(authority#n#wf7#05196582-n)#factotum
+imperialism#n#wf0#2 instance#n#wf2#1 aggressive#a#wf4#1 extension#n#wf5#1 authority#n#wf7#1
+
+ctx_00811221-n(response#n#wf2#00859001-n)#physiology
+rectal_reflex#n#wf0#2 normal#a#wf1#1 response#n#wf2#1 presence#n#wf5#1 feces#n#wf7#1 rectum#n#wf10#1
+
+ctx_00854538-n(area#n#wf6#05221895-n)#sexuality
+feel#n#wf0#2 manual#a#wf1#1 stimulation#n#wf2#1 genital#a#wf5#1 area#n#wf6#1 sexual_pleasure#n#wf8#1
+
+ctx_00860857-n(renewed#a#wf1#02013758-a)#physiology
+anamnestic_response#n#wf0#2 renewed#a#wf1#1 rapid#a#wf2#1 production#n#wf3#1 antibody#n#wf6#1 second#n#wf9#1 subsequent#a#wf12#1 encounter#n#wf14#1 same#a#wf17#1 antigen#n#wf18#1
+
+ctx_00865600-n(place#n#wf8#08513718-n)#physiology
+passing#n#wf0#2 bodily#a#wf2#1 reaction#n#wf3#1 change#v#wf5#1 place#n#wf8#1 stage#n#wf10#1
+
+ctx_00910533-n(video_recording#n#wf4#04534127-n)#music
+lip_synchronization#n#wf0#2 combine#v#wf1#1 audio#n#wf2#1 video_recording#n#wf4#1 way#n#wf9#1 sound#n#wf12#1 be#v#wf13#1 perfectly#r#wf14#1 synchronize#v#wf15#1 action#n#wf18#1 produce#v#wf20#1 especially#r#wf23#1 synchronize#v#wf24#1 movement#n#wf26#1 speaker#n#wf29#1 lip#n#wf30#1 sound#n#wf33#1 speech#n#wf36#1
+
+ctx_00918055-n(cultivation#n#wf2#00915722-n)#enterprise
+monoculture#n#wf0#2 cultivation#n#wf2#1 single#a#wf5#1 crop#n#wf6#1 farm#n#wf10#1 area#n#wf12#1 country#n#wf14#1
+
+ctx_00919877-n(preserve#v#wf16#02280132-v)#factotum
+stratification#n#wf0#2 place#v#wf2#1 seed#n#wf4#1 damp#a#wf6#1 sand#n#wf7#1 sawdust#n#wf9#1 peat_moss#n#wf11#1 order#n#wf14#1 preserve#v#wf16#1 promote#v#wf19#1 germination#n#wf20#1
+
+ctx_00944633-n(ease#n#wf15#04708113-n)#industry
+perforation#n#wf0#2 act#n#wf2#1 punch#v#wf4#1 hole#n#wf6#1 especially#r#wf8#1 row#n#wf10#1 hole#n#wf12#1 ease#n#wf15#1 separation#n#wf17#1
+
+ctx_00971096-n(troop#n#wf19#08274354-n)#military
+search_and_destroy_mission#n#wf0#2 operation#n#wf2#1 develop#v#wf3#1 United_States#n#wf5#1 troop#n#wf7#1 Vietnam#n#wf9#1 troop#n#wf11#1 move#v#wf13#1 designate#v#wf16#1 area#n#wf17#1 destroy#v#wf18#1 troop#n#wf19#1 find#v#wf22#1
+
+ctx_01000411-n(tune#v#wf9#00295346-v)#industry
+temperament#n#wf0#2 adjustment#n#wf2#1 interval#n#wf5#1 tune#v#wf9#1 keyboard#n#wf11#1 instrument#n#wf12#1 scale#n#wf17#1 be#v#wf19#1 use#v#wf20#1 play#v#wf22#1 different#a#wf24#1 key#n#wf25#1
+
+ctx_01099436-n(money#n#wf8#13384557-n)#industry
+investment#n#wf0#2 act#n#wf2#1 invest#v#wf4#1 lay_out#v#wf6#1 money#n#wf8#1 capital#n#wf10#1 enterprise#n#wf13#1 expectation#n#wf16#1 profit#n#wf18#1
+
+ctx_01115734-n(price#n#wf8#13303315-n)#commerce
+dutch_auction#n#wf0#2 method#n#wf2#1 sell#v#wf4#1 price#n#wf8#1 be#v#wf9#1 reduce#v#wf10#1 buyer#n#wf13#1 be#v#wf14#1 find#v#wf15#1
+
+ctx_01143580-n(foundation#n#wf7#13790712-n)#factotum
+groundwork#n#wf0#2 preliminary#a#wf1#1 preparation#n#wf2#1 basis#n#wf5#1 foundation#n#wf7#1
+
+ctx_01146768-n(someone#n#wf5#00007846-n)#law
+internment#n#wf0#2 act#n#wf2#1 confine#v#wf4#1 someone#n#wf5#1 prison#n#wf8#1 prison#n#wf15#1
+
+ctx_01155722-n(institution#n#wf6#08053576-n)#factotum
+rollover#n#wf0#2 act#n#wf2#1 change#v#wf4#1 institution#n#wf6#1 invest#v#wf8#1 pension_plan#n#wf10#1 incur#v#wf13#1 tax#n#wf15#1 penalty#n#wf16#1
+
+ctx_01194904-n(legal#a#wf28#01400562-a)#town_planning
+eviction#n#wf0#2 action#n#wf1#1 landlord#n#wf4#1 compel#v#wf6#1 tenant#n#wf8#1 leave#v#wf10#1 premise#n#wf12#1 render#v#wf16#1 premise#n#wf18#1 unfit#a#wf19#1 occupancy#n#wf21#1 physical#a#wf25#1 expulsion#n#wf26#1 legal#a#wf28#1 process#n#wf29#1 be#v#wf30#1 involve#v#wf31#1
+
+ctx_01197119-n(hold#v#wf3#01733477-v)#law
+show_trial#n#wf0#2 trial#n#wf2#1 hold#v#wf3#1 show#n#wf5#1 guilt#n#wf8#1 accused#n#wf11#1 person#n#wf12#1 have#v#wf13#1 be#v#wf14#1 decide#v#wf15#1
+
+ctx_01217499-n(group#n#wf12#00031264-n)#factotum
+representation#n#wf0#2 act#n#wf2#1 represent#v#wf4#1 stand_in#v#wf6#1 someone#n#wf9#1 group#n#wf12#1 speak#v#wf14#1 authority#n#wf16#1 behalf#n#wf19#1
+
+ctx_01227190-n(offense#n#wf8#01224031-n)#factotum
+pardon#n#wf0#2 act#n#wf2#1 excuse#v#wf4#1 mistake#n#wf6#1 offense#n#wf8#1
+
+ctx_01250492-n(infant#n#wf3#09827683-n)#sociology
+infanticide#n#wf0#2 murder#v#wf1#1 infant#n#wf3#1
+
+ctx_01254978-n(sing#v#wf1#00545501-n)#music
+intonation#n#wf0#2 sing#v#wf1#1 soloist#n#wf4#1 opening#a#wf7#1 piece#n#wf8#1 plainsong#n#wf10#1
+
+ctx_01265632-n(equilibrium#n#wf5#13934900-n)#politics
+equilibration#n#wf0#2 stabilization#n#wf1#1 bring#v#wf3#1 equilibrium#n#wf5#1
+
+ctx_01283565-n(Pope#n#wf17#11242743-n)#military
+Lepanto#n#wf0#2 Turkish#a#wf1#1 sea_power#n#wf2#1 be#v#wf4#1 destroy#v#wf5#1 league#n#wf10#1 Christian#a#wf12#1 nation#n#wf13#1 organize#v#wf14#1 Pope#n#wf17#1
+
+ctx_01323901-n(genital_system#n#wf6#05509146-n)#anatomy
+vent#n#wf0#2 external#a#wf1#1 opening#n#wf2#1 urinary_system#n#wf4#1 genital_system#n#wf6#1 low#a#wf10#1 vertebrate#n#wf11#1
+
+ctx_01329935-n(particle#n#wf4#09386422-n)#physics
+virion#n#wf0#2 virology#n#tok2#1 complete#a#wf2#1 viral#a#wf3#1 particle#n#wf4#1 nucleic_acid#n#wf6#1 capsid#n#wf9#1 lipid#n#wf13#1 envelope#n#wf14#1 virus#n#wf17#1
+
+ctx_01350485-n(produce#n#wf15#01752884-v)#biology
+hay_bacillus#n#wf0#2 species#n#wf2#1 bacillus#n#wf4#1 find#v#wf5#1 soil#n#wf7#1 decompose#v#wf9#1 organic#a#wf10#1 matter#n#wf11#1 strain#n#wf14#1 produce#n#wf15#1 antibiotic#n#wf16#1
+
+ctx_01396776-n(stalk#n#wf11#13129165-n)#plants
+genus_Vorticella#n#wf0#2 ciliated_protozoan#n#wf1#1 have#v#wf4#1 goblet-shaped#a#wf6#1 body#n#wf7#1 retractile#a#wf10#1 stalk#n#wf11#1
+
+ctx_01412694-n(genus_Chara#n#wf9#01412925-n)#plants
+stonewort#n#wf0#2 various#a#wf3#1 submerged#a#wf4#1 aquatic#a#wf5#1 alga#n#wf6#1 genus_Chara#n#wf9#1 have#v#wf11#1 node#n#wf12#1 whorled#a#wf14#1 filamentlike#a#wf15#1 branch#n#wf16#1 usually#r#wf18#1 encrust#v#wf19#1 calcium_carbonate#n#wf21#1 deposit#n#wf23#1
+
+ctx_01417361-n(flagellum#n#wf6#01458302-n)#plants
+dinoflagellate#n#wf0#2 chiefly#r#wf1#1 marine#a#wf2#1 protozoon#n#wf3#1 have#v#wf4#1 flagellum#n#wf6#1 chief#a#wf9#1 constituent#n#wf10#1 plankton#n#wf12#1
+
+ctx_01418794-n(produce#v#wf2#01752884-v)#plants
+order_Hypermastigina#n#wf0#2 cellulose#n#wf1#1 produce#v#wf2#1 flagellate#n#wf3#1
+
+ctx_01427703-n(serious#a#wf8#00651039-a)#plants
+myxosporidian#n#wf0#2 mostly#r#wf1#1 parasitic#a#wf2#1 fish#n#wf4#1 include#v#wf6#1 various#a#wf7#1 serious#a#wf8#1 pathogen#n#wf9#1
+
+ctx_01454856-n(water#n#wf12#09225146-n)#biology
+stickleback#n#wf0#2 small#a#wf1#1 inch#n#tok4#1 pugnacious#a#wf2#1 mostly#r#wf3#1 scaleless#a#wf4#1 spiny-backed#a#wf5#1 fish#n#wf6#1 northern#a#wf8#1 fresh#a#wf9#1 littoral#a#wf11#1 water#n#wf12#1 have#v#wf13#1 elaborate#a#wf14#1 courtship#n#wf15#1 subject#n#wf17#1 research#n#wf20#1
+
+ctx_01500091-n(harmless#a#wf15#01159655-a)#biology
+manta_ray#n#wf0#2 extremely#r#wf1#1 large#a#wf2#1 pelagic#a#wf3#1 tropical#a#wf4#1 ray#n#wf5#1 feed#v#wf7#1 plankton#n#wf9#1 small#a#wf11#1 fish#n#wf12#1 usually#r#wf14#1 harmless#a#wf15#1 size#n#wf18#1 make#v#wf19#1 dangerous#a#wf21#1 harpoon#v#wf23#1
+
+ctx_01523656-n(adapt#v#wf5#00299580-v)#biology
+perching_bird#n#wf0#2 bird#n#wf2#1 foot#n#wf4#1 adapt#v#wf5#1 perch#v#wf7#1 tree_branch#n#wf11#1 order#n#wf16#1 be#v#wf17#1 now#r#wf18#1 generally#r#wf19#1 abandon#v#wf20#1 taxonomist#n#wf22#1
+
+ctx_01525720-n(vocal#a#wf5#02825355-a)#biology
+oscine_bird#n#wf0#2 passerine#a#wf1#1 bird#n#wf2#1 have#v#wf3#1 specialized#a#wf4#1 vocal#a#wf5#1 apparatus#n#wf6#1
+
+ctx_01541922-n(numerous#a#wf3#01552419-a)#biology
+towhee#n#wf0#2 numerous#a#wf3#1 long#a#wf4#1 tailed#a#wf5#1 American#a#wf6#1 finch#n#wf7#1
+
+ctx_01556368-n(insectivorous#a#wf2#00315383-a)#biology
+genus_Pachycephala#n#wf0#2 arboreal#a#wf1#1 insectivorous#a#wf2#1 bird#n#wf3#1
+
+ctx_01604625-n(carnivorous#a#wf3#02680580-a)#biology
+order_Falconiformes#n#wf0#2 chiefly#r#wf1#1 diurnal#a#wf2#1 carnivorous#a#wf3#1 bird#n#wf4#1 have#v#wf5#1 hooked#a#wf6#1 beak#n#wf7#1 long#a#wf9#1 talon#n#wf10#1 opposable#a#wf12#1 hind#a#wf13#1 toe#n#wf14#1 falcon#n#wf16#1 hawk#n#wf18#1 eagle#n#wf20#1 osprey#n#wf22#1 caracara#n#wf24#1 vulture#n#wf26#1
+
+ctx_01614556-n(Asia#n#wf8#09207288-n)#biology
+tawny_eagle#n#wf0#2 brownish#a#wf1#1 eagle#n#wf2#1 Africa#n#wf4#1 part#n#wf6#1 Asia#n#wf8#1
+
+ctx_01627786-n(Devonian#n#wf9#15127982-n)#biology
+genus_Hynerpeton#n#wf0#2 earliest#a#wf1#1 fossil#a#wf2#1 amphibian#n#wf3#1 ever#r#wf4#1 find#v#wf5#1 Devonian#n#wf9#1 find#v#wf11#1 Pennsylvania#n#wf13#1
+
+ctx_01632601-n(salamander#n#wf8#01629276-n)#biology
+tiger_salamander#n#wf0#2 brown#a#wf3#1 black#a#wf5#1 North_American#n#wf6#1 salamander#n#wf8#1 vertical#a#wf10#1 yellowish#a#wf11#1 blotch#n#wf12#1
+
+ctx_01646555-n(Europe#n#wf4#09275473-n)#biology
+European_toad#n#wf0#2 common#a#wf1#1 toad#n#wf2#1 Europe#n#wf4#1
+
+ctx_01666228-n(jaw#n#wf6#05546040-n)#biology
+snapper#n#wf0#2 large-headed#a#wf1#1 turtle#n#wf2#1 powerful#a#wf4#1 hooked#a#wf5#1 jaw#n#wf6#1 find#v#wf7#1 water#n#wf11#1 prone#a#wf13#1 bite#v#wf15#1
+
+ctx_01668436-n(turtle#n#wf2#01662784-n)#biology
+redbelly#n#wf0#2 freshwater#n#wf1#1 turtle#n#wf2#1 Chesapeake_Bay#n#wf4#1 tributary#n#wf6#1 have#v#wf7#1 red#a#wf8#1 marking#n#wf9#1 low#a#wf12#1 shell#n#wf13#1
+
+ctx_01695259-n(alligator#n#wf11#01698434-n)#biology
+subclass_Archosauria#n#wf0#2 large#a#wf2#1 subclass#n#wf3#1 diapsid_reptile#n#wf5#1 include#v#wf7#1 crocodile#n#wf9#1 alligator#n#wf11#1 dinosaur#n#wf13#1 pterosaur#n#wf15#1 plesiosaur#n#wf17#1 ichthyosaur#n#wf19#1 thecodont#n#wf21#1
+
+ctx_01695681-n(ichthyosaur#n#wf11#01724231-n)#biology
+archosaurian_reptile#n#wf0#2 extinct#a#wf1#1 reptile#n#wf2#1 include#v#wf3#1 dinosaur#n#wf5#1 plesiosaur#n#wf7#1 pterosaur#n#wf9#1 ichthyosaur#n#wf11#1 thecodont#n#wf13#1
+
+ctx_01709723-n(herbivorous#a#wf3#00314023-a)#biology
+genus_Barosaurus#n#wf0#2 huge#a#wf1#1 quadrupedal#a#wf2#1 herbivorous#a#wf3#1 dinosaur#n#wf4#1 late#r#wf6#1 Jurassic#a#wf7#1
+
+ctx_01713764-n(serration#n#wf10#08431600-n)#biology
+tyrannosaurus#n#wf0#2 large#a#wf1#1 carnivorous#a#wf2#1 bipedal#a#wf3#1 dinosaur#n#wf4#1 have#v#wf5#1 enormous#a#wf6#1 teeth#n#wf7#1 knifelike#a#wf9#1 serration#n#wf10#1 have#v#wf13#1 be#v#wf14#1 scavenger#n#wf16#1 rather#r#wf17#1 active#a#wf20#1 predator#n#wf21#1 late#r#wf23#1 Cretaceous_period#n#wf24#1 North_America#n#wf27#1
+
+ctx_01756508-n(southwestern_United_States#n#wf10#08563627-n)#biology
+Western_diamondback_rattlesnake#n#wf0#2 large#a#wf1#1 most#r#wf3#1 dangerous#a#wf4#1 North_American#n#wf5#1 snake#n#wf7#1 southwestern_United_States#n#wf10#1 Mexico#n#wf14#1
+
+ctx_01768596-n(appendage#n#wf8#05559908-n)#anatomy
+chelicera#n#wf0#2 first#a#wf4#1 pair#n#wf5#1 fang-like#a#wf7#1 appendage#n#wf8#1 mouth#n#wf11#1 arachnid#n#wf14#1 often#r#wf16#1 modify#v#wf17#1 grasp#v#wf19#1 pierce#v#wf21#1
+
+ctx_01799679-n(large#a#wf1#01382086-a)#biology
+curassow#n#wf0#2 large#a#wf1#1 crested#a#wf2#1 arboreal#a#wf3#1 game_bird#n#wf4#1 warm#a#wf7#1 part#n#wf8#1 America#n#wf11#1 have#v#wf12#1 long#a#wf13#1 leg#n#wf14#1 tail#n#wf16#1 highly#r#wf18#1 esteem#v#wf19#1 game#n#wf21#1 food#n#wf23#1
+
+ctx_01799876-n(bird#n#wf9#01503061-n)#biology
+genus_Penelope#n#wf0#2 genus#n#wf2#1 guan#n#wf4#1 turkey#n#wf6#1 arboreal#a#wf8#1 bird#n#wf9#1 value#v#wf10#1 game#n#wf12#1 food#n#wf14#1 bird#n#wf15#1
+
+ctx_01809752-n(digit#n#wf15#05566097-n)#biology
+stinkbird#n#wf0#2 crested#a#wf1#1 ill-smelling#a#wf2#1 South_American#n#wf3#1 bird#n#wf5#1 young#a#wf7#1 have#n#wf8#1 claw#n#wf9#1 first#a#wf12#1 second#a#wf14#1 digit#n#wf15#1 wing#n#wf18#1
+
+ctx_01812866-n(mistake#v#wf9#00618267-v)#biology
+bandtail#n#wf0#2 wild#a#wf1#1 pigeon#n#wf2#1 western#a#wf4#1 North_America#n#wf5#1 often#r#wf8#1 mistake#v#wf9#1 now#r#wf12#1 extinct#a#wf13#1 passenger_pigeon#n#wf14#1
+
+ctx_01813658-n(cage#v#wf14#02496036-v)#biology
+ringdove#n#wf0#2 greyish#a#wf1#1 Old_World#n#wf2#1 turtledove#n#wf4#1 black#a#wf7#1 band#n#wf8#1 neck#n#wf11#1 often#r#wf13#1 cage#v#wf14#1
+
+ctx_01824035-n(terrestrial#a#wf3#02810102-a)#biology
+roadrunner#n#wf0#2 speedy#a#wf1#1 largely#r#wf2#1 terrestrial#a#wf3#1 bird#n#wf4#1 find#v#wf5#1 California#n#wf7#1 Mexico#n#wf9#1 Texas#n#wf11#1
+
+ctx_01824227-n(ani#n#wf1#01824344-n)#biology
+genus_Crotophaga#n#wf0#2 ani#n#wf1#1
+
+ctx_01837526-n(young#n#wf10#01321579-n)#biology
+oilbird#n#wf0#2 nocturnal#a#wf1#1 fruit-eating#a#wf2#1 bird#n#wf3#1 South_America#n#wf5#1 have#v#wf8#1 fatty#a#wf9#1 young#n#wf10#1 yield#v#wf11#1 oil#n#wf13#1 be#v#wf15#1 use#v#wf16#1 instead#r#wf17#1 butter#n#wf19#1
+
+ctx_01840412-n(large#a#wf1#01382086-a)#biology
+ivorybill#n#wf0#2 large#a#wf1#1 black-and-white#a#wf2#1 woodpecker#n#wf3#1 southern#a#wf5#1 United_States#n#wf6#1 Cuba#n#wf9#1 have#v#wf10#1 ivory#n#wf12#1 bill#n#wf13#1 nearly#r#wf15#1 extinct#a#wf16#1
+
+ctx_01850373-n(region#n#wf8#08630985-n)#biology
+whistler#n#wf0#2 large-headed#a#wf1#1 swift#a#wf2#1 flying#a#wf3#1 diving_duck#n#wf4#1 Arctic#a#wf7#1 region#n#wf8#1
+
+ctx_01861778-n(hair#n#wf12#05254393-n)#biology
+mammalian#n#wf0#2 warm-blooded#a#wf2#1 vertebrate#n#wf3#1 have#v#wf4#1 skin#n#wf6#1 more_or_less#r#wf7#1 covered#a#wf10#1 hair#n#wf12#1 young#a#wf14#1 be_born#v#wf15#1 alive#a#wf17#1 except#v#wf18#1 small#a#wf21#1 subclass#n#wf22#1 monotreme#n#wf24#1 nourish#v#wf26#1 milk#n#wf28#1
+
+ctx_01909422-n(structure#n#wf15#05225602-n)#biology
+coelenterate#n#wf0#2 animal#n#wf3#1 have#v#wf4#1 saclike#a#wf5#1 body#n#wf6#1 only#r#wf8#1 opening#n#wf10#1 tentacle#n#wf12#1 stinging#a#wf14#1 structure#n#wf15#1 occur#v#wf18#1 polyp#n#wf20#1 medusa#n#wf22#1 form#n#wf23#1
+
+ctx_01919714-n(long#a#wf4#01433493-a)#biology
+order_Cydippidea#n#wf0#2 ctenophore#n#wf1#1 have#v#wf2#1 long#a#wf4#1 pinnate#a#wf5#1 tentacle#n#wf6#1
+
+ctx_01924416-n(marine#a#wf1#00124353-a)#biology
+genus_Spadella#n#wf0#2 marine#a#wf1#1 worm#n#wf2#1 resemble#v#wf3#1 sagitta#n#wf5#1 broad#a#wf9#1 body#n#wf10#1 only#r#wf12#1 pair#n#wf14#1 lateral#a#wf16#1 fin#n#wf17#1
+
+ctx_01935997-n(Branchiobdellidae#n#wf5#01935743-n)#biology
+genus_Branchiobdella#n#wf0#2 type_genus#n#wf1#1 Branchiobdellidae#n#wf5#1 small#a#wf8#1 worm#n#wf9#1 live#v#wf11#1 gill#n#wf14#1 surface#n#wf16#1 crayfish#n#wf19#1 attach#v#wf20#1 sucker#n#wf23#1
+
+ctx_01956924-n(clam#n#wf1#01956481-n)#biology
+order_Myaceae#n#wf0#2 clam#n#wf1#1
+
+ctx_01963571-n(mollusk#n#wf5#01940736-n)#biology
+mussel#n#wf0#2 marine#a#wf1#1 freshwater#n#wf3#1 bivalve#a#wf4#1 mollusk#n#wf5#1 live#v#wf7#1 attach#v#wf8#1 rock#n#wf10#1
+
+ctx_02029706-n(upland#n#wf10#09302616-n)#biology
+upland_sandpiper#n#wf0#2 large#a#wf1#1 plover#n#wf2#1 sandpiper#n#wf4#1 North_American#n#wf6#1 field#n#wf8#1 upland#n#wf10#1
+
+ctx_02050313-n(grebe#n#wf4#02050004-n)#biology
+great_crested_grebe#n#wf0#2 large#a#wf1#1 Old_World#n#wf2#1 grebe#n#wf4#1 black#a#wf6#1 ear#n#wf7#1 tuft#n#wf8#1
+
+ctx_02092002-n(deer#n#wf11#02430045-n)#hunting
+deerhound#n#wf0#2 very#r#wf1#1 large#a#wf2#1 tall#a#wf4#1 rough#a#wf5#1 coated#a#wf6#1 dog#n#wf7#1 breed#v#wf8#1 hunt#v#wf10#1 deer#n#wf11#1 know#v#wf13#1 royal#a#wf16#1 dog#n#wf17#1 Scotland#n#wf19#1
+
+ctx_02094562-n(terrier#n#wf6#02092468-n)#hunting
+ratter#n#wf0#2 several#a#wf3#1 breed#n#wf4#1 terrier#n#wf6#1 develop#v#wf7#1 catch#v#wf9#1 rat#n#wf10#1
+
+ctx_02103841-n(guard#v#wf5#02456031-v)#biology
+watchdog#n#wf0#2 dog#n#wf2#1 train#v#wf3#1 guard#v#wf5#1 property#n#wf6#1
+
+ctx_02123242-n(cat#n#wf2#02121620-n)#biology
+tortoiseshell-cat#n#wf0#2 cat#n#wf2#1 have#v#wf3#1 black#a#wf4#1 cream-colored#a#wf6#1 yellowish#a#wf8#1 marking#n#wf9#1
+
+ctx_02132974-n(not#r#wf8#00024073-r)#biology
+genus_Euarctos#n#wf0#2 American_black_bear#n#wf1#1 classification#n#wf7#1 not#r#wf8#1 separate#a#wf10#1 genus#n#wf11#1 Ursus#n#wf13#1
+
+ctx_02139199-n(forelimb#n#wf5#02464785-n)#biology
+chiropteran#n#wf0#2 nocturnal#a#wf1#1 mouselike#a#wf2#1 mammal#n#wf3#1 forelimb#n#wf5#1 modify#v#wf6#1 form#v#wf8#1 membranous#a#wf9#1 wing#n#wf10#1 anatomical#a#wf12#1 adaptation#n#wf13#1 echolocation#n#wf15#1 navigate#v#wf19#1
+
+ctx_02167151-n(metallic#a#wf5#01527420-a)#entomology
+ground_beetle#n#wf0#2 predacious#a#wf1#1 shining#a#wf2#1 black#a#wf3#1 metallic#a#wf5#1 terrestrial#a#wf6#1 beetle#n#wf7#1 destroy#v#wf9#1 injurious#a#wf11#1 insect#n#wf12#1
+
+ctx_02231930-n(leaf_insect#n#wf1#02232223-n)#biology
+family_Phyllidae#n#wf0#2 leaf_insect#n#wf1#1
+
+ctx_02249809-n(fruit_tree#n#wf12#12651821-n)#entomology
+San_Jose_scale#n#wf0#2 small#a#wf1#1 east#a#wf2#1 Asian#a#wf3#1 insect#n#wf4#1 naturalize#v#wf5#1 United_States#n#wf8#1 damage#v#wf11#1 fruit_tree#n#wf12#1
+
+ctx_02292980-n(plant#n#wf11#00017222-n)#entomology
+gracilariid_moth#n#wf0#2 small#a#wf1#1 dull#a#wf2#1 metallic-colored#a#wf4#1 tineoid_moth#n#wf5#1 larva#n#wf8#1 mine#n#wf9#1 plant#n#wf11#1 leaf#n#wf12#1
+
+ctx_02340640-n(Mexico#n#wf8#08740875-n)#biology
+rice_rat#n#wf0#2 hardy#a#wf1#1 agile#a#wf2#1 rat#n#wf3#1 grassy#a#wf5#1 marsh#n#wf6#1 Mexico#n#wf8#1 southeastern_United_States#n#wf11#1
+
+ctx_02366002-n(Central_America#n#wf6#08735705-n)#biology
+agouti#n#wf0#2 agile#a#wf1#1 long-legged#a#wf2#1 rabbit-sized#a#wf3#1 rodent#n#wf4#1 Central_America#n#wf6#1 South_America#n#wf9#1 West_Indies#n#wf13#1 value#v#wf16#1 food#n#wf18#1
+
+ctx_02389346-n(ear#n#wf9#05323889-n)#biology
+ass#n#wf0#2 hardy#a#wf1#1 sure-footed#a#wf3#1 animal#n#wf4#1 smaller#a#wf5#1 long#a#wf8#1 ear#n#wf9#1 horse#n#wf12#1
+
+ctx_02390101-n(female_horse#n#wf9#02377480-n)#biology
+mule#n#wf0#2 hybrid#a#wf1#1 offspring#n#wf2#1 male#a#wf5#1 donkey#n#wf6#1 female_horse#n#wf9#1 usually#r#wf12#1 sterile#a#wf13#1
+
+ctx_02396088-n(adult#a#wf2#01488616-a)#biology
+sow#n#wf0#2 adult#a#wf2#1 female#a#wf3#1 hog#n#wf4#1
+
+ctx_02402425-n(regardless#r#wf7#00118531-r)#biology
+oxen#n#wf0#2 domesticated#a#wf1#1 bovine#a#wf2#1 animal#n#wf3#1 group#n#wf6#1 regardless#r#wf7#1 sex#n#wf9#1 age#n#wf11#1
+
+ctx_02434712-n(antler#n#wf7#01325658-n)#biology
+brocket#n#wf0#2 small#a#wf1#1 South_American#n#wf2#1 deer#n#wf4#1 unbranched#a#wf6#1 antler#n#wf7#1
+
+ctx_02434954-n(bark#n#wf12#07376621-n)#biology
+muntjac#n#wf0#2 small#a#wf1#1 Asian#a#wf2#1 deer#n#wf3#1 small#a#wf5#1 antler#n#wf6#1 cry#n#wf9#1 bark#n#wf12#1
+
+ctx_02451415-n(long#a#wf1#01433493-a)#biology
+tayra#n#wf0#2 long#a#wf1#1 tailed#a#wf2#1 arboreal#a#wf3#1 mustelid#n#wf4#1 Central_America#n#wf6#1 South_America#n#wf9#1
+
+ctx_02487675-n(hair#n#wf9#05254795-n)#biology
+crown_monkey#n#wf0#2 Indian#a#wf1#1 macaque#n#wf2#1 bonnet#n#wf5#1 tuft#n#wf7#1 hair#n#wf9#1
+
+ctx_02507148-n(walk#v#wf4#01904930-v)#biology
+digitigrade_mammal#n#wf0#2 animal#n#wf2#1 walk#v#wf4#1 so#r#wf5#1 only#r#wf7#1 toe#n#wf9#1 touch#v#wf10#1 ground#n#wf12#1 dog#n#wf15#1 cat#n#wf17#1 horse#n#wf19#1
+
+ctx_02525120-n(elongated#a#wf1#01434007-a)#biology
+ling#n#wf0#2 elongated#a#wf1#1 marine#a#wf2#1 food_fish#n#wf3#1 Greenland#n#wf6#1 northern_Europe#n#wf8#1 often#r#wf11#1 salt#v#wf12#1 dry#v#wf14#1
+
+ctx_02589796-n(Louisiana#n#wf7#09090825-n)#biology
+pompon#n#wf0#2 dusky#a#wf1#1 grey#a#wf2#1 food_fish#n#wf3#1 find#v#wf5#1 Louisiana#n#wf7#1 Florida#n#wf9#1 southward#n#wf10#1
+
+ctx_02621419-n(Acanthuridae#n#wf5#02621107-n)#biology
+genus_Acanthurus#n#wf0#2 type_genus#n#wf1#1 Acanthuridae#n#wf5#1 doctorfish#n#wf7#1
+
+ctx_02629230-n(flake#v#wf7#01585276-v)#biology
+oceanic_bonito#n#wf0#2 fish#n#wf1#1 flesh#n#wf3#1 be#v#wf4#1 dry#v#wf5#1 flake#v#wf7#1 Japanese#a#wf9#1 cookery#n#wf10#1 be#v#wf13#1 same#a#wf14#1 species#n#wf15#1 skipjack_tuna#n#wf17#1
+
+ctx_02643112-n(marine#a#wf1#00124353-a)#biology
+sea_scorpion#n#wf0#2 marine#a#wf1#1 fish#n#wf2#1 have#v#wf3#1 tapering#a#wf5#1 body#n#wf6#1 armored#a#wf9#1 head#n#wf10#1 venomous#a#wf12#1 spine#n#wf13#1
+
+ctx_02724722-n(rocket#n#wf6#04099429-n)#nautical
+anti-submarine_rocket#n#wf0#2 shipboard_system#n#wf2#1 fire#v#wf5#1 rocket#n#wf6#1 submarine#n#wf8#1
+
+ctx_02724966-n(inflammation#n#wf26#14336539-n)#pharmacy
+anti-TNF_compound#n#wf0#2 class#n#wf2#1 drug#n#wf4#1 block#v#wf6#1 action#n#wf8#1 tumor_necrosis_factor#n#wf10#1 use#v#wf17#1 case#n#wf19#1 rheumatoid_arthritis#n#wf21#1 instigate#v#wf25#1 inflammation#n#wf26#1 joint#n#wf29#1
+
+ctx_02738741-n(helmet#n#wf3#03513376-n)#military
+armet#n#wf0#2 medieval#a#wf2#1 helmet#n#wf3#1 visor#n#wf6#1 neck#n#wf9#1 guard#n#wf10#1
+
+ctx_02780815-n(short#a#wf2#01436003-a)#fashion
+tutu#n#wf0#2 very#r#wf1#1 short#a#wf2#1 skirt#n#wf3#1 wear#v#wf4#1 ballerina#n#wf6#1
+
+ctx_02802426-n(basketball#n#wf7#00480993-n)#play
+basketball#n#wf0#2 inflated#a#wf2#1 ball#n#wf3#1 use#v#wf4#1 play#v#wf6#1 basketball#n#wf7#1
+
+ctx_02824152-n(mountain_climbing#n#wf20#00325785-n)#transport
+belaying_pin#n#wf0#2 wood#n#wf2#1 metal_bar#n#wf4#1 rope#n#wf9#1 be#v#wf11#1 secure#v#wf12#1 ship#n#wf17#1 mountain_climbing#n#wf20#1
+
+ctx_02841847-n(biological_agent#n#wf12#09221424-n)#fashion
+biohazard_suit#n#wf0#2 loose#a#wf2#1 one-piece#a#wf3#1 garment#n#wf4#1 wear#v#wf5#1 protect#v#wf7#1 wearer#n#wf9#1 dangerous#a#wf11#1 biological_agent#n#wf12#1 chemical_agent#n#wf14#1
+
+ctx_02843158-n(usually#r#wf5#00106921-r)#factotum
+birdbath#n#wf0#2 ornamental#a#wf2#1 basin#n#wf3#1 usually#r#wf5#1 garden#n#wf8#1 bird#n#wf11#1 bathe#v#wf13#1
+
+ctx_02932019-n(enclosed#a#wf2#01656628-a)#transport
+cabin#n#wf0#2 enclosed#a#wf2#1 compartment#n#wf3#1 aircraft#n#wf6#1 spacecraft#n#wf8#1 passenger#n#wf10#1 be#v#wf11#1 carry#v#wf12#1
+
+ctx_02933990-n(transmit#v#wf5#00973056-v)#tv
+cable_television_service#n#wf0#2 television_system#n#wf2#1 transmit#v#wf5#1 cable#n#wf7#1
+
+ctx_02935017-n(memory#n#wf2#03744276-n)#computer_science
+memory_cache#n#wf0#2 computer#n#tok2#1 science#n#tok3#1 memory#n#wf2#1 be#v#wf4#1 set_aside#v#wf5#1 specialize#v#wf9#1 buffer_storage#n#wf10#1 be#v#wf13#1 continually#r#wf14#1 update#v#wf15#1 use#v#wf17#1 optimize#v#wf19#1 data#n#wf20#1 transfer#n#wf21#1 system#n#wf23#1 element#n#wf24#1 different#a#wf26#1 characteristic#n#wf27#1
+
+ctx_02944579-n(make#v#wf22#02621395-v)#industry
+camouflage#n#wf0#2 fabric#n#wf1#1 dye#v#wf2#1 splotch#n#wf4#1 green#a#wf6#1 brown#a#wf8#1 black#a#wf10#1 tan#a#wf12#1 intend#v#wf14#1 make#v#wf16#1 wearer#n#wf18#1 garment#n#wf21#1 make#v#wf22#1 fabric#n#wf25#1 hard#a#wf26#1 distinguish#v#wf28#1 background#n#wf31#1
+
+ctx_02960903-n(stopper#n#wf5#03967942-n)#factotum
+decanter#n#wf0#2 bottle#n#wf2#1 stopper#n#wf5#1 serve#v#wf8#1 wine#n#wf9#1 water#n#wf11#1
+
+ctx_02966068-n(16th#a#wf9#02204131-a)#transport
+caroche#n#wf0#2 luxurious#a#wf2#1 carriage#n#wf3#1 suitable#a#wf4#1 nobility#n#wf6#1 16th#a#wf9#1 17th#a#wf11#1 century#n#wf12#1
+
+ctx_02969163-n(timber#n#wf5#04436329-n)#factotum
+carriage_bolt#n#wf0#2 roundheaded#a#wf2#1 bolt#n#wf3#1 timber#n#wf5#1 thread#v#wf7#1 part#n#wf9#1 shank#n#wf12#1 insert#v#wf14#1 hole#n#wf16#1 already#r#wf17#1 drill#v#wf18#1
+
+ctx_02986605-n(building#n#wf17#02913152-n)#transport
+catwalk#n#wf0#2 narrow#a#wf1#1 pathway#n#wf2#1 high#a#wf3#1 air#n#wf6#1 stage#n#wf11#1 part#n#wf14#1 building#n#wf17#1 bridge#n#wf21#1
+
+ctx_02994012-n(sailboat#n#wf7#04128499-n)#tourism
+sliding_keel#n#wf0#2 retractable#a#wf2#1 fin_keel#n#wf3#1 use#v#wf5#1 sailboat#n#wf7#1 prevent#v#wf9#1 drifting#a#wf10#1 leeward#n#wf12#1
+
+ctx_02994419-n(place#v#wf2#01494310-v)#furniture
+centrepiece#n#wf0#2 place#v#wf2#1 center#n#wf5#1 table#n#wf13#1
+
+ctx_03015975-n(inverted#a#wf2#02467559-a)#heraldry
+chevron#n#wf0#2 inverted#a#wf2#1 V#n#wf3#1 shaped#a#wf4#1 charge#n#wf5#1
+
+ctx_03023175-n(tranquilizer#n#wf22#04470232-n)#pharmacy
+chlorpromazine#n#wf0#2 drug#n#wf2#1 trade_name#n#wf4#1 Thorazine#n#wf6#1 derive#v#wf8#1 phenothiazine#n#wf10#1 have#v#wf12#1 antipsychotic#n#wf13#1 effect#n#wf14#1 be#v#wf16#1 use#v#wf17#1 sedative#n#wf20#1 tranquilizer#n#wf22#1
+
+ctx_03028907-n(racetrack#n#wf2#04037625-n)#town_planning
+Churchill_Downs#n#wf0#2 racetrack#n#wf2#1 thoroughbred_racing#n#wf4#1 Louisville#n#wf7#1 site#n#wf9#1 Kentucky_Derby#n#wf12#1
+
+ctx_03056215-n(coal#n#wf4#14814616-n)#industry
+coal_chute#n#wf0#2 chute#n#wf2#1 coal#n#wf4#1
+
+ctx_03065243-n(sergeant-at-law#n#wf21#10581890-n)#fashion
+coif#n#wf0#2 skullcap#n#wf2#1 wear#v#wf3#1 nun#n#wf5#1 veil#n#wf8#1 soldier#n#wf11#1 hood#n#wf14#1 mail#n#wf16#1 formerly#r#wf18#1 British#a#wf20#1 sergeant-at-law#n#wf21#1
+
+ctx_03167464-n(fix#v#wf6#01340439-v)#art
+decalcomania#n#wf0#2 design#n#wf3#1 be#v#wf5#1 fix#v#wf6#1 surface#n#wf9#1 paper#n#wf12#1 bear#v#wf13#1 design#n#wf15#1 be#v#wf17#1 be#v#wf19#1 transfer#v#wf20#1 surface#n#wf23#1
+
+ctx_03188168-n(point#n#wf5#03974215-n)#publishing
+diamond_point#n#wf0#2 very#r#wf2#1 hard#a#wf3#1 small#a#wf4#1 point#n#wf5#1 make#v#wf6#1 diamond#n#wf9#1
+
+ctx_03192907-n(external#a#wf16#00948103-a)#buildings
+die#n#wf0#2 cutting_tool#n#wf2#1 be#v#wf5#1 fit#v#wf6#1 diestock#n#wf9#1 use#v#wf11#1 cut#v#wf13#1 male#n#wf14#1 external#a#wf16#1 screw_thread#n#wf18#1 screw#n#wf21#1 bolt#n#wf23#1 pipe#n#wf25#1 rod#n#wf27#1
+
+ctx_03199775-n(dining#n#wf12#00840517-n)#buildings
+dinette#n#wf0#2 small#a#wf2#1 area#n#wf3#1 off#r#wf4#1 kitchen#n#wf7#1 be#v#wf9#1 use#v#wf10#1 dining#n#wf12#1
+
+ctx_03242264-n(refrigerator#n#wf4#04070727-n)#home
+drip_pan#n#wf0#2 pan#n#wf1#1 refrigerator#n#wf4#1 collect#v#wf6#1 liquid#a#wf7#1 waste#n#wf8#1
+
+ctx_03249569-n(membrane#n#wf14#03743761-n)#music
+tympan#n#wf0#2 musical#a#wf2#1 percussion_instrument#n#wf3#1 usually#r#wf6#1 consist#v#wf7#1 hollow#a#wf10#1 cylinder#n#wf11#1 membrane#n#wf14#1 stretch#v#wf15#1 end#n#wf18#1
+
+ctx_03260293-n(explosive#a#wf2#00474620-a)#chemistry
+dynamite#n#wf0#2 explosive#a#wf2#1 contain#v#wf3#1 nitrate#n#wf4#1 sensitized#a#wf5#1 nitroglycerin#n#wf7#1 absorb#v#wf8#1 wood_pulp#n#wf10#1
+
+ctx_03274796-n(conductor#n#wf2#03088707-n)#electrotechnology
+electrode#n#wf0#2 conductor#n#wf2#1 use#v#wf3#1 make#v#wf5#1 electrical_contact#n#wf6#1 part#n#wf10#1 circuit#n#wf13#1
+
+ctx_03276179-n(temporary#a#wf2#01755627-a)#electronics
+electromagnet#n#wf0#2 temporary#a#wf2#1 magnet#n#wf3#1 make#v#wf4#1 coil#v#wf6#1 wire#n#wf7#1 iron#a#wf10#1 core#n#wf11#1 current#n#wf14#1 flow#v#wf15#1 coil#n#wf18#1 iron#n#wf20#1 become#v#wf21#1 magnet#n#wf23#1
+
+ctx_03286878-n(insert#v#wf5#01421622-v)#hydraulics
+endotracheal_tube#n#wf0#2 catheter#n#wf2#1 be#v#wf4#1 insert#v#wf5#1 trachea#n#wf8#1 mouth#n#wf11#1 nose#n#wf13#1 order#n#wf15#1 maintain#v#wf17#1 open#a#wf19#1 air_passage#n#wf20#1 deliver#v#wf24#1 oxygen#n#wf25#1 permit#v#wf28#1 suction#v#wf30#1 mucus#n#wf32#1 prevent#v#wf35#1 aspiration#n#wf36#1 stomach#n#wf39#1 content#n#wf40#1
+
+ctx_03319457-n(masquerade_costume#n#wf8#03320519-n)#fashion
+false_face#n#wf0#2 mask#n#wf2#1 wear#v#wf3#1 part#n#wf5#1 masquerade_costume#n#wf8#1
+
+ctx_03330792-n(listen#v#wf10#02171039-v)#medicine
+foetoscope#n#wf0#2 stethoscope#n#wf2#1 place#v#wf3#1 pregnant#a#wf6#1 woman#n#wf7#1 abdomen#n#wf8#1 listen#v#wf10#1 fetal#a#wf13#1 heartbeat#n#wf14#1
+
+ctx_03334492-n(small#a#wf2#01391351-a)#music
+fife#n#wf0#2 small#a#wf2#1 high-pitched#a#wf3#1 flute#n#wf4#1 similar#a#wf5#1 piccolo#n#wf8#1 have#v#wf10#1 shrill#a#wf12#1 tone#n#wf13#1 be#v#wf15#1 use#v#wf16#1 chiefly#r#wf17#1 accompany#v#wf19#1 drum#n#wf20#1 marching#n#wf23#1 band#n#wf24#1
+
+ctx_03336839-n(steel#n#wf2#14802450-n)#industry
+file#n#wf0#2 steel#n#wf2#1 hand_tool#n#wf3#1 small#a#wf6#1 sharp#a#wf7#1 teeth#n#wf8#1 all#r#wf12#1 surface#n#wf15#1 use#v#wf17#1 smooth#v#wf19#1 wood#n#wf20#1 metal#n#wf22#1
+
+ctx_03356446-n(flaming#a#wf2#01256735-a)#factotum
+flambeau#n#wf0#2 flaming#a#wf2#1 torch#n#wf3#1 such#r#wf5#1 be#v#wf7#1 use#v#wf8#1 procession#n#wf10#1 night#n#wf12#1
+
+ctx_03356670-n(Rome#n#wf18#08806897-n)#transport
+Flaminian_Way#n#wf0#2 ancient#a#wf2#1 Roman#a#wf3#1 road#n#wf4#1 Italy#n#wf6#1 build#v#wf7#1 Gaius_Flaminius#n#wf9#1 extend#v#wf15#1 north#r#wf16#1 Rome#n#wf18#1 cisalpine#a#wf20#1 Gaul#n#wf21#1
+
+ctx_03357081-n(tweed#n#wf8#04502502-n)#fashion
+white#n#wf0#2 usually#r#tok2#1 plural#n#tok5#1 trouser#n#wf1#1 make#v#wf2#1 flannel#n#wf4#1 gabardine#n#wf6#1 tweed#n#wf8#1 white#a#wf10#1 cloth#n#wf11#1
+
+ctx_03365592-n(horizontal_surface#n#wf4#03536348-n)#buildings
+flooring#n#wf0#2 inside#r#wf2#1 low#r#wf3#1 horizontal_surface#n#wf4#1 room#n#wf10#1 hallway#n#wf12#1 tent#n#wf14#1 other#a#wf17#1 structure#n#wf18#1
+
+ctx_03388549-n(post#n#wf4#03988170-n)#furniture
+four-poster#n#wf0#2 bed#n#wf2#1 post#n#wf4#1 corner#n#wf8#1 be#v#wf11#1 use#v#wf12#1 support#v#wf14#1 canopy#n#wf16#1 curtain#n#wf18#1
+
+ctx_03421669-n(car#n#wf2#02958343-n)#transport
+gas_guzzler#n#wf0#2 car#n#wf2#1 relatively#r#wf4#1 low#a#wf5#1 fuel#n#wf6#1 efficiency#n#wf7#1
+
+ctx_03446070-n(golf_ball#n#wf10#03445777-n)#golf
+golf_club#n#wf0#2 golf_equipment#n#wf1#1 use#v#wf3#1 golfer#n#wf6#1 hit#v#wf8#1 golf_ball#n#wf10#1
+
+ctx_03446528-n(golf#n#wf10#00464894-n)#golf
+links_course#n#wf0#2 course#n#wf1#1 consist#v#wf2#1 large#a#wf5#1 landscaped#a#wf6#1 area#n#wf7#1 play#v#wf9#1 golf#n#wf10#1
+
+ctx_03496042-n(boat#n#wf12#02858304-n)#factotum
+harpoon_line#n#wf0#2 strong#a#wf2#1 rope#n#wf3#1 make#v#wf5#1 catch#n#wf7#1 fast#a#wf8#1 harpooner#n#wf11#1 boat#n#wf12#1
+
+ctx_03511175-n(fence#n#wf2#03327234-n)#factotum
+hedgerow#n#wf0#2 fence#n#wf2#1 form#v#wf3#1 row#n#wf6#1 closely#r#wf8#1 planted#a#wf9#1 shrub#n#wf10#1 bush#n#wf12#1
+
+ctx_03524840-n(east#a#wf14#00323786-r)#buildings
+hogan#n#wf0#2 Navajo#n#wf2#1 lodge#n#wf3#1 cover#v#wf4#1 earth#n#wf6#1 traditionally#r#wf8#1 build#v#wf9#1 entrance#n#wf12#1 face#v#wf13#1 east#a#wf14#1
+
+ctx_03614007-n(like#n#wf22#05845888-n)#publishing
+keyboard#n#wf0#2 device#n#wf1#1 consist#v#wf2#1 set#n#wf5#1 key#n#wf7#1 piano#n#wf10#1 organ#n#wf12#1 typewriter#n#wf14#1 typesetting_machine#n#wf16#1 computer#n#wf19#1 like#n#wf22#1
+
+ctx_03638883-n(weight#n#wf6#04571088-n)#transport
+landing_gear#n#wf0#2 undercarriage#n#wf2#1 support#v#wf4#1 weight#n#wf6#1 plane#n#wf9#1 be#v#wf12#1 ground#n#wf15#1
+
+ctx_03662601-n(design#v#wf5#00709625-v)#nautical
+lifeboat#n#wf0#2 strong#a#wf2#1 sea_boat#n#wf3#1 design#v#wf5#1 rescue#v#wf7#1 people#n#wf8#1 sinking#n#wf11#1 ship#n#wf12#1
+
+ctx_03668642-n(graphic#a#wf5#02285278-a)#factotum
+semblance#n#wf0#2 picture#n#wf1#1 consist#v#wf2#1 graphic#a#wf5#1 image#n#wf6#1 person#n#wf9#1 thing#n#wf11#1
+
+ctx_03669886-n(instantaneous#a#wf16#00979031-a)#electronics
+limiter#n#wf0#2 electronics#n#tok2#1 nonlinear#a#wf2#1 electronic#a#wf3#1 circuit#n#wf4#1 output#n#wf6#1 be#v#wf7#1 limit#v#wf8#1 amplitude#n#wf10#1 use#v#wf12#1 limit#v#wf14#1 instantaneous#a#wf16#1 amplitude#n#wf17#1 waveform#n#wf20#1 clip#v#wf23#1 peak#n#wf26#1 waveform#n#wf29#1
+
+ctx_03678362-n(conveyance#n#wf1#03100490-n)#transport
+litter#n#wf0#2 conveyance#n#wf1#1 consist#v#wf2#1 chair#n#wf5#1 bed#n#wf7#1 carry#v#wf8#1 pole#n#wf11#1 bearer#n#wf13#1
+
+ctx_03699591-n(large#a#wf2#01382086-a)#military
+panga#n#wf0#2 large#a#wf2#1 heavy#a#wf3#1 knife#n#wf4#1 use#v#wf5#1 Central_America#n#wf7#1 South_America#n#wf9#1 weapon#n#wf13#1 cut#v#wf16#1 vegetation#n#wf17#1
+
+ctx_03721384-n(wooden#a#wf5#02576489-a)#music
+xylophone#n#wf0#2 percussion_instrument#n#wf2#1 wooden#a#wf5#1 bar#n#wf6#1 tune#v#wf7#1 produce#v#wf9#1 chromatic_scale#n#wf11#1 resonator#n#wf15#1 play#v#wf17#1 small#a#wf19#1 mallet#n#wf20#1
+
+ctx_03767459-n(stencil#n#wf7#04314216-n)#publishing
+mimeograph_machine#n#wf0#2 rotary#a#wf2#1 duplicator#n#wf3#1 use#v#wf5#1 stencil#n#wf7#1 ink#n#wf10#1 be#v#wf11#1 press#v#wf12#1 trademark#n#wf14#1 Roneo#n#wf16#1
+
+ctx_03776291-n(delicately#r#wf6#00102463-r)#sculpture
+mobile#n#wf0#2 sculpture#n#wf1#1 suspend#v#wf2#1 midair#n#wf4#1 delicately#r#wf6#1 balanced#a#wf7#1 part#n#wf8#1 be#v#wf10#1 set_in_motion#v#wf11#1 air_current#n#wf15#1
+
+ctx_03777961-n(self-conscious#a#wf9#00570991-a)#art
+modernism#n#wf0#2 genre#n#wf1#1 art#n#wf3#1 literature#n#wf5#1 make#v#wf7#1 self-conscious#a#wf9#1 break#n#wf10#1 previous#a#wf12#1 genre#n#wf13#1
+
+ctx_03798729-n(lens_implant#n#wf4#03657239-n)#medicine
+multifocal_lens_implant#n#wf0#2 type#n#wf2#1 lens_implant#n#wf4#1 contain#v#wf7#1 several#a#wf8#1 ring#n#wf9#1 common#a#wf12#1 center#n#wf13#1 adjust#v#wf15#1 near#a#wf17#1 far#a#wf19#1 vision#n#wf20#1 eye#n#wf23#1 be#v#wf24#1 focus#n#wf26#1 near#a#wf28#1 far#a#wf30#1 vision#n#wf31#1 simultaneously#r#wf32#1
+
+ctx_03828155-n(bind#v#wf8#00567291-v)#pharmacy
+non-nucleoside_reverse_transcriptase_inhibitor#n#wf0#2 antiviral_drug#n#wf2#1 use#v#wf4#1 HIV#n#wf6#1 bind#v#wf8#1 directly#r#wf9#1 reverse_transcriptase#n#wf11#1 prevent#v#wf14#1 conversion#n#wf16#1 often#r#wf20#1 use#v#wf21#1 combination#n#wf23#1 other#a#wf25#1 drug#n#wf26#1
+
+ctx_03852280-n(vision#n#wf6#05654362-n)#optics
+optical_instrument#n#wf0#2 instrument#n#wf2#1 design#v#wf3#1 aid#v#wf5#1 vision#n#wf6#1
+
+ctx_03865371-n(overnight#a#wf12#01441530-a)#tourism
+overnighter#n#wf0#2 small#a#wf2#1 traveling_bag#n#wf3#1 carry#v#wf6#1 clothing#n#wf7#1 accessory#n#wf9#1 stay#v#wf11#1 overnight#a#wf12#1
+
+ctx_03867854-n(end#n#wf14#08566028-n)#factotum
+oxbow#n#wf0#2 wooden#a#wf2#1 framework#n#wf3#1 bend#v#wf4#1 shape#n#wf7#1 U#n#wf10#1 upper#a#wf13#1 end#n#wf14#1 be#v#wf15#1 attach#v#wf16#1 horizontal#a#wf19#1 yoke#n#wf20#1 loop#n#wf23#1 go#v#wf24#1 neck#n#wf27#1 ox#n#wf30#1
+
+ctx_03925226-n(person#n#wf5#00007846-n)#photography
+picture#n#wf0#2 representation#n#wf2#1 person#n#wf5#1 scene#n#wf7#1 form#n#wf10#1 print#n#wf13#1 transparent#a#wf15#1 slide#n#wf16#1 record#v#wf18#1 camera#n#wf21#1 light-sensitive#a#wf23#1 material#n#wf24#1
+
+ctx_03945615-n(wind_instrument#n#wf3#04586932-n)#music
+pipe#n#wf0#2 tubular#a#wf2#1 wind_instrument#n#wf3#1
+
+ctx_03951453-n(measuring_instrument#n#wf1#03733925-n)#metrology
+Pitot_tube#n#wf0#2 measuring_instrument#n#wf1#1 consist#v#wf3#1 right-angled#a#wf6#1 tube#n#wf7#1 open#a#wf10#1 end#n#wf11#1 be#v#wf13#1 direct#v#wf14#1 opposition#n#wf16#1 flow#n#wf19#1 fluid#n#wf22#1 use#v#wf24#1 measure#v#wf26#1 velocity#n#wf28#1 fluid#a#wf30#1 flow#n#wf31#1
+
+ctx_03964744-n(artifact#n#wf2#00021939-n)#play
+toy#n#wf0#2 artifact#n#wf2#1 design#v#wf3#1 be#v#wf5#1 play#v#wf6#1
+
+ctx_04000480-n(clamp#n#wf1#03036866-n)#factotum
+press#n#wf0#2 clamp#n#wf1#1 prevent#v#wf3#1 wooden#a#wf4#1 racket#n#wf5#1 warp#v#wf7#1 not#r#wf9#1
+
+ctx_04010779-n(people#n#wf7#07942152-n)#tv
+prompter#n#wf0#2 device#n#wf2#1 display#v#wf4#1 word#n#wf5#1 people#n#wf7#1 read#v#wf9#1
+
+ctx_04056599-n(boat#n#wf12#02858304-n)#buildings
+ravehook#n#wf0#2 hooked#a#wf2#1 hand_tool#n#wf3#1 use#v#wf5#1 prepare#v#wf7#1 seam#n#wf9#1 boat#n#wf12#1 oakum#n#wf14#1
+
+ctx_04081281-n(eat#v#wf7#01166351-v)#town_planning
+restaurant#n#wf0#2 building#n#wf2#1 people#n#wf4#1 go#v#wf5#1 eat#v#wf7#1
+
+ctx_04115670-n(usually#r#wf11#00106921-r)#factotum
+row_of_bricks#n#wf0#2 course#n#wf2#1 brick#n#wf4#1 place#n#wf5#1 next#a#wf6#1 other#a#wf9#1 usually#r#wf11#1 straight_line#n#wf14#1
+
+ctx_04117464-n(change#n#wf18#11412727-n)#aviation
+rudder#n#wf0#2 hinge#v#wf2#1 vertical#a#wf3#1 airfoil#n#wf4#1 mount#v#wf5#1 tail#n#wf8#1 aircraft#n#wf11#1 use#v#wf13#1 make#v#wf15#1 horizontal#a#wf16#1 course#n#wf17#1 change#n#wf18#1
+
+ctx_04168840-n(movement#n#wf15#00331950-n)#metrology
+seismograph#n#wf0#2 measuring_instrument#n#wf2#1 detect#v#wf5#1 measure#v#wf7#1 intensity#n#wf9#1 direction#n#wf11#1 duration#n#wf13#1 movement#n#wf15#1 ground#n#wf18#1 earthquake#n#wf22#1
+
+ctx_04201297-n(translucent#a#wf2#00432626-a)#factotum
+shoji#n#wf0#2 translucent#a#wf2#1 screen#n#wf3#1 make#v#wf4#1 wooden#a#wf7#1 frame#n#wf8#1 cover#v#wf9#1 rice_paper#n#wf11#1
+
+ctx_04210120-n(read#v#wf16#00625119-v)#factotum
+shredder#n#wf0#2 device#n#wf2#1 shred#n#wf4#1 document#n#wf5#1 usually#r#wf7#1 order#n#wf9#1 prevent#v#wf11#1 wrong#a#wf13#1 people#n#wf14#1 read#v#wf16#1
+
+ctx_04229363-n(make#v#wf3#02621395-v)#transport
+skid_road#n#wf0#2 road#n#wf2#1 make#v#wf3#1 log#n#wf5#1 freshly#r#wf8#1 cut#v#wf9#1 timber#n#wf10#1 be#v#wf12#1 haul#v#wf13#1
+
+ctx_04233960-n(acoustic_device#n#wf1#02676261-n)#acoustics
+slapstick#n#wf0#2 acoustic_device#n#wf1#1 consist#v#wf3#1 paddle#n#wf6#1 hinge#v#wf7#1 together#r#wf8#1 use#v#wf10#1 actor#n#wf13#1 make#v#wf15#1 loud#a#wf17#1 noise#n#wf18#1 inflict#v#wf20#1 injury#n#wf21#1 striking#a#wf23#1 someone#n#wf24#1
+
+ctx_04241042-n(rope#n#wf18#04108268-n)#factotum
+slipknot#n#wf0#2 knot#n#wf2#1 end#n#wf5#1 cord#n#wf8#1 rope#n#wf10#1 slip#v#wf13#1 cord#n#wf16#1 rope#n#wf18#1 be#v#wf22#1 make#v#wf23#1
+
+ctx_04241249-n(slip_off#v#wf13#00051370-v)#fashion
+slip-on#n#wf0#2 article_of_clothing#n#wf2#1 garment#n#wf6#1 shoe#n#wf8#1 be#v#wf11#1 easily#r#wf12#1 slip_off#v#wf13#1
+
+ctx_04254319-n(fast#a#wf11#00976508-a)#factotum
+soap_flakes#n#wf0#2 soap#n#wf1#1 have#v#wf3#1 be#v#wf4#1 cut#v#wf5#1 flake#n#wf7#1 make#v#wf9#1 suds#n#wf10#1 fast#a#wf11#1
+
+ctx_04256318-n(electric_current#n#wf5#11443532-n)#factotum
+sodium-vapour_lamp#n#wf0#2 lamp#n#wf1#1 electric_current#n#wf5#1 pass_through#v#wf7#1 tube#n#wf10#1 sodium#n#wf12#1 vapor#n#wf13#1 make#v#wf14#1 yellow#a#wf16#1 light#n#wf17#1 use#v#wf19#1 be#v#wf20#1 street#n#wf21#1 lighting#n#wf22#1
+
+ctx_04267985-n(fine#a#wf5#02414031-a)#hydraulics
+sparge_pipe#n#wf0#2 horizontal#a#wf2#1 pipe#n#wf3#1 have#v#wf4#1 fine#a#wf5#1 hole#n#wf6#1 drill#v#wf7#1 length#n#wf10#1 so#r#wf11#1 deliver#v#wf14#1 spray#n#wf16#1 water#n#wf18#1
+
+ctx_04340019-n(parking_lot#n#wf26#08615638-n)#commerce
+strip_mall#n#wf0#2 mercantile_establishment#n#wf2#1 consist#v#wf4#1 row#n#wf7#1 various#a#wf9#1 store#n#wf10#1 business#n#wf12#1 restaurant#n#wf14#1 road#n#wf17#1 busy#a#wf19#1 street#n#wf20#1 usually#r#wf22#1 open#v#wf23#1 parking_lot#n#wf26#1
+
+ctx_04381860-n(work_surface#n#wf4#04603558-n)#furniture
+tabletop#n#wf0#2 top#a#wf2#1 horizontal#a#wf3#1 work_surface#n#wf4#1 table#n#wf8#1
+
+ctx_04385799-n(airfoil#n#wf6#02688443-n)#tourism
+tail_rotor#n#wf0#2 rotor#n#wf1#1 consist#v#wf2#1 rotate#v#wf5#1 airfoil#n#wf6#1 tail#n#wf9#1 single-rotor_helicopter#n#wf12#1 keep#v#wf16#1 helicopter#n#wf18#1 spin#v#wf20#1 direction#n#wf23#1 opposite#a#wf24#1 rotation#n#wf27#1 main_rotor#n#wf30#1
+
+ctx_04395332-n(hang#v#wf8#01482075-v)#military
+tasset#n#wf0#2 piece#n#wf4#1 armor_plate#n#wf6#1 hang#v#wf8#1 fauld#n#wf11#1 protect#v#wf13#1 upper#a#wf15#1 thigh#n#wf16#1
+
+ctx_04426184-n(electric_locomotive#n#wf11#03272562-n)#railway
+third_rail#n#wf0#2 rail#n#wf2#1 electric_current#n#wf5#1 be#v#wf7#1 supply#v#wf8#1 electric_locomotive#n#wf11#1
+
+ctx_04436675-n(show#v#wf9#00922867-v)#metrology
+time-ball#n#wf0#2 ball#n#wf2#1 slide#v#wf4#1 down#r#wf5#1 staff#n#wf7#1 show#v#wf9#1 fixed#a#wf11#1 time#n#wf12#1 especially#r#wf14#1 observatory#n#wf17#1
+
+ctx_04437380-n(difference#n#wf6#04748836-n)#metrology
+time-delay_measuring_system#n#wf0#2 chronoscope#n#wf1#1 measure#v#wf3#1 time#n#wf5#1 difference#n#wf6#1 event#n#wf9#1
+
+ctx_04444749-n(toe#n#wf9#05577410-n)#fashion
+toecap#n#wf0#2 protective#a#wf2#1 leather#n#wf3#1 steel#n#wf5#1 cover#n#wf6#1 toe#n#wf9#1 boot#n#wf12#1 shoe#n#wf14#1 reinforce#v#wf16#1 decorate#v#wf18#1
+
+ctx_04447156-n(kit#n#wf2#03619650-n)#factotum
+travel_kit#n#wf0#2 kit#n#wf2#1 carry#v#wf4#1 toilet_articles#n#wf5#1 travel#v#wf8#1
+
+ctx_04492749-n(support#v#wf3#01217043-v)#transport
+truss_bridge#n#wf0#2 bridge#n#wf2#1 support#v#wf3#1 truss#n#wf5#1
+
+ctx_04498523-n(mechanical_energy#n#wf15#11482013-n)#mechanics
+turbine#n#wf0#2 rotary_engine#n#wf1#1 kinetic_energy#n#wf6#1 move#v#wf10#1 fluid#n#wf11#1 be#v#wf12#1 convert#v#wf13#1 mechanical_energy#n#wf15#1 cause#v#wf18#1 bladed#a#wf20#1 rotor#n#wf21#1 rotate#v#wf23#1
+
+ctx_04499554-n(turban#n#wf8#04498389-n)#factotum
+Turk's_head#n#wf0#2 ornamental#a#wf2#1 knot#n#wf3#1 resemble#v#wf5#1 small#a#wf7#1 turban#n#wf8#1
+
+ctx_04525191-n(pile#n#wf8#03936045-n)#industry
+velveteen#n#wf0#2 usually#r#wf2#1 cotton#n#wf3#1 fabric#n#wf4#1 short#a#wf7#1 pile#n#wf8#1 imitate#v#wf9#1 velvet#n#wf10#1
+
+ctx_04529486-n(Versailles#n#wf18#08938619-n)#town_planning
+Versailles#n#wf0#2 palace#n#wf2#1 build#v#wf3#1 17th#a#wf6#1 century#n#wf7#1 Louis_XIV#n#wf9#1 southwest#n#wf11#1 Paris#n#wf13#1 city#n#wf16#1 Versailles#n#wf18#1
+
+ctx_04538878-n(eye#n#wf8#05311054-n)#military
+vizor#n#wf0#2 piece#n#wf2#1 armor_plate#n#wf4#1 eye#n#wf8#1 slit#n#wf9#1 fix#v#wf11#1 hinge#v#wf13#1 medieval#a#wf16#1 helmet#n#wf17#1 protect#v#wf19#1 face#n#wf21#1
+
+ctx_04558199-n(water#n#wf4#14845743-n)#free_time
+water_chute#n#wf0#2 chute#n#wf1#1 flow#v#wf3#1 water#n#wf4#1 down#r#wf5#1 toboggan#v#wf7#1 inner_tube#n#wf9#1 people#n#wf12#1 slide#v#wf13#1 pool#n#wf16#1
+
+ctx_04564118-n(form#v#wf9#02621395-v)#factotum
+wattle#n#wf0#2 framework#n#wf1#1 consist#v#wf2#1 stake#n#wf4#1 interweave#v#wf5#1 branch#n#wf7#1 form#v#wf9#1 fence#n#wf11#1
+
+ctx_04585745-n(rope#n#wf17#04108268-n)#nautical
+windlass#n#wf0#2 lifting_device#n#wf1#1 consist#v#wf3#1 horizontal#a#wf6#1 cylinder#n#wf7#1 turn#v#wf8#1 crank#n#wf11#1 cable#n#wf15#1 rope#n#wf17#1 wind#n#wf18#1
+
+ctx_04588365-n(opening#n#wf3#03848729-n)#transport
+window#n#wf0#2 transparent#a#wf2#1 opening#n#wf3#1 vehicle#n#wf6#1 allow#v#wf8#1 vision#n#wf9#1 out#r#wf10#1 side#n#wf13#1 back#n#wf15#1 usually#r#wf17#1 be#v#wf18#1 capable#a#wf19#1 be#v#wf21#1 open#v#wf22#1
+
+ctx_04589190-n(privacy#n#wf4#04622932-n)#furniture
+window_blind#n#wf0#2 blind#n#wf2#1 privacy#n#wf4#1 keep_out#v#wf7#1 light#n#wf9#1
+
+ctx_04618359-n(awareness#n#wf17#05675905-n)#factotum
+gender_identity#n#wf0#2 identity#n#wf2#1 be#v#wf5#1 experience#v#wf6#1 regard#n#wf8#1 individuality#n#wf11#1 male#a#wf13#1 female#a#wf15#1 awareness#n#wf17#1 normally#r#wf18#1 begin#v#wf19#1 infancy#n#wf21#1 be#v#wf23#1 reinforce#v#wf24#1 adolescence#n#wf26#1
+
+ctx_04675193-n(skin#n#wf6#05238282-n)#medicine
+complexion#n#wf0#2 texture#n#wf1#1 appearance#n#wf3#1 skin#n#wf6#1 face#n#wf9#1
+
+ctx_04751652-n(animal#a#wf6#00015388-n)#factotum
+biodiversity#n#wf0#2 diversity#n#wf2#1 plant#n#wf4#1 animal#a#wf6#1 life#n#wf7#1 particular#a#wf10#1 habitat#n#wf11#1 world#n#wf16#1 whole#n#wf19#1
+
+ctx_04767023-n(resemble#v#wf3#02665282-v)#factotum
+tapestry#n#wf0#2 resemble#v#wf3#1 tapestry#n#wf5#1 complex#a#wf8#1 pictorial#a#wf9#1 design#n#wf10#1
+
+ctx_04785414-n(contradiction#n#wf13#07206887-n)#philosophy
+completeness#n#wf0#2 logic#n#tok2#1 attribute#n#wf2#1 logical_system#n#wf5#1 be#v#wf8#1 so#r#wf9#1 constitute#v#wf10#1 contradiction#n#wf13#1 arise#v#wf14#1 proposition#n#wf17#1 be#v#wf18#1 introduce#v#wf19#1 not#r#wf22#1 be#v#wf23#1 derive#v#wf24#1 axiom#n#wf27#1 system#n#wf30#1
+
+ctx_04792357-n(meet#v#wf7#02667900-v)#factotum
+adequateness#n#wf0#2 quality#n#wf2#1 be#v#wf4#1 able#a#wf5#1 meet#v#wf7#1 need#n#wf9#1 satisfactorily#r#wf10#1
+
+ctx_04877421-n(wholehearted#a#wf3#02180486-a)#factotum
+dedication#n#wf0#2 complete#a#wf1#1 wholehearted#a#wf3#1 fidelity#n#wf4#1
+
+ctx_04893172-n(future#n#wf9#15121625-n)#quality
+foresightfulness#n#wf0#2 providence#n#wf1#1 virtue#n#wf3#1 plan#v#wf5#1 prudently#r#wf6#1 future#n#wf9#1
+
+ctx_04894552-n(resource#n#wf13#13331778-n)#psychological_features
+shortsightedness#n#wf0#2 lack#n#wf2#1 prudence#n#wf4#1 care#n#wf6#1 someone#n#wf8#1 management#n#wf11#1 resource#n#wf13#1
+
+ctx_04913839-n(courteous#a#wf1#00641460-a)#psychological_features
+respectfulness#n#wf0#2 courteous#a#wf1#1 regard#n#wf2#1 people#n#wf4#1 feeling#n#wf5#1
+
+ctx_04931837-n(garment#n#wf4#03419014-n)#factotum
+hang#n#wf0#2 way#n#wf2#1 garment#n#wf4#1 hang#v#wf5#1
+
+ctx_05014710-n(body_temperature#n#wf1#05014879-n)#physics
+basal_temperature#n#wf0#2 body_temperature#n#wf1#1 morning#n#wf5#1 rise#v#wf7#1 move#v#wf9#1 about#r#wf10#1 eat#v#wf12#1
+
+ctx_05014879-n(usually#r#wf15#00106921-r)#physics
+body_temperature#n#wf0#2 temperature#n#wf1#1 body#n#wf4#1 normally#r#wf6#1 human#n#wf13#1 usually#r#wf15#1 measure#v#wf16#1 obtain#v#wf18#1 quick#a#wf20#1 evaluation#n#wf21#1 person#n#wf24#1 health#n#wf25#1
+
+ctx_05130614-n(airfoil#n#wf8#02688443-n)#factotum
+wingspread#n#wf0#2 linear#a#wf1#1 distance#n#wf2#1 extremity#n#wf5#1 airfoil#n#wf8#1
+
+ctx_05150855-n(uselessness#n#wf1#05150588-n)#factotum
+futility#n#wf0#2 uselessness#n#wf1#1 consequence#n#wf4#1 have#v#wf6#1 practical#a#wf8#1 result#n#wf9#1
+
+ctx_05189057-n(manner#n#wf13#04928903-n)#law
+right_of_entry#n#wf0#2 legal_right#n#wf2#1 take#v#wf5#1 possession#n#wf6#1 real_estate#n#wf8#1 peaceable#a#wf12#1 manner#n#wf13#1
+
+ctx_05258051-n(lock#n#wf2#05257737-n)#fashion
+forelock#n#wf0#2 lock#n#wf2#1 hair#n#wf4#1 grow#v#wf5#1 fall#v#wf8#1 forehead#n#wf12#1
+
+ctx_05304932-n(base#n#wf15#08511777-n)#anatomy
+gum#n#wf0#2 tissue#n#wf2#1 cover#v#wf4#1 mucous_membrane#n#wf6#1 jaw#n#wf11#1 surround#v#wf13#1 base#n#wf15#1 teeth#n#wf18#1
+
+ctx_05306190-n(front#n#wf6#08573472-n)#anatomy
+front_tooth#n#wf0#2 tooth#n#wf2#1 situate#v#wf3#1 front#n#wf6#1 mouth#n#wf9#1
+
+ctx_05309725-n(upper_surface#n#wf2#04514899-n)#anatomy
+roof_of_the_mouth#n#wf0#2 upper_surface#n#wf2#1 mouth#n#wf6#1 separate#v#wf8#1 oral_cavity#n#wf10#1 nasal_cavity#n#wf12#1
+
+ctx_05315382-n(conjunctiva#n#wf5#05315095-n)#optics
+tunica_conjunctiva_bulbi#n#wf0#2 part#n#wf2#1 conjunctiva#n#wf5#1 cover#v#wf6#1 anterior#a#wf8#1 face#n#wf9#1 sclera#n#wf12#1 surface#a#wf15#1 epithelium#n#wf16#1 cornea#n#wf19#1
+
+ctx_05318263-n(limpid#a#wf2#00432453-a)#anatomy
+aqueous_humour#n#wf0#2 limpid#a#wf2#1 fluid#n#wf3#1 eyeball#n#wf6#1 cornea#n#wf9#1 lens#n#wf12#1
+
+ctx_05319936-n(size#n#wf6#05098942-n)#optics
+iris#n#wf0#2 muscular#a#wf1#1 diaphragm#n#wf2#1 control#v#wf4#1 size#n#wf6#1 pupil#n#wf9#1 turn#n#wf12#1 control#v#wf13#1 amount#n#wf15#1 light#n#wf17#1 enter#v#wf19#1 eye#n#wf21#1 form#v#wf24#1 colored#a#wf26#1 portion#n#wf27#1 eye#n#wf30#1
+
+ctx_05386139-n(form#v#wf16#02621395-v)#anatomy
+Haversian_canal#n#wf0#2 tiny#a#wf5#1 canal#n#wf6#1 contain#v#wf8#1 blood_vessel#n#wf9#1 connective_tissue#n#wf12#1 form#v#wf16#1 network#n#wf18#1 bone#n#wf20#1
+
+ctx_05418177-n(ascending_aorta#n#wf19#05336246-n)#anatomy
+ductus_arteriosus#n#wf0#2 blood_vessel#n#wf2#1 fetus#n#wf6#1 bypass#v#wf8#1 pulmonary_circulation#n#wf9#1 connect#v#wf12#1 pulmonary_artery#n#wf14#1 directly#r#wf16#1 ascending_aorta#n#wf19#1 normally#r#wf22#1 close#v#wf23#1 birth#n#wf25#1
+
+ctx_05431285-n(cell#n#wf2#00006484-n)#medicine
+cancer_cell#n#wf0#2 cell#n#wf2#1 be#v#wf4#1 part#n#wf5#1 malignant_tumor#n#wf8#1
+
+ctx_05439413-n(affect#v#wf17#00137313-v)#biology
+mutant_gene#n#wf0#2 gene#n#wf2#1 have#v#wf4#1 change#v#wf5#1 so#r#wf6#1 normal#a#wf9#1 transmission#n#wf10#1 expression#n#wf12#1 trait#n#wf15#1 be#v#wf16#1 affect#v#wf17#1
+
+ctx_05450370-n(liquid#a#wf9#02261386-a)#physiology
+packed_cells#n#wf0#2 preparation#n#wf2#1 blood_cell#n#wf4#1 separate#v#wf6#1 liquid#a#wf9#1 plasma#n#wf10#1
+
+ctx_05462057-n(form#n#wf23#05217168-n)#anatomy
+musculoskeletal_system#n#wf0#2 system#n#wf2#1 muscle#n#wf4#1 tendon#n#wf6#1 ligament#n#wf8#1 bone#n#wf10#1 joint#n#wf12#1 associate#v#wf14#1 tissue#n#wf15#1 move#v#wf17#1 body#n#wf19#1 maintain#v#wf21#1 form#n#wf23#1
+
+ctx_05467922-n(spinal_cord#n#wf16#05503705-n)#anatomy
+fibrous_astrocyte#n#wf0#2 star-shaped#a#wf1#1 cell#n#wf2#1 long#a#wf4#1 process#n#wf5#1 find#v#wf7#1 white_matter#n#wf10#1 brain#n#wf14#1 spinal_cord#n#wf16#1
+
+ctx_05475397-n(nerve_fiber#n#wf2#05464104-n)#anatomy
+sensory_fiber#n#wf0#2 nerve_fiber#n#wf2#1 carry#v#wf5#1 impulse#n#wf6#1 central_nervous_system#n#wf9#1
+
+ctx_05479503-n(hair_cell#n#wf15#05242622-n)#anatomy
+vestibulocochlear_nerve#n#wf0#2 composite#a#wf2#1 sensory_nerve#n#wf3#1 supply#v#wf5#1 hair_cell#n#wf7#1 vestibular#a#wf11#1 organ#n#wf12#1 hair_cell#n#wf15#1 cochlea#n#wf19#1
+
+ctx_05484198-n(funnel-shaped#a#wf2#02147297-a)#anatomy
+hypophyseal_stalk#n#wf0#2 funnel-shaped#a#wf2#1 stalk#n#wf3#1 connect#v#wf4#1 pituitary_gland#n#wf6#1 hypothalamus#n#wf10#1
+
+ctx_05508534-n(2nd#a#wf14#02202146-a)#anatomy
+sacral_plexus#n#wf0#2 nerve_plexus#n#wf2#1 form#v#wf4#1 4th#a#wf7#1 5th#a#wf9#1 lumbar#a#wf10#1 1st#a#wf12#1 2nd#a#wf14#1 3rd#a#wf16#1 sacral_nerve#n#wf17#1 supply#v#wf20#1 pelvic#a#wf22#1 region#n#wf23#1 low#a#wf25#1 limb#n#wf26#1
+
+ctx_05509889-n(give_off#v#wf8#02767308-v)#anatomy
+systema_respiratorium#n#wf0#2 system#n#wf2#1 take_in#v#wf4#1 oxygen#n#wf6#1 give_off#v#wf8#1 carbon_dioxide#n#wf10#1 terrestrial#a#wf14#1 animal#n#wf15#1 be#v#wf17#1 accomplish#v#wf18#1 breathing#n#wf20#1
+
+ctx_05583624-n(tissue#n#wf1#05267345-n)#surgery
+xenograft#n#wf0#2 tissue#n#wf1#1 animal#n#wf4#1 species#n#wf7#1 use#v#wf8#1 temporary#a#wf11#1 graft#n#wf12#1 case#n#wf16#1 severe#a#wf18#1 burn#n#wf19#1 individual#n#wf23#1 species#n#wf26#1
+
+ctx_05586280-n(bony#a#wf2#03138224-a)#anatomy
+shoulder_girdle#n#wf0#2 bony#a#wf2#1 arch#n#wf3#1 form#v#wf4#1 collarbone#n#wf7#1 shoulder_blade#n#wf9#1 human#n#wf12#1
+
+ctx_05591770-n(muscle#n#wf6#05289297-n)#anatomy
+trapezius_muscle#n#wf0#2 flat#a#wf4#1 triangular#a#wf5#1 muscle#n#wf6#1 shoulder#n#wf9#1 upper#a#wf11#1 back#n#wf12#1 be#v#wf14#1 involve#v#wf15#1 move#v#wf17#1 shoulder#n#wf19#1 arm#n#wf21#1
+
+ctx_05686481-n(immaterial#a#wf2#00630802-a)#psychology
+cognitive_factor#n#wf0#2 immaterial#a#wf2#1 circumstance#n#wf6#1 influence#n#wf8#1 contribute#v#wf11#1 produce#v#wf13#1 result#n#wf15#1
+
+ctx_05713737-n(nose#n#wf10#05598147-n)#factotum
+smell#n#wf0#2 sensation#n#wf2#1 result#v#wf4#1 olfactory#a#wf6#1 receptor#n#wf7#1 nose#n#wf10#1 be#v#wf11#1 stimulate#v#wf12#1 particular#a#wf14#1 chemical#n#wf15#1 gaseous#a#wf17#1 form#n#wf18#1
+
+ctx_05720602-n(modality#n#wf13#05652396-n)#factotum
+synesthesia#n#wf0#2 sensation#n#wf2#1 normally#r#wf4#1 occur#v#wf5#1 sense_modality#n#wf8#1 occur#v#wf10#1 modality#n#wf13#1 be#v#wf14#1 stimulate#v#wf15#1
+
+ctx_05736149-n(appraisal#n#wf2#05733583-n)#money
+valuation#n#wf0#2 appraisal#n#wf2#1 value#n#wf5#1
+
+ctx_05773923-n(evidence#n#wf10#05823932-n)#factotum
+conjecture#n#wf0#2 reasoning#n#wf1#1 involve#v#wf3#1 formation#n#wf5#1 conclusion#n#wf7#1 incomplete#a#wf9#1 evidence#n#wf10#1
+
+ctx_05774614-n(reasoning#n#wf2#05772356-n)#philosophy
+inference#n#wf0#2 reasoning#n#wf2#1 involve#v#wf3#1 draw#v#wf5#1 conclusion#n#wf7#1 make#v#wf9#1 logical#a#wf11#1 judgment#n#wf12#1 basis#n#wf15#1 circumstantial_evidence#n#wf17#1 prior#a#wf20#1 conclusion#n#wf21#1 rather#r#wf22#1 basis#n#wf26#1 direct#a#wf28#1 observation#n#wf29#1
+
+ctx_05808794-n(understand#v#wf5#00593852-v)#linguistics
+reading#n#wf0#2 cognitive_process#n#wf2#1 understand#v#wf5#1 written#a#wf7#1 linguistic#a#wf8#1 message#n#wf9#1
+
+ctx_05841351-n(kind#n#wf4#05839024-n)#architecture
+type_of_architecture#n#wf0#2 architecture#n#wf1#1 kind#n#wf4#1 art_form#n#wf6#1
+
+ctx_05898035-n(phantom#a#wf2#01939402-a)#person
+Flying_Dutchman#n#wf0#2 phantom#a#wf2#1 ship#n#wf3#1 be#v#wf5#1 say#v#wf6#1 appear#v#wf8#1 storm#n#wf10#1 Cape_of_Good_Hope#n#wf13#1
+
+ctx_05901248-n(program#n#wf2#05899087-n)#medicine
+vocational_rehabilitation_program#n#wf0#2 program#n#wf2#1 rehabilitation#n#wf4#1 job#n#wf6#1 train#v#wf7#1 eye#n#wf10#1 gainful#a#wf12#1 employment#n#wf13#1
+
+ctx_05930574-n(relatively#r#wf2#00160834-r)#factotum
+ground#n#wf0#2 relatively#r#wf2#1 homogeneous#a#wf3#1 percept#n#wf4#1 extend#v#wf5#1 back#r#wf6#1 figure#n#wf9#1 attention#n#wf12#1 be#v#wf13#1 focus#v#wf14#1
+
+ctx_05939244-n(impressive#a#wf2#00835292-a)#factotum
+prodigy#n#wf0#2 impressive#a#wf2#1 wonderful#a#wf4#1 example#n#wf5#1 particular#a#wf8#1 quality#n#wf9#1
+
+ctx_05966602-n(Book_of_Revelation#n#wf14#06447897-n)#factotum
+presentism#n#wf0#2 doctrine#n#wf2#1 Scripture#n#wf5#1 prophecy#n#wf6#1 Apocalypse#n#wf9#1 Book_of_Revelation#n#wf14#1 be#v#wf18#1 presently#r#wf19#1 course#n#wf22#1 be#v#wf24#1 fulfilled#a#wf25#1
+
+ctx_05975846-n(individual#n#wf13#00007846-n)#philosophy
+relativism#n#wf0#2 philosophy#n#tok2#1 philosophical_doctrine#n#wf2#1 all#a#wf5#1 criterion#n#wf6#1 judgment#n#wf8#1 be#v#wf9#1 relative#a#wf10#1 individual#n#wf13#1 situation#n#wf15#1 involve#v#wf16#1
+
+ctx_06017053-n(mathematical_group#n#wf11#06016853-n)#mathematics
+subgroup#n#wf0#2 mathematics#n#tok2#1 subset#n#wf2#1 be#v#wf5#1 not#r#wf6#1 empty#a#wf7#1 mathematical_group#n#wf11#1
+
+ctx_06025854-n(approximation#n#wf8#04744032-n)#mathematics
+Poisson_distribution#n#wf0#2 theoretical#a#wf2#1 distribution#n#wf3#1 be#v#wf5#1 good#a#wf7#1 approximation#n#wf8#1 binomial_distribution#n#wf11#1 probability#n#wf15#1 be#v#wf16#1 small#a#wf17#1 number#n#wf20#1 trial#n#wf22#1 be#v#wf23#1 large#a#wf24#1
+
+ctx_06072145-n(forest#n#wf12#08438533-n)#biology
+silviculture#n#wf0#2 branch#n#wf2#1 forestry#n#wf4#1 deal#v#wf5#1 development#n#wf8#1 care#n#wf10#1 forest#n#wf12#1
+
+ctx_06097775-n(astronomy#n#wf4#06095022-n)#factotum
+astrophysics#n#wf0#2 branch#n#wf2#1 astronomy#n#wf4#1 concern#v#wf5#1 physical_property#n#wf8#1 chemical_property#n#wf10#1 celestial_body#n#wf13#1
+
+ctx_06112223-n(concern#v#wf8#02676054-v)#physics
+quantum_field_theory#n#wf0#2 branch#n#wf2#1 quantum_physics#n#wf4#1 be#v#wf7#1 concern#v#wf8#1 theory#n#wf11#1 field#n#wf13#1 be#v#wf16#1 motivate#v#wf17#1 question#n#wf20#1 atom#n#wf24#1 radiate#v#wf25#1 light#a#wf26#1 electron#n#wf29#1 jump#v#wf30#1 excited#a#wf32#1 state#n#wf33#1
+
+ctx_06123363-n(principle#n#wf6#05913538-n)#architecture
+architecture#n#wf0#2 discipline#n#wf2#1 deal#v#wf3#1 principle#n#wf6#1 design#n#wf8#1 construction#n#wf10#1 ornamentation#n#wf12#1 fine#a#wf14#1 building#n#wf15#1
+
+ctx_06162528-n(jurisprudence#n#wf4#06161718-n)#philosophy
+patent_law#n#wf0#2 branch#n#wf2#1 jurisprudence#n#wf4#1 study#v#wf6#1 law#n#wf8#1 govern#v#wf9#1 patent#n#wf10#1
+
+ctx_06185748-n(refuse#v#wf9#02237338-v)#factotum
+nullification#n#wf0#2 state#n#wf2#1 right#n#wf3#1 doctrine#n#wf4#1 state#n#wf7#1 refuse#v#wf9#1 recognize#v#wf11#1 enforce#v#wf14#1 federal#a#wf16#1 law#n#wf17#1 pass#v#wf18#1 United_States_Congress#n#wf21#1
+
+ctx_06187154-n(law#n#wf16#08441203-n)#theology
+antinomianism#n#wf0#2 theological_doctrine#n#wf2#1 faith#n#wf6#1 God#n#wf8#1 grace#n#wf9#1 Christian#a#wf11#1 be#v#wf12#1 free#v#wf13#1 all#a#wf15#1 law#n#wf16#1 include#v#wf18#1 moral#a#wf20#1 standard#n#wf21#1 culture#n#wf24#1
+
+ctx_06211078-n(look_at#v#wf5#00734054-v)#factotum
+slant#n#wf0#2 biased#a#wf2#1 way#n#wf3#1 look_at#v#wf5#1 present#v#wf8#1
+
+ctx_06211529-n(tick#v#wf13#02175578-v)#factotum
+clockwork_universe#n#wf0#2 view#n#wf2#1 universe#n#wf5#1 resemble#v#wf6#1 clock#n#wf8#1 build#v#wf9#1 God#n#wf11#1 tick#v#wf13#1 along#r#wf14#1 accord#v#wf15#1 Newtonian_mechanics#n#wf17#1
+
+ctx_06243575-n(element#n#wf28#05868954-n)#religion
+Manichaeism#n#wf0#2 religion#n#wf2#1 found#v#wf3#1 Manes#n#wf5#1 third#a#wf8#1 century#n#wf9#1 synthesis#n#wf12#1 Zoroastrian#a#wf14#1 dualism#n#wf15#1 light#a#wf17#1 dark#a#wf19#1 Babylonian#a#wf21#1 folklore#n#wf22#1 Buddhist#a#wf24#1 ethic#n#wf25#1 superficial#a#wf27#1 element#n#wf28#1 Christianity#n#wf30#1 spread#v#wf32#1 widely#r#wf33#1 Roman_Empire#n#wf36#1 have#v#wf39#1 largely#r#wf40#1 die_out#v#wf41#1
+
+ctx_06276141-n(resident#n#wf11#10523519-n)#post
+junk_mail#n#wf0#2 third-class_mail#n#wf1#1 consist#v#wf4#1 advertising#n#wf6#1 often#r#wf8#1 address#v#wf9#1 resident#n#wf11#1 occupant#n#wf13#1
+
+ctx_06290637-n(phonological#a#wf2#02777160-a)#linguistics
+word_form#n#wf0#2 phonological#a#wf2#1 orthographic#a#wf4#1 sound#n#wf5#1 appearance#n#wf7#1 word#n#wf10#1 be#v#wf13#1 use#v#wf14#1 describe#v#wf16#1 identify#v#wf18#1
+
+ctx_06306034-n(English#a#wf30#03003616-a)#linguistics
+lexeme#n#wf0#2 minimal#a#wf2#1 unit#n#wf3#1 word#n#wf7#1 stem#n#wf9#1 lexicon#n#wf13#1 language#n#wf16#1 go#n#wf18#1 go#v#wf20#1 gone#a#wf22#1 going#n#wf24#1 be#v#wf25#1 member#n#wf27#1 English#a#wf30#1 lexeme#n#wf31#1 go#n#wf32#1
+
+ctx_06312418-n(sentence#n#wf8#06285090-n)#grammar
+ablative_case#n#wf0#2 case#n#wf2#1 indicate#v#wf3#1 agent#n#wf5#1 passive#a#wf7#1 sentence#n#wf8#1 instrument#n#wf11#1 manner#n#wf13#1 place#n#wf15#1 action#n#wf18#1 describe#v#wf19#1 verb#n#wf22#1
+
+ctx_06319881-n(masculine#a#wf8#01486084-a)#linguistics
+generic_noun#n#wf0#2 noun#n#wf2#1 do#v#wf4#1 not#r#wf5#1 specify#v#wf6#1 masculine#a#wf8#1 feminine#a#wf10#1 gender#n#wf11#1
+
+ctx_06347996-n(word#n#wf5#06286395-n)#literature
+line_of_verse#n#wf0#2 single#a#wf2#1 line#n#wf3#1 word#n#wf5#1 poem#n#wf8#1
+
+ctx_06369554-n(novel#n#wf3#06367879-n)#linguistics
+bodice_ripper#n#wf0#2 romantic#a#wf2#1 novel#n#wf3#1 contain#v#wf4#1 scene#n#wf5#1 heroine#n#wf9#1 be#v#wf10#1 sexually#r#wf11#1 violate#v#wf12#1
+
+ctx_06402970-n(typing#n#wf1#06402565-n)#factotum
+triple-spacing#n#wf0#2 typing#n#wf1#1 leave#v#wf3#1 line#n#wf5#1 blank#a#wf6#1 line#n#wf8#1 typing#n#wf10#1
+
+ctx_06430385-n(writing#n#wf2#06362953-n)#religion
+scripture#n#wf0#2 writing#n#wf2#1 be#v#wf4#1 regard_as#v#wf5#1 sacred#a#wf7#1 religious#a#wf10#1 group#n#wf11#1
+
+ctx_06434368-n(Israelite#n#wf22#09715685-n)#religion
+Ruth#n#wf0#2 book#n#wf2#1 Old_Testament#n#wf5#1 tell#v#wf8#1 story#n#wf10#1 Ruth#n#wf12#1 be#v#wf14#1 not#r#wf15#1 Israelite#n#wf17#1 marry#v#wf20#1 Israelite#n#wf22#1 stay#v#wf25#1 mother-in-law#n#wf28#1 Naomi#n#wf29#1 husband#n#wf32#1 die#v#wf33#1
+
+ctx_06441464-n(Malachi#n#wf9#11150973-n)#religion
+Malachias#n#wf0#2 Old_Testament#n#wf2#1 book#n#wf4#1 contain#v#wf5#1 prophecy#n#wf7#1 Malachi#n#wf9#1
+
+ctx_06455682-n(Gospel#n#wf5#06455138-n)#religion
+Word_of_God#n#wf0#2 message#n#wf2#1 Gospel#n#wf5#1 Christ#n#wf7#1
+
+ctx_06466479-n(orally#r#wf13#00156496-r)#religion
+mantra#n#wf0#2 Sanskrit#n#tok2#1 literally#r#wf1#1 sacred#a#wf3#1 utterance#n#wf4#1 Vedism#n#wf6#1 collection#n#wf11#1 orally#r#wf13#1 transmit#v#wf14#1 poetic#a#wf15#1 hymn#n#wf16#1
+
+ctx_06549115-n(tax#n#wf7#13308999-n)#tax
+estimated_tax_return#n#wf0#2 return#n#wf1#1 require#v#wf2#1 taxpayer#n#wf5#1 tax#n#wf7#1 withhold#v#wf8#1 income#n#wf10#1 do#v#wf11#1 not#r#wf12#1 meet#v#wf13#1 tax_liability#n#wf15#1 year#n#wf19#1
+
+ctx_06552814-n(evidence#v#wf4#01015244-v)#law
+release#n#wf0#2 legal_document#n#wf2#1 evidence#v#wf4#1 discharge#n#wf6#1 debt#n#wf9#1 obligation#n#wf11#1
+
+ctx_06563168-n(reply#n#wf8#06746005-n)#law
+replication#n#wf0#2 law#n#tok2#1 pleading#n#wf2#1 make#v#wf3#1 plaintiff#n#wf6#1 reply#n#wf8#1 defendant#n#wf11#1 plea#n#wf12#1 answer#n#wf14#1
+
+ctx_06592991-n(record#n#wf3#06647206-n)#publishing
+archives#n#wf0#2 collection#n#wf1#1 record#n#wf3#1 especially#r#wf4#1 institution#n#wf7#1
+
+ctx_06617165-n(movie#n#wf2#06613686-n)#telecommunication
+film_noir#n#wf0#2 movie#n#wf2#1 be#v#wf4#1 mark#v#wf5#1 mood#n#wf8#1 pessimism#n#wf10#1 fatalism#n#wf12#1 menace#n#wf14#1 cynical#a#wf17#1 character#n#wf18#1
+
+ctx_06628450-n(memory#n#wf21#05760202-n)#factotum
+Mass_card#n#wf0#2 Roman#n#tok2#1 Catholic#n#tok3#1 card#n#wf2#1 send#v#wf3#1 bereaved#a#wf6#1 family#n#wf7#1 say#v#wf9#1 sender#n#wf11#1 have#v#wf12#1 arrange#v#wf13#1 Mass#n#wf16#1 be#v#wf18#1 say#v#wf19#1 memory#n#wf21#1 deceased#n#wf24#1
+
+ctx_06635104-n(intelligence_service#n#wf18#08339454-n)#factotum
+blowback#n#wf0#2 misinformation#n#wf1#1 result#v#wf2#1 recirculation#n#wf5#1 source#n#wf8#1 country#n#wf9#1 disinformation#n#wf11#1 previously#r#wf12#1 plant#v#wf13#1 abroad#r#wf14#1 country#n#wf17#1 intelligence_service#n#wf18#1
+
+ctx_06669193-n(standard#n#wf3#07260623-n)#medicine
+sanitary_code#n#wf0#2 set#n#wf1#1 standard#n#wf3#1 establish#v#wf4#1 enforce#v#wf6#1 government#n#wf8#1 health#n#wf10#1 requirement#n#wf11#1 plumb#v#wf14#1
+
+ctx_06680913-n(relief#n#wf6#04073669-n)#graphic_arts
+letterset_printing#n#wf0#2 image#n#wf1#1 be#v#wf2#1 transfer#v#wf3#1 relief#n#wf6#1 type#n#wf7#1 plate#n#wf8#1 roller#n#wf11#1
+
+ctx_06690928-n(formerly#r#wf3#00118965-r)#factotum
+ticket-of-leave#n#wf0#2 permit#n#wf2#1 formerly#r#wf3#1 give#v#wf4#1 convict#n#wf6#1 allow#v#wf7#1 leave#v#wf10#1 prison#n#wf11#1 specific#a#wf13#1 restriction#n#wf14#1
+
+ctx_06693502-n(word#n#wf2#07109730-n)#religion
+praise#n#wf0#2 offering#n#wf1#1 word#n#wf2#1 homage#n#wf4#1 act#n#wf7#1 worship#n#wf9#1
+
+ctx_06694359-n(expression#n#wf3#07139873-n)#factotum
+eulogy#n#wf0#2 formal#a#wf2#1 expression#n#wf3#1 praise#n#wf5#1 someone#n#wf7#1 have#v#wf9#1 die#v#wf10#1 recently#r#wf11#1
+
+ctx_06725067-n(design_criteria#n#wf5#05925177-n)#factotum
+specification#n#wf0#2 detailed#a#wf2#1 description#n#wf3#1 design_criteria#n#wf5#1 piece_of_work#n#wf9#1
+
+ctx_06765887-n(voice#v#wf3#02286083-a)#law
+obiter_dictum#n#wf0#2 opinion#n#wf2#1 voice#v#wf3#1 judge#n#wf6#1 point#n#wf9#1 law#n#wf11#1 not#r#wf12#1 directly#r#wf13#1 bear_on#v#wf14#1 case#n#wf17#1 therefore#r#wf21#1 not#r#wf22#1 binding#a#wf23#1
+
+ctx_06770875-n(statement#n#wf2#06722453-n)#economy
+term#n#wf0#2 usually#r#tok2#1 plural#n#tok3#1 statement#n#wf2#1 be#v#wf5#1 require#v#wf6#1 part#n#wf8#1 agreement#n#wf11#1
+
+ctx_06813700-n(radix#n#wf20#13597794-n)#mathematics
+floating-point_representation_system#n#wf0#2 radix#n#wf2#1 numeration_system#n#wf3#1 location#n#wf8#1 decimal_point#n#wf11#1 be#v#wf13#1 indicate#v#wf14#1 exponent#n#wf17#1 radix#n#wf20#1 floating-point_representation_system#n#wf24#1 be#v#wf30#1 represent#v#wf31#1 be#v#wf37#1 exponent#n#wf39#1
+
+ctx_06836165-n(20th#a#wf2#02204716-a)#factotum
+upsilon#n#wf0#2 20th#a#wf2#1 letter#n#wf3#1 Greek_alphabet#n#wf6#1
+
+ctx_06844903-n(item#n#wf8#06482401-n)#linguistics
+virgule#n#wf0#2 punctuation_mark#n#wf2#1 use#v#wf4#1 separate#v#wf6#1 related#a#wf7#1 item#n#wf8#1 information#n#wf10#1
+
+ctx_06860323-n(whole_tone#n#wf16#06859056-n)#music
+diatonic_scale#n#wf0#2 scale#n#wf2#1 note#n#wf5#1 octave#n#wf8#1 all#a#wf10#1 be#v#wf13#1 separate#v#wf14#1 whole_tone#n#wf16#1
+
+ctx_06867057-n(note#n#wf11#06865345-n)#music
+double_flat#n#wf0#2 musical_notation#n#wf2#1 flat#n#wf6#1 front#n#wf8#1 note#n#wf11#1 indicate#v#wf12#1 be#v#wf15#1 be#v#wf17#1 lower#v#wf18#1 semitone#n#wf21#1
+
+ctx_06904171-n(human#a#wf2#01258617-a)#linguistics
+tongue#n#wf0#2 human#a#wf2#1 written_language#n#wf3#1 spoken_language#n#wf5#1 use#v#wf7#1 community#n#wf10#1 oppose#v#wf12#1 computer_language#n#wf16#1
+
+ctx_06924560-n(speak#v#wf4#00963570-v)#linguistics
+Costanoan#n#wf0#2 Penutian#n#wf2#1 language#n#wf3#1 speak#v#wf4#1 Costanoan#n#wf7#1
+
+ctx_06936823-n(family#n#wf2#07997703-n)#linguistics
+Munda#n#wf0#2 family#n#wf2#1 language#n#wf4#1 speak#v#wf5#1 people#n#wf7#1 scatter#v#wf8#1 central#a#wf10#1 India#n#wf11#1
+
+ctx_06944156-n(Bible#n#wf7#06431740-n)#linguistics
+Old_Church_Slavonic#n#wf0#2 Slavic_language#n#wf2#1 Bible#n#wf7#1 be#v#wf8#1 translate#v#wf9#1 9th#a#wf12#1 century#n#wf13#1
+
+ctx_06945095-n(Slavic_language#n#wf2#06943771-n)#linguistics
+Serbo-Croatian#n#wf0#2 Slavic_language#n#wf2#1 Serb#n#wf6#1 Croat#n#wf8#1 Serbian#a#wf11#1 dialect#n#wf12#1 be#v#wf13#1 usually#r#wf14#1 write#v#wf15#1 Cyrillic_alphabet#n#wf18#1 Croatian#a#wf22#1 dialect#n#wf23#1 be#v#wf24#1 usually#r#wf25#1 write#v#wf26#1 Roman_alphabet#n#wf29#1
+
+ctx_06963292-n(dialect#n#wf2#07155661-n)#linguistics
+Low_Latin#n#wf0#2 dialect#n#wf2#1 Latin#n#wf4#1 other#a#wf5#1 classical#n#wf8#1
+
+ctx_06968707-n(Asia#n#wf12#09207288-n)#linguistics
+Tocharian#n#wf0#2 branch#n#wf2#1 Indo-European_language#n#wf5#1 family#n#wf7#1 originate_in#v#wf9#1 central#a#wf11#1 Asia#n#wf12#1 first#a#wf15#1 millennium#n#wf16#1
+
+ctx_07013400-n(salesperson#n#wf9#10548681-n)#linguistics
+spiel#n#wf0#2 plausible#a#wf1#1 glib#a#wf2#1 talk#n#wf3#1 especially#r#wf5#1 useful#a#wf6#1 salesperson#n#wf9#1
+
+ctx_07039238-n(sonata_form#n#wf11#05932282-n)#literature
+recapitulation#n#wf0#2 music#n#tok2#1 section#n#wf2#1 composition#n#wf5#1 movement#n#wf7#1 especially#r#wf9#1 sonata_form#n#wf11#1 musical_theme#n#wf16#1 be#v#wf19#1 introduce#v#wf20#1 earlier#a#wf21#1 be#v#wf22#1 repeat#v#wf23#1
+
+ctx_07041795-n(musical_composition#n#wf2#07037465-n)#music
+quintette#n#wf0#2 musical_composition#n#wf2#1 performer#n#wf6#1
+
+ctx_07057539-n(version#n#wf29#05840650-n)#music
+twelve-tone_system#n#wf0#2 type#n#wf2#1 serial_music#n#wf4#1 introduce#v#wf6#1 Arnold_Schoenberg#n#wf8#1 use#v#wf11#1 tone#n#wf13#1 row#n#wf14#1 form#v#wf15#1 semitone#n#wf19#1 chromatic_scale#n#wf22#1 inverted#a#wf26#1 backward#a#wf28#1 version#n#wf29#1 row#n#wf32#1
+
+ctx_07090573-n(language#n#wf3#07109196-n)#linguistics
+turgidness#n#wf0#2 pompously#r#wf1#1 embellish#v#wf2#1 language#n#wf3#1
+
+ctx_07094621-n(poetic_rhythm#n#wf2#07093895-n)#literature
+sprung_rhythm#n#wf0#2 poetic_rhythm#n#wf2#1 imitate#v#wf5#1 rhythm#n#wf7#1 speech#n#wf9#1
+
+ctx_07150328-n(refusal#n#wf2#07205573-n)#factotum
+holdout#n#wf0#2 refusal#n#wf2#1 negotiator#n#wf5#1 come#v#wf7#1 term#n#wf9#1 hope#n#wf12#1 obtain#v#wf14#1 better#a#wf16#1 deal#n#wf17#1
+
+ctx_07150499-n(mutual#a#wf4#01945550-a)#factotum
+horse_trading#n#wf0#2 negotiation#n#wf1#1 accompany#v#wf2#1 mutual#a#wf4#1 concession#n#wf5#1 shrewd#a#wf7#1 bargaining#n#wf8#1
+
+ctx_07174877-n(deliberately#r#wf17#00062330-r)#factotum
+misconstruction#n#wf0#2 kind#n#wf2#1 misinterpretation#n#wf4#1 result#v#wf5#1 put#v#wf7#1 wrong#a#wf9#1 construction#n#wf10#1 word#n#wf12#1 action#n#wf14#1 often#r#wf16#1 deliberately#r#wf17#1
+
+ctx_07225450-n(event#n#wf7#00029378-n)#factotum
+premonition#n#wf0#2 early#a#wf2#1 warning#n#wf3#1 future#a#wf6#1 event#n#wf7#1
+
+ctx_07235218-n(written_matter#n#wf1#06390512-n)#publishing
+recitation#n#wf0#2 written_matter#n#wf1#1 be#v#wf4#1 recite#v#wf5#1 memory#n#wf7#1
+
+ctx_07276732-n(describe#v#wf4#00965035-v)#factotum
+Red_Notice#n#wf0#2 Interpol#n#wf2#1 notice#n#wf3#1 describe#v#wf4#1 wanted#a#wf6#1 person#n#wf7#1 asking#n#wf9#1 be#v#wf14#1 arrest#v#wf15#1 view#n#wf18#1 extradition#n#wf20#1 wanted_notice#n#wf23#1 be#v#wf26#1 issue#v#wf27#1 Interpol#n#wf29#1 request#n#wf32#1 Interpol#n#wf35#1 member#n#wf36#1 country#n#wf37#1 distribute#v#wf39#1 member#n#wf42#1 country#n#wf43#1
+
+ctx_07278256-n(Chopin#n#wf4#10896644-n)#music
+Chopin#n#wf0#2 music#n#wf2#1 Chopin#n#wf4#1
+
+ctx_07281635-n(theatrical#a#wf10#02813315-a)#music
+Ta'ziyeh#n#wf0#2 Islam#n#tok2#1 form#n#wf2#1 Iranian#a#wf4#1 musical#a#wf5#1 pageant#n#wf6#1 be#v#wf8#1 theatrical#a#wf10#1 expression#n#wf11#1 religious#a#wf13#1 passion#n#wf14#1 base#v#wf16#1 Battle_of_Kerbala#n#wf19#1 perform#v#wf23#1 annually#r#wf24#1 Farsi#n#wf27#1
+
+ctx_07304353-n(ground_fire#n#wf17#07304507-n)#factotum
+crown_fire#n#wf0#2 forest_fire#n#wf2#1 advance#v#wf5#1 great#a#wf7#1 speed#n#wf8#1 jump#v#wf9#1 crown#n#wf11#1 crow#v#wf13#1 ahead#r#wf14#1 ground_fire#n#wf17#1
+
+ctx_07369344-n(obscure#v#wf11#02157731-v)#astronomy
+partial_eclipse#n#wf0#2 eclipse#n#wf2#1 eclipse#v#wf6#1 body#n#wf7#1 be#v#wf8#1 only#r#wf9#1 partially#r#wf10#1 obscure#v#wf11#1
+
+ctx_07394588-n(sound#n#wf5#07371293-n)#factotum
+song#n#wf0#2 distinctive#a#wf2#1 characteristic#a#wf4#1 sound#n#wf5#1
+
+ctx_07408965-n(escape#n#wf3#07436661-n)#military
+blowback#n#wf0#2 backward#a#wf2#1 escape#n#wf3#1 gas#n#wf5#1 gunpowder#n#wf8#1 gun#n#wf11#1 be#v#wf12#1 fire#v#wf13#1
+
+ctx_07433868-n(water#n#wf7#14845743-n)#factotum
+emission#n#wf0#2 occurrence#n#wf2#1 flow#n#wf5#1 water#n#wf7#1 pipe#n#wf12#1
+
+ctx_07449548-n(popular_music#n#wf5#07059255-n)#dance
+record_hop#n#wf0#2 informal#a#wf2#1 dance#n#wf3#1 popular_music#n#wf5#1 be#v#wf7#1 play#v#wf8#1
+
+ctx_07469476-n(competition#n#wf2#07456188-n)#sport
+high_jump#n#wf0#2 competition#n#wf2#1 involve#v#wf4#1 jump#v#wf5#1 high#a#wf7#1 possible#a#wf9#1 horizontal#a#wf12#1 bar#n#wf13#1
+
+ctx_07506569-n(guilt#n#wf11#13990675-n)#psychological_features
+shame#n#wf0#2 painful#a#wf2#1 emotion#n#wf3#1 result#v#wf4#1 awareness#n#wf7#1 inadequacy#n#wf9#1 guilt#n#wf11#1
+
+ctx_07527167-n(pleasure#n#wf4#05829782-n)#psychological_features
+gladsomeness#n#wf0#2 experience#v#wf1#1 joy#n#wf2#1 pleasure#n#wf4#1
+
+ctx_07567039-n(grain#n#wf5#07802417-n)#gastronomy
+breadstuff#n#wf0#2 flour#n#wf1#1 meal#n#wf3#1 grain#n#wf5#1 use#v#wf6#1 bake#v#wf8#1 bread#n#wf9#1
+
+ctx_07582970-n(cream_cheese#n#wf8#07851298-n)#gastronomy
+clam_dip#n#wf0#2 dip#n#wf2#1 make#v#wf3#1 clam#n#wf5#1 soft#a#wf7#1 cream_cheese#n#wf8#1
+
+ctx_07601809-n(caramelized_sugar#n#wf6#07595180-n)#gastronomy
+caramel#n#wf0#2 firm#a#wf1#1 chewy#a#wf2#1 candy#n#wf3#1 make#v#wf4#1 caramelized_sugar#n#wf6#1 butter#n#wf9#1 milk#n#wf11#1
+
+ctx_07605693-n(fudge#n#wf3#07605474-n)#gastronomy
+divinity_fudge#n#wf0#2 white#a#wf1#1 creamy#a#wf2#1 fudge#n#wf3#1 make#v#wf4#1 egg_white#n#wf6#1
+
+ctx_07620822-n(decorate#v#wf9#01675963-v)#factotum
+icing#n#wf0#2 flavor#v#wf2#1 sugar#n#wf3#1 topping#n#wf4#1 use#v#wf5#1 coat#v#wf7#1 decorate#v#wf9#1 cake#n#wf10#1
+
+ctx_07633640-n(frost#v#wf5#01517175-v)#gastronomy
+petit_four#n#wf0#2 small#a#wf1#1 individual#a#wf3#1 frost#v#wf5#1 ornament#v#wf7#1 cake#n#wf8#1
+
+ctx_07637398-n(nut#n#wf9#13136556-n)#gastronomy
+raisin-nut_cookie#n#wf0#2 cookie#n#wf1#1 fill#v#wf2#1 paste#n#wf5#1 raisin#n#wf7#1 nut#n#wf9#1
+
+ctx_07637508-n(slice#v#wf12#01254477-v)#gastronomy
+refrigerator_cookie#n#wf0#2 dough#n#wf1#1 form#v#wf2#1 roll#n#wf5#1 chill#v#wf7#1 refrigerator#n#wf10#1 then#r#wf11#1 slice#v#wf12#1 bake#v#wf14#1
+
+ctx_07661002-n(end#n#wf6#08566028-n)#gastronomy
+T-bone_steak#n#wf0#2 small#a#wf1#1 steak#n#wf2#1 thin#a#wf5#1 end#n#wf6#1 short#a#wf9#1 loin#n#wf10#1 contain#v#wf11#1 T-shaped#a#wf13#1 bone#n#wf14#1 small#a#wf16#1 piece#n#wf17#1 tenderloin#n#wf19#1
+
+ctx_07665013-n(strip#n#wf8#09449510-n)#gastronomy
+biltong#n#wf0#2 meat#n#wf1#1 be#v#wf3#1 salt#v#wf4#1 cut#v#wf6#1 strip#n#wf8#1 dry#v#wf10#1 sun#n#wf13#1
+
+ctx_07666521-n(rabbit#n#wf6#02324045-n)#gastronomy
+rabbit#n#wf0#2 flesh#n#wf1#1 various#a#wf5#1 rabbit#n#wf6#1 hare#n#wf8#1 wild#a#wf10#1 domesticated#a#wf12#1 eat#v#wf14#1 food#n#wf16#1
+
+ctx_07681805-n(bread#n#wf1#07679356-n)#gastronomy
+cracked-wheat_bread#n#wf0#2 bread#n#wf1#1 make#v#wf2#1 cracked_wheat#n#wf4#1 have#v#wf7#1 be#v#wf8#1 grind#v#wf9#1 fine#a#wf10#1
+
+ctx_07726009-n(pea#n#wf3#07725376-n)#gastronomy
+split-pea#n#wf0#2 dried#a#wf1#1 hull#v#wf2#1 pea#n#wf3#1 use#v#wf5#1 soup#n#wf7#1
+
+ctx_07730855-n(bitter#a#wf6#02396098-a)#gastronomy
+curly_endive#n#wf0#2 crisp#a#wf1#1 spiky#a#wf2#1 leaf#n#wf3#1 somewhat#r#wf5#1 bitter#a#wf6#1 taste#n#wf7#1
+
+ctx_07733847-n(leafy#a#wf1#01700414-a)#gastronomy
+wild_spinach#n#wf0#2 leafy#a#wf1#1 green#n#wf2#1 collect#v#wf3#1 wild#a#wf6#1 use#v#wf8#1 substitute#n#wf11#1 spinach#n#wf13#1
+
+ctx_07738570-n(discarded#a#wf14#02222318-v)#plants
+banana_skin#n#wf0#2 skin#n#wf2#1 banana#n#wf5#1 especially#r#wf7#1 be#v#wf10#1 strip#v#wf11#1 off#r#wf12#1 discarded#a#wf14#1
+
+ctx_07750449-n(lemonlike#a#wf2#02369460-a)#plants
+citron#n#wf0#2 large#a#wf1#1 lemonlike#a#wf2#1 fruit#n#wf3#1 thick#a#wf5#1 aromatic#a#wf6#1 rind#n#wf7#1 usually#r#wf9#1 preserve#v#wf10#1
+
+ctx_07762534-n(preserve#n#wf15#07642471-n)#plants
+kitembilla#n#wf0#2 maroon-purple#a#wf1#1 gooseberry#n#wf2#1 fruit#n#wf4#1 India#n#wf6#1 have#v#wf7#1 tart#a#wf8#1 sweet#a#wf9#1 purple#a#wf10#1 pulp#n#wf11#1 use#v#wf12#1 especially#r#wf13#1 preserve#n#wf15#1
+
+ctx_07789541-n(smaller#a#wf9#01394922-a)#gastronomy
+haddock#n#wf0#2 lean#a#wf1#1 white#a#wf2#1 flesh#n#wf3#1 fish#n#wf5#1 similar#a#wf6#1 smaller#a#wf9#1 cod#n#wf11#1 usually#r#wf13#1 bake#v#wf14#1 poach#v#wf16#1 fillet#v#wf19#1 sauteed#a#wf20#1 fried#a#wf22#1
+
+ctx_07803213-n(barley#n#wf1#07803093-n)#gastronomy
+pearl_barley#n#wf0#2 barley#n#wf1#1 ground#n#wf2#1 small#a#wf4#1 round#a#wf5#1 pellet#n#wf6#1
+
+ctx_07805006-n(kitchen#n#wf11#03619890-n)#food
+swill#n#wf0#2 wet#a#wf1#1 feed#n#wf2#1 especially#r#wf4#1 pig#n#wf6#1 consist#v#wf8#1 mostly#r#wf10#1 kitchen#n#wf11#1 waste#n#wf12#1 mix#v#wf13#1 water#n#wf15#1 skimmed_milk#n#wf17#1 sour#a#wf19#1
+
+ctx_07817871-n(cook#v#wf6#01664172-v)#gastronomy
+finocchio#n#wf0#2 aromatic#a#wf1#1 bulbous#a#wf2#1 stem#n#wf3#1 base#n#wf4#1 eat#v#wf5#1 cook#v#wf6#1 raw#a#wf8#1 salad#n#wf10#1
+
+ctx_07831663-n(meat#n#wf19#07649854-n)#gastronomy
+wine_sauce#n#wf0#2 white#a#wf1#1 veloute#n#wf3#1 sauce#n#wf4#1 wine#n#wf6#1 stock#n#wf8#1 variously#r#wf9#1 season#v#wf10#1 onion#n#wf12#1 herb#n#wf14#1 fish#n#wf17#1 meat#n#wf19#1
+
+ctx_07841037-n(nutritive#a#wf9#02557719-a)#gastronomy
+white#n#wf0#2 white#a#wf2#1 part#n#wf3#1 egg#n#wf6#1 nutritive#a#wf9#1 protective#a#wf11#1 gelatinous#a#wf12#1 substance#n#wf13#1 surround#v#wf14#1 yolk#n#wf16#1 consist#v#wf17#1 mainly#r#wf18#1 albumin#n#wf20#1 dissolve#v#wf21#1 water#n#wf23#1
+
+ctx_07841800-n(colored#a#wf2#00394562-a)#gastronomy
+Easter_egg#n#wf0#2 colored#a#wf2#1 hard-boiled_egg#n#wf3#1 use#v#wf5#1 celebrate#v#wf7#1 Easter#n#wf8#1
+
+ctx_07846938-n(milk#n#wf1#07844042-n)#gastronomy
+low-fat_milk#n#wf0#2 milk#n#wf1#1 cream#n#wf7#1 have#v#wf8#1 be#v#wf9#1 remove#v#wf10#1
+
+ctx_07891433-n(make#v#wf4#01653873-v)#food
+saki#n#wf0#2 Japanese#a#wf1#1 alcoholic_beverage#n#wf2#1 make#v#wf4#1 ferment#v#wf6#1 rice#n#wf7#1 usually#r#wf9#1 serve#v#wf10#1 hot#a#wf11#1
+
+ctx_07892813-n(fermentation#n#wf15#13575433-n)#food
+white_wine#n#wf0#2 pale#a#wf1#1 yellowish#a#wf2#1 wine#n#wf3#1 make#v#wf4#1 white#a#wf6#1 grape#n#wf7#1 red#a#wf9#1 grape#n#wf10#1 skin#n#wf12#1 remove#v#wf13#1 fermentation#n#wf15#1
+
+ctx_07903101-n(root#n#wf8#13125117-n)#food
+bitters#n#wf0#2 alcoholic#a#wf1#1 liquor#n#wf2#1 flavor#v#wf3#1 bitter#a#wf5#1 herb#n#wf6#1 root#n#wf8#1
+
+ctx_07919165-n(fruit_juice#n#wf6#07924033-n)#food
+zombie#n#wf0#2 several#a#wf1#1 kind#n#wf2#1 rum#n#wf4#1 fruit_juice#n#wf6#1 usually#r#wf9#1 apricot#n#wf10#1 liqueur#n#wf11#1
+
+ctx_07923297-n(flavoring#n#wf6#07809368-n)#food
+shake#n#wf0#2 frothy#a#wf1#1 drink#n#wf2#1 milk#n#wf4#1 flavoring#n#wf6#1 sometimes#r#wf8#1 fruit#n#wf9#1 icecream#n#wf11#1
+
+ctx_07931733-n(tea#n#wf11#07933274-n)#food
+fish_house_punch#n#wf0#2 punch#n#wf2#1 make#v#wf3#1 rum#n#wf5#1 brandy#n#wf7#1 water#n#wf9#1 tea#n#wf11#1 sweeten#v#wf12#1 sugar_syrup#n#wf14#1
+
+ctx_07936548-n(artificially#r#wf3#00140566-r)#chemistry
+sparkling_water#n#wf0#2 effervescent#a#wf1#1 beverage#n#wf2#1 artificially#r#wf3#1 charge#v#wf4#1 carbon_dioxide#n#wf6#1
+
+ctx_07937461-n(Africa#n#wf8#09189411-n)#gastronomy
+couscous#n#wf0#2 spicy#a#wf2#1 dish#n#wf3#1 originate_in#v#wf5#1 northern#a#wf7#1 Africa#n#wf8#1 consist#v#wf10#1 pasta#n#wf12#1 steam#v#wf13#1 meat#n#wf16#1 vegetable#n#wf18#1 stew#n#wf19#1
+
+ctx_07986771-n(degree#n#wf21#13611207-n)#factotum
+triplicity#n#wf0#2 astrology#n#tok2#1 group#n#wf4#1 zodiac#n#wf7#1 group#n#wf10#1 consist#v#wf11#1 sign#n#wf14#1 separate#v#wf15#1 other#a#wf18#1 degree#n#wf21#1
+
+ctx_08002717-n(trade#n#wf9#01091905-n)#enterprise
+East_India_Company#n#wf0#2 English#a#wf2#1 company#n#wf3#1 form#v#wf4#1 develop#v#wf8#1 trade#n#wf9#1 new#a#wf12#1 British#a#wf13#1 colony#n#wf14#1 India#n#wf16#1 southeastern#a#wf18#1 Asia#n#wf19#1 18th#a#wf23#1 century#n#wf24#1 assume#v#wf26#1 administrative#a#wf27#1 control#n#wf28#1 Bengal#n#wf30#1 hold#v#wf32#1 British#n#wf36#1 army#n#wf37#1 take_over#v#wf38#1 Indian_Mutiny#n#wf44#1
+
+ctx_08021129-n(overthrow#v#wf16#00716130-v)#politics
+GRAPO#n#wf0#2 armed#a#wf2#1 wing#n#wf3#1 illegal#a#wf7#1 Communist_Party#n#wf9#1 Spain#n#wf12#1 seek#v#wf14#1 overthrow#v#wf16#1 Spanish#a#wf18#1 government#n#wf19#1 replace#v#wf21#1 Marxist-Leninist#a#wf25#1 regime#n#wf26#1
+
+ctx_08033829-n(Communist_Party#n#wf14#08258523-n)#politics
+Manuel_Rodriquez_Patriotic_Front#n#wf0#2 terrorist_group#n#wf2#1 form#v#wf4#1 armed#a#wf9#1 wing#n#wf10#1 Chilean#n#wf13#1 Communist_Party#n#wf14#1
+
+ctx_08044265-n(Armed_Islamic_Group#n#wf8#08016035-n)#politics
+Salafist_Group#n#wf0#2 Algerian#a#wf2#1 extremist#a#wf3#1 Islamic#a#wf4#1 offshoot#n#wf5#1 Armed_Islamic_Group#n#wf8#1 now#r#wf12#1 large#a#wf14#1 most#r#wf16#1 active#a#wf17#1 armed#a#wf18#1 terrorist_group#n#wf19#1 Algeria#n#wf22#1 seek#v#wf24#1 overthrow#v#wf26#1 government#n#wf28#1 major#a#wf31#1 source#n#wf32#1 support#n#wf34#1 recruitment#n#wf36#1 al-Qaeda#n#wf38#1 operation#n#wf39#1 Europe#n#wf41#1 northern#a#wf43#1 Africa#n#wf44#1
+
+ctx_08052874-n(area#n#wf6#08497294-n)#politics
+local_government#n#wf0#2 government#n#wf2#1 local#a#wf5#1 area#n#wf6#1
+
+ctx_08056128-n(needy#n#wf9#08469678-n)#factotum
+soup_kitchen#n#wf0#2 place#n#wf2#1 food#n#wf4#1 be#v#wf5#1 dispense#v#wf6#1 needy#n#wf9#1
+
+ctx_08075388-n(occupation#n#wf6#00582388-n)#sociology
+sodality#n#wf0#2 people#n#wf1#1 engage#v#wf2#1 particular#a#wf5#1 occupation#n#wf6#1
+
+ctx_08083320-n(continuity#n#wf10#05054130-n)#religion
+Catholic_Church#n#wf0#2 several#a#wf3#1 church#n#wf4#1 claim#v#wf5#1 have#v#wf7#1 maintain#v#wf8#1 historical#a#wf9#1 continuity#n#wf10#1 original#a#wf13#1 Christian_Church#n#wf14#1
+
+ctx_08110197-n(true#a#wf10#02460502-a)#biology
+form_genus#n#wf0#2 biology#n#tok2#1 artificial#a#wf2#1 taxonomic_category#n#wf3#1 organism#n#wf6#1 true#a#wf10#1 relationship#n#wf11#1 be#v#wf12#1 obscure#a#wf13#1
+
+ctx_08113197-n(individual#n#wf4#00007846-n)#factotum
+community_of_scholars#n#wf0#2 body#n#wf2#1 individual#n#wf4#1 hold#v#wf5#1 advanced#a#wf6#1 academic_degree#n#wf7#1
+
+ctx_08129621-n(responsible#a#wf7#00324878-a)#politics
+Census_Bureau#n#wf0#2 bureau#n#wf2#1 Commerce_Department#n#wf5#1 responsible#a#wf7#1 take#v#wf9#1 census#n#wf11#1 provide#v#wf13#1 demographic#a#wf14#1 information#n#wf15#1 analysis#n#wf17#1 population#n#wf20#1 United_States#n#wf23#1
+
+ctx_08197149-n(emergency#n#wf21#14032599-n)#military
+Air_National_Guard#n#wf0#2 civilian#a#wf2#1 reserve#n#wf3#1 component#n#wf4#1 United_States_Air_Force#n#wf7#1 provide#v#wf12#1 prompt#a#wf13#1 mobilization#n#wf14#1 war#n#wf16#1 assistance#n#wf18#1 national#a#wf20#1 emergency#n#wf21#1
+
+ctx_08236027-n(citizenship#n#wf6#04898208-n)#free_time
+Lions_Club#n#wf0#2 club#n#wf1#1 dedicate#v#wf2#1 promote#v#wf4#1 responsible#a#wf5#1 citizenship#n#wf6#1 good#a#wf8#1 government#n#wf9#1 community#n#wf11#1 national#a#wf13#1 international#a#wf15#1 welfare#n#wf16#1
+
+ctx_08261958-n(form#v#wf10#02448185-v)#politics
+Liberty_Party#n#wf0#2 former#a#wf2#1 political_party#n#wf3#1 United_States#n#wf7#1 form#v#wf10#1 oppose#v#wf14#1 practice#n#wf16#1 slavery#n#wf18#1 merge#v#wf20#1 Free_Soil_Party#n#wf23#1
+
+ctx_08267197-n(hard_disk#n#wf8#03492542-n)#publishing
+file_allocation_table#n#wf0#2 part#n#wf2#1 floppy_disk#n#wf5#1 hard_disk#n#wf8#1 information#n#wf11#1 be#v#wf12#1 store#v#wf13#1 location#n#wf16#1 piece#n#wf19#1 information#n#wf21#1 disk#n#wf24#1 location#n#wf29#1 unusable#a#wf31#1 area#n#wf32#1 disk#n#wf35#1
+
+ctx_08284847-n(filing#n#wf11#00811491-n)#school
+secretarial_school#n#wf0#2 school#n#wf2#1 secretarial#a#wf4#1 skill#n#wf5#1 typing#n#wf7#1 shorthand#n#wf9#1 filing#n#wf11#1 be#v#wf14#1 teach#v#wf15#1
+
+ctx_08302468-n(prevention#n#wf8#01077350-n)#administration
+United_Nations_Crime_Prevention_and_Criminal_Justice#n#wf0#2 United_Nations#n#wf2#1 office#n#wf4#1 responsible#a#wf5#1 crime#n#wf7#1 prevention#n#wf8#1 criminal#a#wf10#1 justice#n#wf11#1 law#n#wf13#1 reform#n#wf14#1
+
+ctx_08310722-n(council#n#wf2#08310949-n)#administration
+North_Atlantic_Council#n#wf0#2 council#n#wf2#1 consist#v#wf3#1 permanent#a#wf5#1 representative#n#wf6#1 member#n#wf10#1 country#n#wf11#1 have#v#wf15#1 political#a#wf16#1 authority#n#wf17#1 power#n#wf19#1 decision#n#wf21#1
+
+ctx_08315442-n(Holy_Land#n#wf26#08798382-n)#factotum
+First_Lateran_Council#n#wf0#2 first#a#wf2#1 council#n#wf3#1 Western_Church#n#wf6#1 hold#v#wf8#1 Lateran_Palace#n#wf11#1 focus_on#v#wf16#1 church#n#wf18#1 discipline#n#wf19#1 make#v#wf21#1 plan#n#wf22#1 recover#v#wf24#1 Holy_Land#n#wf26#1 Muslim#a#wf30#1 infidel#n#wf31#1
+
+ctx_08317529-n(doctrine#n#wf36#05943300-n)#factotum
+Council_of_Trent#n#wf0#2 council#n#wf2#1 Roman_Catholic_Church#n#wf5#1 convene#v#wf8#1 Trento#n#wf10#1 session#n#wf13#1 examine#v#wf19#1 condemn#v#wf21#1 teaching#n#wf23#1 Martin_Luther#n#wf25#1 other#a#wf28#1 Protestant#a#wf29#1 reformer#n#wf30#1 redefine#v#wf32#1 Roman_Catholic#n#wf34#1 doctrine#n#wf36#1 abolish#v#wf38#1 various#a#wf39#1 ecclesiastical#a#wf40#1 abuse#n#wf41#1 strengthen#v#wf43#1 papacy#n#wf45#1
+
+ctx_08320385-n(Yasser_Arafat#n#wf29#10821218-n)#politics
+Palestine_Liberation_Organization#n#wf0#2 political_movement#n#wf2#1 unite#v#wf4#1 Palestinian_Arab#n#wf5#1 effort#n#wf9#1 create#v#wf11#1 independent#a#wf13#1 state#n#wf14#1 Palestine#n#wf16#1 form#v#wf19#1 be#v#wf23#1 terrorist_organization#n#wf25#1 dominate#v#wf27#1 Yasser_Arafat#n#wf29#1 al-Fatah#n#wf31#1 Arafat#n#wf35#1 become#v#wf36#1 chairman#n#wf37#1 receive#v#wf39#1 recognition#n#wf40#1 United_Nations#n#wf43#1 Arab#n#wf47#1 state#n#wf48#1 government#n#wf53#1 exile#n#wf55#1 have#v#wf57#1 play#v#wf58#1 largely#r#wf60#1 political#a#wf61#1 role#n#wf62#1 creation#n#wf65#1 Palestine_National_Authority#n#wf68#1
+
+ctx_08429899-n(defensive#a#wf2#01630117-a)#football
+secondary#n#wf0#2 defensive#a#wf2#1 football_player#n#wf3#1 line_up#v#wf6#1 lineman#n#wf10#1
+
+ctx_08523340-n(hairline#n#wf4#05256220-n)#anatomy
+trichion#n#wf0#2 point#n#wf1#1 hairline#n#wf4#1 meet#v#wf5#1 midpoint#n#wf7#1 forehead#n#wf10#1
+
+ctx_08599488-n(internationally#r#wf8#00112279-r)#geography
+Greenwich_Meridian#n#wf0#2 meridian#a#wf2#1 passing#n#wf3#1 Greenwich#n#wf5#1 be#v#wf7#1 internationally#r#wf8#1 adopt#v#wf9#1 earth#n#wf12#1 longitude#n#wf15#1
+
+ctx_08617873-n(patriarch#n#wf5#10406905-n)#law
+patriarchate#n#wf0#2 jurisdiction#n#wf2#1 patriarch#n#wf5#1
+
+ctx_08651104-n(line#n#wf2#08593924-n)#sport
+sideline#n#wf0#2 line#n#wf2#1 mark#v#wf4#1 side#a#wf6#1 boundary#n#wf7#1 playing_field#n#wf10#1
+
+ctx_08720481-n(slope#n#wf10#09437454-n)#geography
+Republic_of_Chile#n#wf0#2 republic#n#wf2#1 southern#a#wf4#1 South_America#n#wf5#1 western#a#wf9#1 slope#n#wf10#1 Andes#n#wf13#1 south#a#wf16#1 Pacific_Coast#n#wf17#1
+
+ctx_08761868-n(large#a#wf4#01382086-a)#geography
+Kobenhavn#n#wf0#2 capital#n#wf2#1 large#a#wf4#1 city#n#wf5#1 Denmark#n#wf7#1 locate#v#wf9#1 island#n#wf12#1 Zealand#n#wf14#1
+
+ctx_08766236-n(Baltic#n#wf15#09213254-n)#geography
+capital_of_Sweden#n#wf0#2 capital#n#wf2#1 large#a#wf4#1 city#n#wf5#1 Sweden#n#wf7#1 locate#v#wf9#1 southern#a#wf11#1 Sweden#n#wf12#1 Baltic#n#wf15#1
+
+ctx_08847268-n(island#n#wf1#09316454-n)#geography
+Commonwealth_of_the_Bahamas#n#wf0#2 island#n#wf1#1 country#n#wf2#1 Atlantic#a#wf5#1 east#n#wf8#1 Florida#n#wf10#1 Cuba#n#wf12#1 popular#a#wf15#1 winter#n#wf16#1 resort#n#wf17#1
+
+ctx_08853308-n(city#n#wf2#08524735-n)#geography
+capital_of_Bolivia#n#wf0#2 capital#a#wf1#1 city#n#wf2#1 western#a#wf4#1 Bolivia#n#wf5#1 administrative#a#wf8#1 seat#n#wf9#1 Bolivia#n#wf11#1 government#n#wf12#1 large#a#wf14#1 city#n#wf15#1 Bolivia#n#wf17#1
+
+ctx_08879680-n(major#a#wf13#01472628-a)#town_planning
+Portsmouth#n#wf0#2 port#a#wf2#1 city#n#wf3#1 southern#a#wf5#1 England#n#wf6#1 English_Channel#n#wf9#1 Britain#n#wf12#1 major#a#wf13#1 naval#a#wf14#1 base#n#wf15#1
+
+ctx_08881256-n(county#n#wf2#08546183-n)#geography
+Berkshire#n#wf0#2 county#n#wf2#1 southern#a#wf4#1 England#n#wf5#1
+
+ctx_08890097-n(United_Kingdom_of_Great_Britain_and_Northern_Ireland#n#wf10#08860123-n)#administration
+Scotland#n#wf0#2 country#n#wf5#1 make_up#v#wf7#1 United_Kingdom_of_Great_Britain_and_Northern_Ireland#n#wf10#1 locate#v#wf19#1 northern#a#wf22#1 part#n#wf23#1 island#n#wf26#1 Great_Britain#n#wf28#1 famous#a#wf31#1 bagpipe#n#wf33#1 plaid#n#wf35#1 kilt#n#wf37#1
+
+ctx_08914193-n(Iraq#n#wf6#08913434-n)#geography
+capital_of_Iraq#n#wf0#2 capital#n#wf1#1 large#a#wf3#1 city#n#wf4#1 Iraq#n#wf6#1 locate#v#wf8#1 Tigris_River#n#wf11#1
+
+ctx_08926543-n(southern#a#wf7#01605081-a)#town_planning
+Toyota#n#wf0#2 industrial#a#wf2#1 city#n#wf3#1 Japan#n#wf5#1 southern#a#wf7#1 Honshu#n#wf8#1
+
+ctx_08968390-n(Europe#n#wf6#09275473-n)#geography
+Tatary#n#wf0#2 vast#a#wf2#1 geographical_region#n#wf3#1 Europe#n#wf6#1 Asia#n#wf8#1 be#v#wf10#1 control#v#wf11#1 Mongol#n#wf14#1 13th#a#wf17#1 14th#a#wf19#1 century#n#wf20#1
+
+ctx_08974330-n(city#n#wf4#08524735-n)#town_planning
+Ibadan#n#wf0#2 large#a#wf2#1 Yoruba#n#wf3#1 city#n#wf4#1 southwestern#a#wf6#1 Nigeria#n#wf7#1 site#n#wf9#1 university#n#wf12#1
+
+ctx_08983556-n(Madonna#n#wf14#11161412-n)#town_planning
+Czestochowa#n#wf0#2 city#n#wf2#1 southern#a#wf4#1 Poland#n#wf5#1 church#n#wf7#1 contain#v#wf8#1 statue#n#wf10#1 black#a#wf13#1 Madonna#n#wf14#1 attract#v#wf16#1 pilgrim#n#wf18#1
+
+ctx_09008723-n(city#n#wf3#08524735-n)#town_planning
+Murmansk#n#wf0#2 port#a#wf2#1 city#n#wf3#1 northwestern#a#wf5#1 Russia#n#wf6#1 Kola_Peninsula#n#wf9#1 large#a#wf13#1 city#n#wf14#1 north#n#wf17#1 Arctic_Circle#n#wf20#1 important#a#wf24#1 supply_line#n#wf25#1 Russia#n#wf28#1 World_War_I#n#wf30#1 World_War_II#n#wf34#1
+
+ctx_09023118-n(France#n#wf11#08929922-n)#geography
+Principality_of_Andorra#n#wf0#2 small#a#wf2#1 republic#n#wf3#1 eastern#a#wf6#1 Pyrenees#n#wf7#1 Spain#n#wf9#1 France#n#wf11#1
+
+ctx_09024467-n(Spain#n#wf9#09023321-n)#geography
+capital_of_Spain#n#wf0#2 capital#n#wf2#1 large#a#wf4#1 city#n#wf5#1 situate#v#wf6#1 centrally#r#wf7#1 Spain#n#wf9#1 home#a#wf11#1 outstanding#a#wf14#1 art#n#wf15#1 museum#n#wf16#1
+
+ctx_09070487-n(city#n#wf7#08524735-n)#administration
+District_of_Columbia#n#wf0#2 district#n#wf2#1 occupy#v#wf3#1 entirely#r#wf4#1 city#n#wf7#1 Washington#n#wf9#1 choose#v#wf11#1 George_Washington#n#wf13#1 site#n#wf17#1 capital_of_the_United_States#n#wf20#1 create#v#wf26#1 out#r#wf27#1 land#n#wf29#1 cede#v#wf30#1 Maryland#n#wf32#1 Virginia#n#wf34#1
+
+ctx_09074140-n(Walt_Disney_World#n#wf9#09075688-n)#geography
+Orlando#n#wf0#2 city#n#wf2#1 central#a#wf4#1 Florida#n#wf5#1 site#n#wf7#1 Walt_Disney_World#n#wf9#1
+
+ctx_09109444-n(midwestern#a#wf2#00826403-a)#geography
+Nebraska#n#wf0#2 midwestern#a#wf2#1 state#n#wf3#1 Great_Plains#n#wf6#1
+
+ctx_09113611-n(Continental_Army#n#wf9#08394811-n)#town_planning
+Morristown#n#wf0#2 town#n#wf2#1 northern#a#wf4#1 New_Jersey#n#wf5#1 Continental_Army#n#wf9#1 spend#v#wf11#1 winter#n#wf13#1
+
+ctx_09121458-n(district#n#wf2#08552138-n)#geography
+Hell's_Kitchen#n#wf0#2 district#n#wf2#1 Manhattan#n#wf4#1 formerly#r#wf5#1 note#v#wf6#1 slum#n#wf9#1 vice#n#wf11#1
+
+ctx_09147504-n(Utah#n#wf5#09147046-n)#town_planning
+Ogden#n#wf0#2 town#n#wf2#1 northern#a#wf4#1 Utah#n#wf5#1 settle#v#wf6#1 Mormon#n#wf8#1
+
+ctx_09153570-n(Washington#n#wf5#09152944-n)#town_planning
+Aberdeen#n#wf0#2 town#n#wf2#1 western#a#wf4#1 Washington#n#wf5#1
+
+ctx_09172111-n(desert#n#wf2#08505573-n)#tourism
+Rub_al-Khali#n#wf0#2 desert#n#wf2#1 southern#a#wf4#1 Saudi_Arabia#n#wf5#1
+
+ctx_09210236-n(Atlantic_Ocean#n#wf5#09209263-n)#geology
+Atlantic_Coast#n#wf0#2 coast#n#wf2#1 Atlantic_Ocean#n#wf5#1
+
+ctx_09230202-n(side#n#wf17#09437454-n)#tourism
+butte#n#wf0#2 hill#n#wf2#1 rise#v#wf4#1 abruptly#r#wf5#1 surrounding#a#wf8#1 region#n#wf9#1 have#v#wf11#1 flat#a#wf13#1 top#n#wf14#1 sloping#a#wf16#1 side#n#wf17#1
+
+ctx_09281914-n(river#n#wf7#09411430-n)#geography
+floodplain#n#wf0#2 low#a#wf2#1 plain#a#wf3#1 adjacent#a#wf4#1 river#n#wf7#1 be#v#wf9#1 form#v#wf10#1 chiefly#r#wf11#1 river#n#wf13#1 sediment#n#wf14#1 be#v#wf16#1 subject#a#wf17#1 flooding#n#wf19#1
+
+ctx_09302127-n(stream#n#wf2#09448361-n)#geography
+headstream#n#wf0#2 stream#n#wf2#1 form#v#wf4#1 source#n#wf6#1 river#n#wf9#1
+
+ctx_09304376-n(ridge#n#wf3#09409752-n)#geology
+horseback#n#wf0#2 narrow#a#wf2#1 ridge#n#wf3#1 hill#n#wf5#1
+
+ctx_09338910-n(peninsula#n#wf2#09388848-n)#geography
+Liaodong_Peninsula#n#wf0#2 peninsula#n#wf2#1 northeastern#a#wf4#1 China#n#wf5#1 extend#v#wf7#1 Yellow_Sea#n#wf10#1 Bo_Hai#n#wf14#1 Korea_Bay#n#wf17#1
+
+ctx_09339810-n(mantle#n#wf13#09346450-n)#astronomy
+lithosphere#n#wf0#2 solid#a#wf2#1 part#n#wf3#1 earth#n#wf6#1 consist#v#wf7#1 crust#n#wf10#1 outer#a#wf12#1 mantle#n#wf13#1
+
+ctx_09340644-n(join#v#wf16#02622234-v)#geography
+Little_Missouri_River#n#wf0#2 river#n#wf2#1 rise#v#wf4#1 northeastern#a#wf6#1 Wyoming#n#wf7#1 flow#v#wf9#1 Montana#n#wf11#1 South_Dakota#n#wf13#1 join#v#wf16#1 Missouri_River#n#wf18#1 North_Dakota#n#wf21#1
+
+ctx_09347208-n(link#v#wf17#02622234-v)#geography
+Sea_of_Marmora#n#wf0#2 inland#a#wf2#1 sea#n#wf3#1 northwestern#a#wf5#1 Turkey#n#wf6#1 link#v#wf8#1 Black_Sea#n#wf11#1 Bosporus#n#wf15#1 link#v#wf17#1 Aegean#n#wf20#1 Dardanelles#n#wf23#1
+
+ctx_09374773-n(ear#n#wf10#13133613-n)#plants
+nubbin#n#wf0#2 small#a#wf2#1 nub#n#wf3#1 especially#r#wf5#1 undeveloped#a#wf7#1 fruit#n#wf8#1 ear#n#wf10#1 corn#n#wf12#1
+
+ctx_09424118-n(Aegean#n#wf5#09188609-n)#geography
+Saronic_Gulf#n#wf0#2 gulf#n#wf2#1 Aegean#n#wf5#1 southeastern#a#wf8#1 coast#n#wf9#1 Greece#n#wf11#1
+
+ctx_09432549-n(American_Civil_War#n#wf23#01301630-n)#geology
+Shenandoah_Valley#n#wf0#2 large#a#wf2#1 valley#n#wf3#1 Allegheny_Mountains#n#wf6#1 Blue_Ridge_Mountains#n#wf10#1 northern#a#wf14#1 Virginia#n#wf15#1 site#n#wf17#1 numerous#a#wf19#1 battle#n#wf20#1 American_Civil_War#n#wf23#1
+
+ctx_09483738-n(creature#n#wf2#09976429-n)#factotum
+imaginary_creature#n#wf0#2 creature#n#wf2#1 imagination#n#wf5#1 person#n#wf8#1 exist#v#wf10#1 only#r#wf11#1 legend#n#wf13#1 myth#n#wf15#1 fiction#n#wf17#1
+
+ctx_09489146-n(small#a#wf7#01391351-a)#factotum
+Maxwell's_demon#n#wf0#2 imaginary_creature#n#wf2#1 control#v#wf5#1 small#a#wf7#1 hole#n#wf8#1 partition#n#wf11#1 divide#v#wf13#1 chamber#n#wf15#1 fill#v#wf16#1 gas#n#wf18#1 part#n#wf21#1 allow#v#wf23#1 fast#a#wf24#1 molecule#n#wf25#1 move#v#wf27#1 direction#n#wf30#1 slow#a#wf32#1 molecule#n#wf33#1 move#v#wf35#1 other#a#wf38#1 direction#n#wf39#1 hole#n#wf42#1 result#v#wf46#1 part#n#wf49#1 container#n#wf52#1 become#v#wf53#1 warm#a#wf54#1 other#a#wf57#1 cooler#n#wf58#1 thus#r#wf60#1 decrease#v#wf61#1 entropy#n#wf62#1 violate#v#wf64#1 second_law_of_thermodynamics#n#wf66#1
+
+ctx_09525279-n(form#n#wf25#05930736-n)#religion
+Devi#n#wf0#2 Hindu#a#wf1#1 mother#n#wf2#1 goddess#n#wf3#1 supreme#a#wf5#1 power#n#wf6#1 universe#n#wf9#1 wife#n#wf11#1 embodiment#n#wf13#1 female#a#wf16#1 energy#n#wf17#1 Siva#n#wf19#1 have#v#wf20#1 both#a#wf21#1 beneficent#a#wf22#1 malevolent#a#wf24#1 form#n#wf25#1 aspect#n#wf27#1
+
+ctx_09537325-n(awaited#a#wf2#00929815-a)#history
+Messiah#n#wf0#2 awaited#a#wf2#1 king#n#wf3#1 Jew#n#wf6#1 promise#v#wf9#1 expect#v#wf11#1 deliverer#n#wf12#1 Jewish#a#wf15#1 people#n#wf16#1
+
+ctx_09541526-n(sand#n#wf8#15019030-n)#mythology
+sandman#n#wf0#2 elf#n#wf2#1 fairy_story#n#wf4#1 sprinkle#n#wf7#1 sand#n#wf8#1 child#n#wf10#1 eye#n#wf11#1 make#v#wf13#1 sleepy#a#wf15#1
+
+ctx_09544433-n(form#n#wf23#05217168-n)#religion
+jinni#n#wf0#2 Islam#n#tok2#1 invisible#a#wf2#1 spirit#n#wf3#1 mention#v#wf4#1 Koran#n#wf7#1 believe#v#wf9#1 Muslim#n#wf11#1 inhabit#v#wf13#1 earth#n#wf15#1 influence#n#wf17#1 mankind#n#wf18#1 appear#v#wf20#1 form#n#wf23#1 human#n#wf25#1 animal#n#wf27#1
+
+ctx_09555785-n(counterpart#n#wf14#05695806-n)#mythology
+Mars#n#wf0#2 Roman#n#tok2#1 mythology#n#tok3#1 Roman#a#wf1#1 god_of_war#n#wf2#1 agriculture#n#wf6#1 father#n#wf8#1 Romulus#n#wf10#1 Remus#n#wf12#1 counterpart#n#wf14#1 Greek#n#wf16#1 Ares#n#wf17#1
+
+ctx_09702673-n(Saxon#n#wf14#09702836-n)#geography
+Angle#n#wf0#2 member#n#wf2#1 Germanic#a#wf5#1 people#n#wf6#1 conquer#v#wf8#1 England#n#wf9#1 merge#v#wf11#1 Saxon#n#wf14#1 Jute#n#wf16#1 become#v#wf18#1 Anglo-Saxon#n#wf19#1
+
+ctx_09801864-n(expert#n#wf4#09617867-n)#person
+prentice#n#wf0#2 work#n#wf1#1 expert#n#wf4#1 learn#v#wf6#1 trade#n#wf8#1
+
+ctx_09817694-n(navigator#n#wf2#10348365-n)#aviation
+astrogator#n#wf0#2 navigator#n#wf2#1 spacecraft#n#wf5#1
+
+ctx_09823287-n(policy#n#wf10#06656408-n)#occultism
+auspex#n#wf0#2 ancient#n#tok2#1 Rome#n#tok3#1 religious#a#wf2#1 official#n#wf3#1 interpreted#a#wf5#1 omen#n#wf6#1 guide#v#wf8#1 public#a#wf9#1 policy#n#wf10#1
+
+ctx_09840217-n(businessman#n#wf6#09882007-n)#commerce
+tycoon#n#wf0#2 very#r#wf2#1 wealthy#a#wf3#1 powerful#a#wf5#1 businessman#n#wf6#1
+
+ctx_09885866-n(furniture#n#wf7#03405725-n)#buildings
+furniture_maker#n#wf0#2 woodworker#n#wf2#1 specialize#v#wf4#1 make#v#wf6#1 furniture#n#wf7#1
+
+ctx_09890507-n(Israelite#n#wf17#09715685-n)#anthropology
+Canaanite#n#wf0#2 member#n#wf2#1 ancient#a#wf5#1 Semitic#a#wf6#1 people#n#wf7#1 occupy#v#wf9#1 Canaan#n#wf10#1 be#v#wf13#1 conquer#v#wf14#1 Israelite#n#wf17#1
+
+ctx_09899929-n(someone#n#wf1#00007846-n)#pedagogy
+sophist#n#wf0#2 someone#n#wf1#1 reasoning#n#wf3#1 be#v#wf4#1 subtle#a#wf5#1 often#r#wf7#1 specious#a#wf8#1
+
+ctx_09910556-n(professional#a#wf12#02839695-a)#economy
+chartered_accountant#n#wf0#2 British#n#wf2#1 Canadian#n#wf4#1 accountant#n#wf5#1 be#v#wf7#1 member#n#wf9#1 professional#a#wf12#1 body#n#wf13#1 have#v#wf15#1 royal_charter#n#wf17#1
+
+ctx_09962214-n(persecution#n#wf15#00420477-n)#religion
+Converso#n#wf0#2 Spain#n#tok3#1 Portugal#n#tok5#1 Jew#n#wf2#1 Moor#n#wf4#1 profess#v#wf6#1 convert#v#wf8#1 Christianity#n#wf10#1 order#n#wf12#1 avoid#v#wf14#1 persecution#n#wf15#1 expulsion#n#wf17#1
+
+ctx_09964202-n(airplane#n#wf6#02691156-n)#nautical
+copilot#n#wf0#2 relief#n#wf2#1 pilot#n#wf3#1 airplane#n#wf6#1
+
+ctx_09993122-n(formerly#r#wf1#00118965-r)#heraldry
+dauphin#n#wf0#2 formerly#r#wf1#1 eldest#a#wf4#1 son#n#wf5#1 King_of_France#n#wf8#1 direct#a#wf12#1 heir#n#wf13#1 throne#n#wf16#1
+
+ctx_10014771-n(professional#a#wf15#02839695-a)#medicine
+diplomate#n#wf0#2 medical_specialist#n#wf1#1 competence#n#wf4#1 have#v#wf5#1 be#v#wf6#1 certify#v#wf7#1 diploma#n#wf10#1 grant#v#wf11#1 appropriate#a#wf14#1 professional#a#wf15#1 group#n#wf16#1
+
+ctx_10020890-n(licensed#a#wf2#00178811-a)#medicine
+physician#n#wf0#2 licensed#a#wf2#1 medical_practitioner#n#wf3#1
+
+ctx_10039946-n(dunk_shot#n#wf9#00110554-n)#basketball
+dunker#n#wf0#2 basketball_player#n#wf2#1 be#v#wf5#1 able#a#wf6#1 make#v#wf8#1 dunk_shot#n#wf9#1
+
+ctx_10042074-n(inhabitant#n#wf2#09620078-n)#geography
+easterner#n#wf0#2 inhabitant#n#wf2#1 eastern#a#wf5#1 area#n#wf6#1 especially#r#wf8#1
+
+ctx_10087255-n(potential#a#wf13#01884176-a)#law
+saboteur#n#wf0#2 member#n#wf2#1 clandestine#a#wf5#1 subversive#a#wf6#1 organization#n#wf7#1 try#v#wf9#1 help#v#wf11#1 potential#a#wf13#1 invader#n#wf14#1
+
+ctx_10096016-n(rank#n#wf6#08398179-n)#military
+fleet_admiral#n#wf0#2 admiral#n#wf2#1 high#a#wf5#1 rank#n#wf6#1
+
+ctx_10099375-n(accept#v#wf4#00797697-v)#person
+follower#n#wf0#2 person#n#wf2#1 accept#v#wf4#1 leadership#n#wf6#1
+
+ctx_10108937-n(French#a#wf6#02958392-a)#person
+franc-tireur#n#wf0#2 sharpshooter#n#wf2#1 French#a#wf6#1 army#n#wf7#1
+
+ctx_10137632-n(Latin#a#wf21#03080101-a)#school
+goliard#n#wf0#2 wandering#a#wf2#1 scholar#n#wf3#1 medieval#a#wf5#1 Europe#n#wf6#1 famed#a#wf8#1 intemperance#n#wf10#1 riotous#a#wf12#1 behavior#n#wf13#1 composition#n#wf16#1 satirical#a#wf18#1 ribald#a#wf20#1 Latin#a#wf21#1 song#n#wf22#1
+
+ctx_10143371-n(grandstand#n#wf14#03452953-n)#person
+grandstander#n#wf0#2 someone#n#wf1#1 perform#v#wf3#1 eye#n#wf6#1 applause#n#wf9#1 spectator#n#wf11#1 grandstand#n#wf14#1
+
+ctx_10147619-n(person#n#wf2#00007846-n)#person
+groaner#n#wf0#2 person#n#wf2#1 groan#v#wf4#1
+
+ctx_10156831-n(China#n#wf8#08723006-n)#geography
+Hakka#n#wf0#2 member#n#wf2#1 people#n#wf5#1 southeastern#a#wf7#1 China#n#wf8#1 especially#r#wf10#1 Hong_Kong#n#wf11#1 Canton#n#wf14#1 Taiwan#n#wf17#1 migrate#v#wf20#1 north#n#wf23#1 12th#a#wf26#1 century#n#wf27#1
+
+ctx_10173086-n(celebrate#v#wf8#02398956-v)#mythology
+hero#n#wf0#2 classical#n#tok2#1 mythology#n#tok3#1 being#n#wf2#1 great#a#wf4#1 strength#n#wf5#1 courage#n#wf7#1 celebrate#v#wf8#1 bold#a#wf10#1 exploit#n#wf11#1 often#r#wf13#1 offspring#n#wf15#1 mortal#n#wf18#1 god#n#wf21#1
+
+ctx_10174589-n(ambition#n#wf7#04836268-n)#person
+highflyer#n#wf0#2 person#n#wf2#1 great#a#wf4#1 ability#n#wf5#1 ambition#n#wf7#1
+
+ctx_10186143-n(horseman#n#wf3#10185793-n)#sport
+horsewoman#n#wf0#2 woman#n#wf2#1 horseman#n#wf3#1
+
+ctx_10210137-n(hope#n#wf18#07541053-n)#politics
+rebel#n#wf0#2 person#n#wf2#1 take_part#v#wf4#1 armed#a#wf8#1 rebellion#n#wf9#1 constituted#a#wf12#1 authority#n#wf13#1 especially#r#wf15#1 hope#n#wf18#1 improve#v#wf20#1 condition#n#wf21#1
+
+ctx_10218292-n(follower#n#wf2#10099375-n)#person
+Jacksonian#n#wf0#2 follower#n#wf2#1 Andrew_Jackson#n#wf4#1 idea#n#wf8#1
+
+ctx_10226556-n(seem#v#wf6#02133435-v)#factotum
+steamroller#n#wf0#2 massive#a#wf2#1 inexorable#a#wf3#1 force#n#wf4#1 seem#v#wf6#1 crush#v#wf8#1 way#n#wf12#1
+
+ctx_10229721-n(woman#n#wf14#10787470-n)#transport
+kerb_crawler#n#wf0#2 someone#n#wf1#1 drive#v#wf3#1 slowly#r#wf4#1 curb#n#wf7#1 seeking#n#wf8#1 sex#n#wf9#1 prostitute#n#wf11#1 other#a#wf13#1 woman#n#wf14#1
+
+ctx_10272375-n(appoint#v#wf3#02475922-v)#art
+Lord_of_Misrule#n#wf0#2 person#n#wf2#1 appoint#v#wf3#1 master#n#wf4#1 revel#n#wf6#1 Christmas#n#wf9#1 celebration#n#wf10#1
+
+ctx_10304160-n(choose#v#wf3#00674607-v)#person
+queen_of_the_May#n#wf0#2 girl#n#wf2#1 choose#v#wf3#1 queen#n#wf4#1 May_Day#n#wf7#1 festival#n#wf9#1
+
+ctx_10335246-n(grief#n#wf6#07535010-n)#person
+sorrower#n#wf0#2 person#n#wf2#1 be#v#wf4#1 feeling#n#wf5#1 grief#n#wf6#1 grieve#v#wf9#1 someone#n#wf11#1 have#v#wf13#1 die#v#wf14#1
+
+ctx_10359659-n(undercover_agent#n#wf2#10641755-n)#person
+NOC#n#wf0#2 undercover_agent#n#wf2#1 be#v#wf5#1 give#v#wf6#1 no#r#wf7#1 official#a#wf8#1 cover#n#wf9#1
+
+ctx_10390902-n(polytheistic#a#wf6#01781356-a)#religion
+pagan#n#wf0#2 person#n#wf2#1 follow#v#wf4#1 polytheistic#a#wf6#1 pre-Christian#a#wf8#1 religion#n#wf9#1 not#r#wf11#1 Christian#n#wf13#1 Muslim#n#wf15#1 Jew#n#wf17#1
+
+ctx_10414768-n(pentathlon#n#wf7#07457722-n)#sport
+pentathlete#n#wf0#2 athlete#n#wf2#1 compete#v#wf4#1 pentathlon#n#wf7#1
+
+ctx_10458519-n(woman#n#wf2#10787470-n)#commerce
+proprietress#n#wf0#2 woman#n#wf2#1 proprietor#n#wf3#1
+
+ctx_10469611-n(employ#v#wf2#02409412-v)#commerce
+publicity_man#n#wf0#2 someone#n#wf1#1 employ#v#wf2#1 arrange#v#wf4#1 publicity#n#wf5#1 firm#n#wf9#1 public_figure#n#wf12#1
+
+ctx_10470132-n(Apocalypse#n#wf11#06447897-n)#religion
+preterist#n#wf0#2 theologian#n#wf2#1 believe#v#wf4#1 Scripture#n#wf7#1 prophecy#n#wf8#1 Apocalypse#n#wf11#1 Book_of_Revelation#n#wf14#1 have#v#wf18#1 already#r#wf19#1 be#v#wf20#1 fulfil#v#wf21#1
+
+ctx_10488656-n(human#a#wf18#01258617-a)#psychology
+psycholinguist#n#wf0#2 person#n#wf2#1 usually#r#wf4#1 psychologist#n#wf6#1 sometimes#r#wf8#1 linguist#n#wf10#1 study#v#wf13#1 psychological#a#wf15#1 basis#n#wf16#1 human#a#wf18#1 language#n#wf19#1
+
+ctx_10498046-n(tremble#v#wf5#01888511-v)#person
+trembler#n#wf0#2 quake#v#wf3#1 tremble#v#wf5#1 fear#n#wf12#1
+
+ctx_10511069-n(visitor#n#wf13#10757193-n)#person
+receptionist#n#wf0#2 secretary#n#wf2#1 main#a#wf4#1 duty#n#wf5#1 be#v#wf6#1 answer#v#wf8#1 telephone#n#wf10#1 receive#v#wf12#1 visitor#n#wf13#1
+
+ctx_10540526-n(supporter#n#wf2#10677713-n)#history
+Roundhead#n#wf0#2 supporter#n#wf2#1 parliament#n#wf4#1 Oliver_Cromwell#n#wf6#1 English_Civil_War#n#wf10#1
+
+ctx_10569411-n(government#n#wf9#05663671-n)#person
+secret_agent#n#wf0#2 person#n#wf2#1 secretly#r#wf3#1 employ#v#wf4#1 espionage#n#wf6#1 government#n#wf9#1
+
+ctx_10656969-n(Home_Secretary#n#wf8#10182628-n)#law
+stipendiary_magistrate#n#wf0#2 pay#v#wf2#1 magistrate#n#wf3#1 appoint#v#wf5#1 Home_Secretary#n#wf8#1 deal#v#wf11#1 police#n#wf13#1 case#n#wf14#1
+
+ctx_10713124-n(person#n#wf2#00007846-n)#person
+titterer#n#wf0#2 person#n#wf2#1 laugh#v#wf4#1 nervously#r#wf5#1
+
+ctx_10713502-n(toast#n#wf5#07884413-n)#sport
+wassailer#n#wf0#2 someone#n#wf1#1 propose#v#wf3#1 toast#n#wf5#1 someone#n#wf7#1 drink#v#wf9#1 health#n#wf12#1 success#n#wf14#1 someone#n#wf16#1 venture#n#wf19#1
+
+ctx_10746195-n(North_Africa#n#wf13#09178141-n)#history
+Vandal#n#wf0#2 member#n#wf2#1 Germanic#a#wf5#1 people#n#wf6#1 overrun#v#wf8#1 Gaul#n#wf9#1 Spain#n#wf11#1 North_Africa#n#wf13#1 sacked#a#wf16#1 Rome#n#wf17#1
+
+ctx_10781547-n(territory#n#wf8#08552138-n)#commerce
+wildcatter#n#wf0#2 oilman#n#wf2#1 drill#v#wf4#1 exploratory#a#wf5#1 well#n#wf6#1 territory#n#wf8#1 not#r#wf9#1 know#v#wf10#1 be#v#wf12#1 oil#n#wf14#1 field#n#wf15#1
+
+ctx_10841065-n(abolition#n#wf10#00228283-n)#religion
+Henry_Ward_Beecher#n#wf0#2 United_States#n#wf1#1 clergyman#n#wf3#1 be#v#wf5#1 leader#n#wf7#1 abolition#n#wf10#1 slavery#n#wf12#1
+
+ctx_10848802-n(composer#n#wf5#09947232-n)#music
+Leonard_Bernstein#n#wf0#2 United_States#n#wf1#1 conductor#n#wf3#1 composer#n#wf5#1
+
+ctx_10850667-n(India#n#wf6#08900535-n)#economy
+William_Henry_Beveridge#n#wf0#2 British#n#wf1#1 economist#n#wf2#1 bear#v#wf4#1 India#n#wf6#1 report#n#wf9#1 social_insurance#n#wf11#1 basis#n#wf15#1 social#a#wf20#1 legislation#n#wf21#1 welfare_state#n#wf25#1 United_Kingdom#n#wf29#1 be#v#wf31#1 base#v#wf32#1
+
+ctx_10869385-n(politician#n#wf5#10450303-n)#politics
+William_Jennings_Bryan#n#wf0#2 United_States#n#wf1#1 lawyer#n#wf3#1 politician#n#wf5#1 advocate#v#wf7#1 free#r#wf8#1 silver#v#wf9#1 prosecute#v#wf11#1 John_Scopes#n#wf12#1 teach#v#wf15#1 evolution#n#wf16#1 Tennessee#n#wf19#1 highschool#n#wf20#1
+
+ctx_10879551-n(Roman_Emperor#n#wf1#10537240-n)#history
+Gaius_Caesar#n#wf0#2 Roman_Emperor#n#wf1#1 succeed#v#wf4#1 Tiberius#n#wf5#1 uncontrolled#a#wf8#1 passion#n#wf9#1 result#v#wf10#1 manifest#a#wf12#1 insanity#n#wf13#1 note#v#wf15#1 cruelty#n#wf18#1 tyranny#n#wf20#1 be#v#wf22#1 assassinated#a#wf23#1
+
+ctx_10885176-n(explore#v#wf4#00649481-v)#history
+Jacques_Cartier#n#wf0#2 French#a#wf1#1 explorer#n#wf2#1 explore#v#wf4#1 St._Lawrence_River#n#wf6#1 lay_claim#v#wf10#1 region#n#wf14#1 France#n#wf16#1
+
+ctx_10892564-n(execute#v#wf18#02483267-v)#history
+Charles_Stuart#n#wf0#2 son#n#wf1#1 James_I#n#wf3#1 be#v#wf6#1 King_of_England#n#wf7#1 Scotland#n#wf11#1 Ireland#n#wf13#1 be#v#wf15#1 depose#v#wf16#1 execute#v#wf18#1 Oliver_Cromwell#n#wf20#1
+
+ctx_10896987-n(English#a#wf2#03003344-a)#literature
+Dame_Agatha_Mary_Clarissa_Christie#n#wf0#2 prolific#a#wf1#1 English#a#wf2#1 writer#n#wf3#1 detective_story#n#wf5#1
+
+ctx_10897312-n(leader#n#wf4#09623038-n)#politics
+Winston_S._Churchill#n#wf0#2 British#a#wf1#1 statesman#n#wf2#1 leader#n#wf4#1 World_War_II#n#wf6#1 receive#v#wf10#1 Nobel_prize#n#wf11#1 literature#n#wf14#1
+
+ctx_10934154-n(Atlantic#n#wf26#09209263-n)#history
+Diaz#n#wf0#2 Portuguese#a#wf1#1 explorer#n#wf2#1 be#v#wf6#1 first#a#wf8#1 European#n#wf9#1 get#v#wf11#1 Cape_of_Good_Hope#n#wf14#1 thus#r#wf19#1 establish#v#wf20#1 sea#n#wf22#1 route#n#wf23#1 Atlantic#n#wf26#1 Asia#n#wf28#1
+
+ctx_10936424-n(Syracuse#n#wf4#08810051-n)#history
+Dionysius_the_Elder#n#wf0#2 tyrant#n#wf2#1 Syracuse#n#wf4#1 fight#v#wf6#1 Carthaginian#n#wf8#1 BC#r#tok4#1
+
+ctx_10959857-n(condemn#v#wf32#00864159-v)#school
+Gerhard_Gerhards#n#wf0#2 Dutch#a#wf1#1 humanist#n#wf2#1 theologian#n#wf4#1 be#v#wf6#1 leading#a#wf8#1 Renaissance#n#wf9#1 scholar#n#wf10#1 northern_Europe#n#wf12#1 criticism#n#wf17#1 Roman_Catholic_Church#n#wf20#1 lead#v#wf23#1 Reformation#n#wf26#1 opposed#a#wf29#1 violence#n#wf30#1 condemn#v#wf32#1 Martin_Luther#n#wf33#1
+
+ctx_10987044-n(landscape#n#wf4#03640011-n)#painting
+Thomas_Gainsborough#n#wf0#2 English#a#wf1#1 portrait#n#wf2#1 landscape#n#wf4#1 painter#n#wf5#1
+
+ctx_10997068-n(George_Gershwin#n#wf10#10996876-n)#literature
+Ira_Gershwin#n#wf0#2 United_States#n#wf1#1 lyricist#n#wf3#1 frequently#r#wf5#1 collaborate#v#wf6#1 brother#n#wf9#1 George_Gershwin#n#wf10#1
+
+ctx_10997405-n(modern#a#wf10#01535709-a)#biology
+Konrad_von_Gesner#n#wf0#2 Swiss#a#wf1#1 naturalist#n#wf2#1 be#v#wf4#1 founder#n#wf8#1 modern#a#wf10#1 zoology#n#wf11#1
+
+ctx_10997553-n(sculpture#n#wf9#04157320-n)#painting
+Giacometti#n#wf0#2 Swiss#a#wf1#1 sculptor#n#wf2#1 painter#n#wf4#1 know#v#wf5#1 bronze#a#wf8#1 sculpture#n#wf9#1 elongated#a#wf11#1 figure#n#wf12#1
+
+ctx_11011559-n(Lytton_Strachey#n#wf6#11320631-n)#painting
+Grant#n#wf0#2 Scottish#a#wf1#1 painter#n#wf2#1 cousin#n#wf4#1 Lytton_Strachey#n#wf6#1 member#n#wf9#1 Bloomsbury_Group#n#wf12#1
+
+ctx_11028074-n(film#n#wf3#06613686-n)#theatre
+Tom_Hanks#n#wf0#2 United_States#n#wf1#1 film#n#wf3#1 actor#n#wf4#1 bear#v#tok2#1
+
+ctx_11045106-n(mechanical_device#n#wf20#03736970-n)#person
+Heron#n#wf0#2 Greek#a#wf1#1 mathematician#n#wf2#1 inventor#n#wf4#1 devise#v#wf6#1 way#n#wf8#1 determine#v#wf10#1 area#n#wf12#1 triangle#n#wf15#1 describe#v#wf18#1 various#a#wf19#1 mechanical_device#n#wf20#1 first#r#wf23#1 century#n#wf24#1
+
+ctx_11062649-n(feminist#n#wf3#10084635-n)#person
+Julia_Ward_Howe#n#wf0#2 United_States#n#wf1#1 feminist#n#wf3#1 be#v#wf5#1 active#a#wf6#1 woman#n#wf9#1 suffrage#n#wf10#1 movement#n#wf11#1
+
+ctx_11076079-n(troop#n#wf12#08397255-n)#military
+Thomas_Jonathan_Jackson#n#wf0#2 general#n#wf1#1 Confederate_Army#n#wf4#1 American_Civil_War#n#wf8#1 troop#n#wf12#1 first#a#wf15#1 Battle_of_Bull_Run#n#wf16#1 stand#v#wf20#1 stone_wall#n#wf23#1
+
+ctx_11078982-n(disciple#n#wf1#10016103-n)#religion
+St._James_the_Apostle#n#wf0#2 Testament#n#tok3#1 disciple#n#wf1#1 Jesus#n#wf3#1 brother#n#wf5#1 John#n#wf7#1 author#n#wf9#1 Epistle_of_James#n#wf12#1 New_Testament#n#wf17#1
+
+ctx_11104896-n(filmmaker#n#wf2#10088390-n)#person
+Krzysztof_Kieslowski#n#wf0#2 Polish#a#wf1#1 filmmaker#n#wf2#1 make#v#wf4#1 film#n#wf6#1 base#v#wf7#1 Ten_Commandments#n#wf10#1
+
+ctx_11114791-n(evolution#n#wf6#13477023-n)#biology
+Lamarck#n#wf0#2 French#a#wf1#1 naturalist#n#wf2#1 propose#v#wf4#1 evolution#n#wf6#1 result#v#wf7#1 inheritance#n#wf10#1 acquire#v#wf12#1 characteristic#n#wf13#1
+
+ctx_11122114-n(preserve#n#wf27#08587439-n)#paleontology
+Richard_Leakey#n#wf0#2 English#a#wf1#1 paleontologist#n#wf2#1 son#n#wf4#1 Louis_Leakey#n#wf6#1 Mary_Leakey#n#wf9#1 continue#v#wf13#1 work#n#wf15#1 parent#n#wf18#1 be#v#wf21#1 appoint#v#wf22#1 director#n#wf23#1 wildlife#n#wf26#1 preserve#n#wf27#1 Kenya#n#wf29#1 resign#v#wf31#1 political#a#wf33#1 pressure#n#wf34#1 bear#v#tok2#1
+
+ctx_11146494-n(historical#a#wf4#01730060-a)#literature
+Lytton#n#wf0#2 English#a#wf1#1 writer#n#wf2#1 historical#a#wf4#1 romance#n#wf5#1
+
+ctx_11151798-n(free_verse#n#wf7#06380373-n)#literature
+Stephane_Mallarme#n#wf0#2 French#a#wf1#1 symbolist#n#wf2#1 poet#n#wf3#1 note#v#wf4#1 free_verse#n#wf7#1
+
+ctx_11206356-n(golfer#n#wf11#10136959-n)#golf
+Nicklaus#n#wf0#2 United_States#n#wf1#1 golfer#n#wf3#1 consider#v#wf4#1 be#v#wf8#1 great#a#wf10#1 golfer#n#wf11#1 of_all_time#r#wf12#1 bear#v#tok2#1
+
+ctx_11209201-n(sculptor#n#wf3#10566072-n)#art
+Noguchi#n#wf0#2 United_States#n#wf1#1 sculptor#n#wf3#1
+
+ctx_11212226-n(leader#n#wf3#09623038-n)#history
+Odovakar#n#wf0#2 Germanic#a#wf1#1 barbarian#a#wf2#1 leader#n#wf3#1 end#v#wf5#1 Western_Roman_Empire#n#wf7#1 become#v#wf13#1 first#a#wf15#1 barbarian#a#wf16#1 ruler#n#wf17#1 Italy#n#wf19#1
+
+ctx_11218625-n(King_of_the_Germans#n#wf1#10234867-n)#history
+Otto_the_Great#n#wf0#2 King_of_the_Germans#n#wf1#1 Holy_Roman_Emperor#n#wf6#1
+
+ctx_11246040-n(singer#n#wf4#10599806-n)#music
+Presley#n#wf0#2 United_States#n#wf1#1 rock#n#wf3#1 singer#n#wf4#1 hit#n#wf7#1 record#n#wf8#1 flamboyant#a#wf10#1 style#n#wf11#1 greatly#r#wf12#1 influence#v#wf13#1 American#a#wf14#1 popular_music#n#wf15#1
+
+ctx_11248232-n(19th#a#wf10#02204472-a)#architecture
+Pugin#n#wf0#2 English#a#wf1#1 architect#n#wf2#1 play#v#wf4#1 prominent#a#wf6#1 role#n#wf7#1 19th#a#wf10#1 century#n#wf11#1 revival#n#wf12#1 Gothic_architecture#n#wf14#1
+
+ctx_11263180-n(song#n#wf5#06893772-n)#person
+Ringling#n#wf0#2 United_States#n#wf1#1 showman#n#wf3#1 song#n#wf5#1 dance#n#wf7#1 troop#n#wf8#1 evolve#v#wf9#1 circus#n#wf12#1
+
+ctx_11266279-n(championship#n#wf9#07457834-n)#boxing
+Walker_Smith#n#wf0#2 United_States#n#wf1#1 prizefighter#n#wf3#1 win#v#wf5#1 world#a#wf7#1 middleweight#n#wf8#1 championship#n#wf9#1 time#n#wf11#1 world#a#wf14#1 welterweight#n#wf15#1 championship#n#wf16#1 once#r#wf17#1
+
+ctx_11321647-n(opera#n#wf5#07026352-n)#music
+Strauss#n#wf0#2 German#a#wf1#1 composer#n#wf2#1 opera#n#wf5#1 collaborate#v#wf7#1 librettist#n#wf9#1 Hugo_von_Hoffmannsthal#n#wf10#1 produce#v#wf14#1 several#a#wf15#1 opera#n#wf16#1
+
+ctx_11328714-n(27th#a#wf1#02205496-a)#politics
+William_Howard_Taft#n#wf0#2 27th#a#wf1#1 President_of_the_United_States#n#wf2#1 late#r#wf8#1 chief_justice#n#wf9#1 United_States_Supreme_Court#n#wf13#1
+
+ctx_11332892-n(biochemist#n#wf3#09854915-n)#chemistry
+Tatum#n#wf0#2 United_States#n#wf1#1 biochemist#n#wf3#1 discover#v#wf5#1 gene#n#wf7#1 act#v#wf8#1 regulate#v#wf10#1 definite#a#wf11#1 chemical#a#wf12#1 event#n#wf13#1
+
+ctx_11340146-n(physicist#n#wf2#10428004-n)#physics
+Thomson#n#wf0#2 English#a#wf1#1 physicist#n#wf2#1 experiment#v#wf4#1 conduction#n#wf7#1 electricity#n#wf9#1 gas#n#wf11#1 discover#v#wf14#1 electron#n#wf16#1 determine#v#wf18#1 charge#n#wf20#1 mass#n#wf22#1
+
+ctx_11342905-n(note#v#wf3#01020005-v)#economy
+Tinbergen#n#wf0#2 Dutch#a#wf1#1 economist#n#wf2#1 note#v#wf3#1 work#n#wf6#1 econometrics#n#wf8#1
+
+ctx_11389003-n(James_II#n#wf22#11080174-n)#history
+William_of_Orange#n#wf0#2 King_of_England#n#wf1#1 Scotland#n#wf5#1 Ireland#n#wf7#1 marry#v#wf10#1 daughter#n#wf12#1 James_II#n#wf14#1 be#v#wf17#1 invite#v#wf18#1 opponent#n#wf20#1 James_II#n#wf22#1 invade#v#wf25#1 England#n#wf26#1 James#n#wf29#1 flee#v#wf30#1 III#n#wf33#1 Mary_II#n#wf35#1 be#v#wf37#1 declare#v#wf38#1 joint#a#wf39#1 monarch#n#wf40#1
+
+ctx_11397271-n(build#v#wf14#01654628-v)#commerce
+Woolworth#n#wf0#2 United_States#n#wf1#1 businessman#n#wf3#1 open#v#wf5#1 shop#n#wf7#1 sell#v#wf10#1 low-priced#a#wf11#1 good#n#wf12#1 build#v#wf14#1 national#a#wf18#1 chain#n#wf19#1 store#n#wf21#1
+
+ctx_11417129-n(response#n#wf2#11416988-n)#factotum
+reaction#n#wf0#2 response#n#wf2#1 reveal#v#wf4#1 person#n#wf6#1 feeling#n#wf7#1 attitude#n#wf9#1
+
+ctx_11457057-n(line#n#wf3#08593262-n)#factotum
+line_of_force#n#wf0#2 imaginary#a#wf2#1 line#n#wf3#1 field_of_force#n#wf6#1 direction#n#wf10#1 line#n#wf13#1 point#n#wf16#1 be#v#wf17#1 direction#n#wf19#1 force#n#wf22#1 point#n#wf25#1
+
+ctx_11507321-n(frequency#n#wf14#15278281-n)#radio
+medium_wave#n#wf0#2 radio_wave#n#wf2#1 wavelength#n#wf6#1 meter#n#wf11#1 frequency#n#wf14#1 kilohertz#n#wf17#1 kilohertz#n#wf20#1
+
+ctx_11542640-n(wet#a#wf14#02547317-a)#biology
+liverwort#n#wf0#2 numerous#a#wf3#1 small#a#wf4#1 green#a#wf5#1 nonvascular_plant#n#wf6#1 class_Hepaticopsida#n#wf10#1 grow#v#wf12#1 wet#a#wf14#1 place#n#wf15#1 resemble#v#wf17#1 green#a#wf18#1 seaweed#n#wf19#1 leafy#a#wf21#1 moss#n#wf22#1
+
+ctx_11617090-n(long#a#wf5#01433493-a)#plants
+Pinus_radiata#n#wf0#2 tall#a#wf1#1 California#n#wf2#1 pine#v#wf3#1 long#a#wf5#1 needle#n#wf6#1 bunch#n#wf8#1 dense#a#wf13#1 crown#n#wf14#1 deeply#r#wf19#1 fissure#v#wf20#1 bark#n#wf21#1
+
+ctx_11626826-n(North_America#n#wf5#09372504-n)#plants
+yellow_spruce#n#wf0#2 medium-sized#a#wf1#1 spruce#n#wf2#1 eastern#a#wf4#1 North_America#n#wf5#1 chief#a#wf8#1 lumber#n#wf9#1 spruce#n#wf10#1 area#n#wf13#1 source#n#wf15#1 pulpwood#n#wf17#1
+
+ctx_11628087-n(tall#a#wf1#02385102-a)#plants
+western_hemlock#n#wf0#2 tall#a#wf1#1 evergreen#n#wf2#1 western#a#wf4#1 North_America#n#wf5#1 commercially#r#wf8#1 important#a#wf9#1 timber_tree#n#wf10#1
+
+ctx_11631985-n(endemic#n#wf5#11530715-n)#plants
+Guadalupe_cypress#n#wf0#2 relatively#r#wf1#1 low#a#wf2#1 wide#a#wf3#1 spreading#n#wf4#1 endemic#n#wf5#1 Guadalupe_Island#n#wf7#1 cultivate#v#wf10#1 bluish#a#wf13#1 foliage#n#wf14#1
+
+ctx_11652039-n(genus_Podocarpus#n#wf9#11651731-n)#plants
+podocarp#n#wf0#2 evergreen#n#wf2#1 southern_hemisphere#n#wf5#1 genus_Podocarpus#n#wf9#1 have#v#wf11#1 pulpy#a#wf13#1 fruit#n#wf14#1 hard#a#wf17#1 seed#n#wf18#1
+
+ctx_11660537-n(subdivision#n#wf18#08401248-n)#biology
+subdivision_Taxophytina#n#wf0#2 yew#n#wf1#1 system#n#wf5#1 classify#v#wf6#1 class_Taxopsida#n#wf9#1 subdivision#n#wf18#1 Taxophytina#n#wf20#1 use#v#wf22#1 classification#n#wf25#1 subdivision#n#wf30#1 Gymnospermophyta#n#wf32#1
+
+ctx_11731659-n(northeastern#a#wf3#01601592-a)#plants
+purple_virgin's_bower#n#wf0#2 climber#n#wf1#1 northeastern#a#wf3#1 North_America#n#wf4#1 have#v#wf6#1 waxy#a#wf7#1 purplish-blue#a#wf8#1 flower#n#wf9#1
+
+ctx_11736851-n(cut#v#wf6#00663267-a)#plants
+love-in-a-mist#n#wf0#2 European#a#wf1#1 garden_plant#n#wf2#1 have#v#wf4#1 finely#r#wf5#1 cut#v#wf6#1 leaf#n#wf7#1 white#a#wf9#1 flower#n#wf13#1
+
+ctx_11746600-n(hardwood#n#wf10#15100112-n)#plants
+Connarus_guianensis#n#wf0#2 tropical#a#wf1#1 American#a#wf2#1 tree#n#wf6#1 strikingly#r#wf8#1 marked#a#wf9#1 hardwood#n#wf10#1 use#v#wf11#1 cabinetwork#n#wf13#1
+
+ctx_11760294-n(place#v#wf19#00618878-v)#plants
+Piptadenia_macrocarpa#n#wf0#2 Brazilian#a#wf1#1 shrub#n#wf2#1 have#v#wf3#1 twice-pinnate#n#wf4#1 leaf#n#wf5#1 small#a#wf7#1 spicate#a#wf8#1 flower#n#wf9#1 follow#v#wf10#1 flat#a#wf12#1 irregularly#r#wf14#1 torulose#a#wf15#1 pod#n#wf16#1 sometimes#r#wf18#1 place#v#wf19#1 genus_Piptadenia#n#wf21#1
+
+ctx_11777080-n(shrub#n#wf3#13112664-n)#plants
+yellow_oleander#n#wf0#2 tropical#a#wf1#1 American#a#wf2#1 shrub#n#wf3#1 small#a#wf5#1 tree#n#wf6#1 have#v#wf7#1 glossy#a#wf8#1 leaf#n#wf11#1 fragrant#a#wf13#1 saffron#n#wf14#1 yellow#a#wf15#1 orange#n#wf17#1 flower#n#wf21#1 all#a#wf23#1 part#n#wf24#1 highly#r#wf25#1 poisonous#a#wf26#1
+
+ctx_11789962-n(plant#n#wf2#00017222-n)#plants
+nephthytis#n#wf0#2 plant#n#wf2#1 genus_Nephthytis#n#wf5#1
+
+ctx_11796744-n(liana#n#wf7#13120211-n)#biology
+ivy_family#n#wf0#2 mostly#r#wf1#1 tropical#a#wf2#1 tree#n#wf3#1 shrub#n#wf5#1 liana#n#wf7#1 genus_Hedera#n#wf9#1
+
+ctx_11804082-n(group_Centrospermae#n#wf6#11804433-n)#biology
+order_Caryophyllales#n#wf0#2 correspond#v#wf1#1 approximately#r#wf2#1 old#a#wf5#1 group_Centrospermae#n#wf6#1
+
+ctx_11809271-n(large#a#wf8#01382086-a)#plants
+cheddar_pink#n#wf0#2 mat#n#wf1#1 form#v#wf2#1 perennial#a#wf3#1 central#a#wf5#1 Europe#n#wf6#1 large#a#wf8#1 fragrant#a#wf9#1 pink#a#wf10#1 red#a#wf12#1 flower#n#wf13#1
+
+ctx_11837351-n(dune#n#wf13#09270735-n)#plants
+yellow_sand_verbena#n#wf0#2 plant#n#wf1#1 have#v#wf2#1 hemispherical#a#wf3#1 head#n#wf4#1 yellow#a#wf6#1 trumpet-shaped#a#wf7#1 flower#n#wf8#1 find#v#wf10#1 coastal#a#wf12#1 dune#n#wf13#1 California#n#wf15#1 British_Columbia#n#wf17#1
+
+ctx_11849871-n(genus_Mammillaria#n#wf5#11849666-n)#plants
+mammillaria#n#wf0#2 cactus#n#wf2#1 genus_Mammillaria#n#wf5#1
+
+ctx_11874300-n(hoary_alyssum#n#wf1#11874423-n)#biology
+genus_Berteroa#n#wf0#2 hoary_alyssum#n#wf1#1
+
+ctx_11898271-n(basal#a#wf10#00318667-a)#plants
+awlwort#n#wf0#2 small#a#wf1#1 aquatic_plant#n#wf2#1 have#v#wf4#1 tufted#a#wf5#1 awl-shaped#a#wf6#1 leaf#n#wf7#1 basal#a#wf10#1 rosette#n#wf11#1 minute#a#wf13#1 white#a#wf14#1 flower#n#wf15#1 circumboreal#a#wf17#1
+
+ctx_11922374-n(low-growing#a#wf1#01207007-a)#plants
+pussytoes#n#wf0#2 low-growing#a#wf1#1 perennial#a#wf2#1 herb#n#wf3#1 have#v#wf4#1 leaf#n#wf5#1 whitish#a#wf7#1 down#n#wf8#1 cluster#n#wf10#1 small#a#wf12#1 white#a#wf13#1 flower#n#wf14#1
+
+ctx_11973159-n(coarse#a#wf4#02346557-a)#biology
+genus_Grindelia#n#wf0#2 large#a#wf1#1 genus#n#wf2#1 coarse#a#wf4#1 gummy#a#wf5#1 herb#n#wf6#1 western#a#wf8#1 North_America#n#wf9#1 Central_America#n#wf11#1
+
+ctx_11996251-n(herb#n#wf1#12205694-n)#plants
+wild_climbing_hempweed#n#wf0#2 herb#n#wf1#1 tropical#a#wf3#1 America#n#wf4#1 have#v#wf5#1 vanilla-scented#a#wf6#1 flower#n#wf7#1 climb#v#wf9#1 tree#n#wf11#1
+
+ctx_12003407-n(congeneric#n#wf22#01328302-n)#biology
+genus_Pilosella#n#wf0#2 genus#n#wf1#1 hairy#a#wf3#1 perennial#a#wf4#1 herb#n#wf5#1 horizontal#a#wf7#1 rhizome#n#wf8#1 leafy#a#wf10#1 underground#a#wf12#1 stolon#n#wf13#1 Eurasia#n#wf15#1 North_Africa#n#wf17#1 often#r#wf20#1 consider#v#wf21#1 congeneric#n#wf22#1 Hieracium#n#wf24#1
+
+ctx_12012111-n(American#a#wf1#02927303-a)#plants
+ragwort#n#wf0#2 American#a#wf1#1 ragwort#n#wf2#1 yellow#a#wf4#1 flower#n#wf5#1
+
+ctx_12014739-n(spirally#r#wf8#00464044-r)#biology
+genus_Serratula#n#wf0#2 genus#n#wf1#1 Old_World#n#wf3#1 perennial#a#wf5#1 herb#n#wf6#1 spirally#r#wf8#1 arrange#v#wf9#1 toothed#a#wf10#1 leaf#n#wf11#1
+
+ctx_12026981-n(European#a#wf1#02968325-a)#plants
+yellow_salsify#n#wf0#2 European#a#wf1#1 perennial#n#wf2#1 naturalize#v#wf3#1 United_States#n#wf5#1 have#v#wf7#1 hollow#a#wf8#1 stem#n#wf9#1 long#a#wf13#1 narrow#a#wf14#1 tapered#a#wf15#1 leaf#n#wf16#1 bear#v#wf19#1 solitary#a#wf21#1 pale#a#wf22#1 yellow#a#wf23#1 flower#n#wf24#1
+
+ctx_12034141-n(plant#n#wf4#00017222-n)#plants
+zinnia#n#wf0#2 various#a#wf3#1 plant#n#wf4#1 genus_Zinnia#n#wf7#1 cultivate#v#wf9#1 variously#r#wf12#1 brightly#r#wf14#1 colored#a#wf15#1 flower_head#n#wf16#1
+
+ctx_12044041-n(orchid#n#wf3#12041446-n)#plants
+showy_orchis#n#wf0#2 North_American#n#wf1#1 orchid#n#wf3#1 have#v#wf4#1 spike#n#wf6#1 violet-purple#a#wf8#1 flower#n#wf9#1 mix#v#wf10#1 white#n#wf12#1 sepal#n#wf14#1 petal#n#wf16#1 form#v#wf17#1 hood#n#wf19#1
+
+ctx_12063887-n(giant#n#wf16#01323781-n)#biology
+genus_Grammatophyllum#n#wf0#2 small#a#wf1#1 genus#n#wf2#1 large#a#wf4#1 epiphytic#a#wf5#1 terrestrial#a#wf7#1 orchid#n#wf8#1 southeastern#a#wf10#1 Asia#n#wf11#1 Polynesia#n#wf13#1 giant#n#wf16#1 Orchidaceae#n#wf19#1 have#v#wf20#1 long#a#wf21#1 narrow#a#wf22#1 leaf#n#wf23#1 drooping#a#wf25#1 flower#n#wf26#1 cluster#n#wf27#1 often#r#wf28#1 foot#n#wf30#1 long#a#wf31#1
+
+ctx_12067193-n(flower#n#wf11#11669335-n)#plants
+ragged_orchis#n#wf0#2 fringed_orchid#n#wf1#1 eastern_United_States#n#wf5#1 have#v#wf8#1 greenish#a#wf10#1 flower#n#wf11#1 lip#n#wf14#1 deeply#r#wf15#1 lacerated#a#wf16#1
+
+ctx_12081488-n(epiphytic#a#wf3#03022349-a)#biology
+genus_Rhyncostylis#n#wf0#2 genus#n#wf1#1 epiphytic#a#wf3#1 orchid#n#wf4#1 tropical#a#wf6#1 Asia#n#wf7#1
+
+ctx_12099342-n(mauve#a#wf18#00377890-a)#plants
+statice#n#wf0#2 various#a#wf3#1 plant#n#wf4#1 genus_Limonium#n#wf7#1 temperate#a#wf10#1 salt_marsh#n#wf11#1 have#v#wf13#1 spike#n#wf14#1 white#a#wf16#1 mauve#a#wf18#1 flower#n#wf19#1
+
+ctx_12103476-n(western_United_States#n#wf24#08682819-n)#plants
+bunchgrass#n#wf0#2 various#a#wf3#1 grass#n#wf4#1 genus#n#wf7#1 grow#v#wf9#1 tuft#n#wf11#1 clump#v#wf13#1 rather#r#wf14#1 form#v#wf16#1 sod#n#wf18#1 mat#n#wf20#1 chiefly#r#wf22#1 western_United_States#n#wf24#1
+
+ctx_12120812-n(panicle#n#wf10#13132656-n)#biology
+genus_Erianthus#n#wf0#2 genus#n#wf1#1 reedlike#a#wf3#1 grass#n#wf4#1 have#v#wf5#1 spike#n#wf6#1 crowd#v#wf7#1 panicle#n#wf10#1 cover#v#wf11#1 long#a#wf13#1 silky#a#wf14#1 hair#n#wf15#1
+
+ctx_12129986-n(seed#n#wf5#13135832-n)#plants
+canary_grass#n#wf0#2 Canary_Islands#n#wf1#1 grass#n#wf3#1 seed#n#wf5#1 use#v#wf6#1 feed#n#wf8#1 cage#v#wf10#1 bird#n#wf11#1
+
+ctx_12166424-n(mature#a#wf20#01488245-a)#plants
+strainer_vine#n#wf0#2 several#a#wf3#1 tropical#a#wf4#1 annual#a#wf5#1 climber#n#wf6#1 have#v#wf7#1 large#a#wf8#1 yellow#a#wf9#1 flower#n#wf10#1 edible#a#wf12#1 young#a#wf13#1 fruit#n#wf14#1 grow#v#wf16#1 commercially#r#wf17#1 mature#a#wf20#1 fruit#n#wf21#1 dried#a#wf22#1 fibrous#a#wf23#1 interior#n#wf24#1 be#v#wf26#1 use#v#wf27#1 sponge#n#wf30#1
+
+ctx_12169099-n(flower#n#wf19#11669335-n)#plants
+water_lobelia#n#wf0#2 erect#a#wf1#1 perennial#a#wf2#1 aquatic#a#wf3#1 herb#n#wf4#1 Europe#n#wf6#1 North_America#n#wf8#1 have#v#wf10#1 submerged#a#wf11#1 spongy#a#wf12#1 leaf#n#wf13#1 pendulous#a#wf15#1 raceme#n#wf16#1 blue#a#wf18#1 flower#n#wf19#1 water#n#wf22#1
+
+ctx_12222900-n(cultivate#v#wf5#01742726-v)#plants
+wheel_tree#n#wf0#2 eastern#a#wf1#1 Australian#a#wf2#1 tree#n#wf3#1 widely#r#wf4#1 cultivate#v#wf5#1 shade_tree#n#wf8#1 glossy#a#wf13#1 leaf#n#wf14#1 circular#a#wf16#1 cluster#n#wf17#1 showy#a#wf19#1 red#a#wf20#1 orange#a#wf22#1 scarlet#a#wf23#1 flower#n#wf24#1
+
+ctx_12247407-n(North_America#n#wf9#09372504-n)#plants
+dwarf_blueberry#n#wf0#2 low-growing#a#wf1#1 tufted#a#wf2#1 deciduous#a#wf3#1 shrub#n#wf4#1 northern#a#wf6#1 alpine#a#wf8#1 North_America#n#wf9#1 have#v#wf11#1 pink#a#wf12#1 coral-red#a#wf14#1 flower#n#wf15#1 follow#v#wf16#1 sweet#a#wf18#1 blue#a#wf19#1 berry#n#wf20#1
+
+ctx_12273344-n(deciduous#a#wf2#00914104-a)#plants
+Quercus_kelloggii#n#wf0#2 large#a#wf1#1 deciduous#a#wf2#1 tree#n#wf3#1 Pacific_Coast#n#wf6#1 have#v#wf8#1 deeply#r#wf9#1 part#v#wf10#1 bristle#v#wf11#1 tipped#a#wf12#1 leaf#n#wf13#1
+
+ctx_12299988-n(jasmine#n#wf24#12306717-n)#biology
+olive_family#n#wf0#2 tree#n#wf1#1 shrub#n#wf3#1 have#v#wf4#1 berry#n#wf5#1 drupe#n#wf7#1 capsule#n#wf9#1 fruit#n#wf11#1 sometimes#r#wf13#1 place#v#wf14#1 order_Oleales#n#wf17#1 olive#a#wf20#1 ash#n#wf22#1 jasmine#n#wf24#1 privet#n#wf26#1 lilac#n#wf28#1
+
+ctx_12315999-n(showy#a#wf12#00407420-a)#plants
+witch_alder#n#wf0#2 several#a#wf3#1 deciduous#a#wf4#1 low-growing#a#wf5#1 shrub#n#wf6#1 genus_Fothergilla#n#wf9#1 have#v#wf11#1 showy#a#wf12#1 brushlike#a#wf13#1 spike#n#wf14#1 white#a#wf16#1 flower#n#wf17#1 spring#n#wf19#1 fiery#a#wf21#1 red#a#wf22#1 orange#a#wf24#1 autumn#n#wf25#1 color#n#wf26#1 grow#v#wf28#1 Alabama#n#wf30#1 Allegheny_Mountains#n#wf33#1
+
+ctx_12354374-n(genus#n#wf2#08108972-n)#biology
+genus_Strelitzia#n#wf0#2 small#a#wf1#1 genus#n#wf2#1 large#a#wf4#1 perennial#a#wf5#1 evergreen#a#wf6#1 herb#n#wf7#1 have#v#wf8#1 leaf#n#wf9#1 resemble#v#wf10#1 banana#n#wf13#1 plant#n#wf14#1 sometimes#r#wf16#1 place#v#wf17#1 family_Musaceae#n#wf19#1
+
+ctx_12369066-n(Mexico#n#wf25#08740875-n)#plants
+low_St_Andrew's_cross#n#wf0#2 low#a#wf1#1 shrubby#a#wf2#1 plant#n#wf3#1 have#v#wf4#1 yellow#a#wf5#1 flower#n#wf6#1 petal#n#wf9#1 arrange#v#wf10#1 cross#n#wf13#1 Bermuda#n#wf15#1 southeastern_United_States#n#wf17#1 West_Indies#n#wf21#1 eastern#a#wf24#1 Mexico#n#wf25#1
+
+ctx_12375518-n(genus_Helianthemum#n#wf5#12375294-n)#plants
+sunrose#n#wf0#2 plant#n#wf2#1 genus_Helianthemum#n#wf5#1 vigorous#a#wf8#1 plant#n#wf9#1 stony#a#wf11#1 alpine#a#wf12#1 meadow#n#wf13#1 dry#a#wf15#1 scrub#a#wf16#1 region#n#wf17#1
+
+ctx_12377494-n(Philippine#a#wf2#03066180-a)#plants
+red_lauan_tree#n#wf0#2 valuable#a#wf1#1 Philippine#a#wf2#1 timber_tree#n#wf3#1
+
+ctx_12414449-n(pale#a#wf10#00408992-a)#plants
+Persian_iris#n#wf0#2 bulbous_iris#n#wf1#1 native#a#wf3#1 Asia_Minor#n#wf5#1 cultivate#v#wf7#1 pale#a#wf10#1 lilac-colored#a#wf11#1 flower#n#wf12#1
+
+ctx_12422931-n(plant#n#wf2#00017222-n)#biology
+genus_Hypoxis#n#wf0#2 small#a#wf1#1 plant#n#wf2#1 resemble#v#wf4#1 amaryllis#n#wf5#1 grow#v#wf8#1 corm#n#wf11#1 bear#n#wf13#1 flower#n#wf14#1 leafless#a#wf17#1 stalk#n#wf18#1 sometimes#r#wf20#1 classify#v#wf21#1 member#n#wf23#1 family_Amaryllidaceae#n#wf26#1 star_grass#n#wf29#1
+
+ctx_12423211-n(star-shaped#a#wf13#02048344-a)#plants
+star_grass#n#wf0#2 plant#n#wf2#1 genus_Hypoxis#n#wf5#1 have#v#wf7#1 long#a#wf8#1 grasslike#a#wf9#1 leaf#n#wf10#1 yellow#a#wf12#1 star-shaped#a#wf13#1 flower#n#wf14#1 Africa#n#wf16#1 Australia#n#wf18#1 southern#a#wf20#1 Asia#n#wf21#1 North_America#n#wf23#1
+
+ctx_12445387-n(globose#a#wf14#02041229-a)#plants
+brodiaea#n#wf0#2 several#a#wf3#1 plant#n#wf4#1 genus_Brodiaea#n#wf7#1 have#v#wf9#1 basal#a#wf10#1 grasslike#a#wf11#1 leaf#n#wf12#1 globose#a#wf14#1 flower_head#n#wf15#1 leafless#a#wf18#1 stem#n#wf19#1 resemble#v#wf20#1 genus_Allium#n#wf23#1
+
+ctx_12446519-n(genus_Calochortus#n#wf7#12445848-n)#plants
+globe_lily#n#wf0#2 several#a#wf3#1 plant#n#wf4#1 genus_Calochortus#n#wf7#1 have#v#wf9#1 egg-shaped#a#wf10#1 flower#n#wf11#1
+
+ctx_12448361-n(arid#a#wf19#02552415-a)#plants
+sagebrush_mariposa_tulip#n#wf0#2 mariposa#n#wf1#1 have#v#wf2#1 loose#a#wf3#1 cluster#n#wf4#1 handsome#a#wf9#1 lilac#a#wf10#1 flower#n#wf11#1 resemble#v#wf12#1 umbel#n#wf13#1 stout#a#wf15#1 erect#a#wf16#1 stem#n#wf17#1 arid#a#wf19#1 northwestern#a#wf20#1 North_America#n#wf21#1 east#n#wf23#1 Cascade_Mountains#n#wf25#1 southern#a#wf28#1 British_Columbia#n#wf29#1 northern#a#wf32#1 California#n#wf33#1
+
+ctx_12461809-n(place#v#wf11#00618878-v)#biology
+genus_Tofieldia#n#wf0#2 genus#n#wf1#1 perennial#a#wf3#1 herb#n#wf4#1 cool#a#wf6#1 temperate#a#wf7#1 region#n#wf8#1 sometimes#r#wf10#1 place#v#wf11#1 family_Melanthiaceae#n#wf13#1
+
+ctx_12470907-n(pale#a#wf15#00408992-a)#plants
+rough_bindweed#n#wf0#2 creep#v#wf1#1 climb#v#wf3#1 evergreen#a#wf4#1 have#v#wf5#1 spiny#a#wf6#1 zigzag#a#wf7#1 stem#n#wf8#1 shiny#a#wf10#1 leaf#n#wf11#1 raceme#n#wf13#1 pale#a#wf15#1 green#a#wf16#1 flower#n#wf17#1 Canary_Islands#n#wf19#1 southern#a#wf22#1 Europe#n#wf23#1 Ethiopia#n#wf25#1 India#n#wf27#1
+
+ctx_12474828-n(southeastern_United_States#n#wf9#08563478-n)#biology
+genus_Uvularia#n#wf0#2 genus#n#wf1#1 perennial#a#wf3#1 rhizomatous#a#wf4#1 herb#n#wf5#1 southern#a#wf7#1 southeastern_United_States#n#wf9#1
+
+ctx_12481806-n(American#a#wf2#02927303-a)#biology
+genus_Yucca#n#wf0#2 tropical#a#wf1#1 American#a#wf2#1 plant#n#wf3#1 stiff#a#wf5#1 lancelike#a#wf6#1 leaf#n#wf7#1 spike#n#wf9#1 white#a#wf11#1 blossom#n#wf12#1 sometimes#r#wf14#1 consider#v#wf15#1 genus#n#wf17#1 Amaryllidaceae#n#wf19#1
+
+ctx_12510569-n(naturalize#v#wf11#00412993-v)#biology
+genus_Cajanus#n#wf0#2 erect#a#wf1#1 densely#r#wf2#1 branched#a#wf3#1 shrubby#a#wf4#1 perennial#n#wf5#1 Old_World#n#wf7#1 tropic#n#wf9#1 naturalize#v#wf11#1 other#a#wf13#1 warm#a#wf14#1 region#n#wf15#1
+
+ctx_12511046-n(mainly#r#wf6#00073897-r)#biology
+genus_Canavalia#n#wf0#2 herb#n#wf1#1 woody#a#wf3#1 vine#n#wf4#1 mainly#r#wf6#1 American#a#wf7#1 tropic#n#wf8#1 subtropics#n#wf10#1
+
+ctx_12511239-n(plant#n#wf4#00017222-n)#plants
+wonder_bean#n#wf0#2 annual#a#wf1#1 semi-erect#a#wf2#1 bushy#a#wf3#1 plant#n#wf4#1 tropical#a#wf6#1 South_America#n#wf7#1 bear#v#wf9#1 long#a#wf10#1 pod#n#wf11#1 white#a#wf13#1 seed#n#wf14#1 grow#v#wf15#1 especially#r#wf16#1 forage#n#wf18#1
+
+ctx_12545635-n(America#n#wf9#09195615-n)#plants
+bird's_foot_trefoil#n#wf0#2 European#a#wf1#1 forage#n#wf2#1 plant#n#wf3#1 have#v#wf4#1 claw-shaped#a#wf5#1 pod#n#wf6#1 introduce#v#wf7#1 America#n#wf9#1
+
+ctx_12558230-n(bean_plant#n#wf4#12556307-n)#plants
+lima_bean_plant#n#wf0#2 bush#a#wf1#1 tall-growing#a#wf3#1 bean_plant#n#wf4#1 have#v#wf6#1 large#a#wf7#1 flat#a#wf8#1 edible_seed#n#wf9#1
+
+ctx_12558680-n(plant#n#wf2#00017222-n)#plants
+tepary_bean#n#wf0#2 twine#v#wf1#1 plant#n#wf2#1 southwestern_United_States#n#wf4#1 Mexico#n#wf8#1 have#v#wf9#1 roundish#a#wf10#1 white#a#wf11#1 yellow#a#wf13#1 brown#a#wf15#1 black_bean#n#wf17#1
+
+ctx_12568186-n(naturalize#v#wf22#00302464-v)#plants
+yellow_locust#n#wf0#2 large#a#wf1#1 thorny#a#wf2#1 tree#n#wf3#1 eastern#a#wf5#1 central#a#wf7#1 United_States#n#wf8#1 have#v#wf10#1 pinnately#r#wf11#1 compound_leaf#n#wf12#1 drooping#a#wf15#1 raceme#n#wf16#1 white#a#wf18#1 flower#n#wf19#1 widely#r#wf21#1 naturalize#v#wf22#1 variety#n#wf25#1 temperate#a#wf27#1 region#n#wf28#1
+
+ctx_12599661-n(finely#r#wf11#00102463-r)#plants
+hoary_plantain#n#wf0#2 Old_World#n#wf3#1 perennial#n#wf5#1 naturalize#v#wf6#1 North_America#n#wf8#1 have#v#wf10#1 finely#r#wf11#1 hairy#a#wf12#1 leaf#n#wf13#1 inconspicuous#a#wf15#1 white#a#wf16#1 fragrant#a#wf17#1 flower#n#wf18#1
+
+ctx_12635359-n(tiny#a#wf13#01392249-a)#plants
+Oregon_crab_apple#n#wf0#2 small#a#wf1#1 tree#n#wf2#1 shrub#n#wf4#1 western_United_States#n#wf6#1 have#v#wf9#1 white#a#wf10#1 blossom#n#wf11#1 tiny#a#wf13#1 yellow#a#wf14#1 red#a#wf16#1 fruit#n#wf17#1
+
+ctx_12644902-n(bushy#a#wf5#00613975-a)#plants
+almond_tree#n#wf0#2 several#a#wf3#1 small#a#wf4#1 bushy#a#wf5#1 tree#n#wf6#1 have#v#wf7#1 pink#a#wf8#1 white#a#wf10#1 blossom#n#wf11#1 usually#r#wf13#1 bear#v#wf14#1 nut#n#wf15#1
+
+ctx_12653762-n(bramble#n#wf1#13119870-n)#plants
+blackberry_bush#n#wf0#2 bramble#n#wf1#1 sweet#a#wf3#1 edible#a#wf4#1 black#a#wf5#1 dark#a#wf7#1 purple#a#wf8#1 berry#n#wf9#1 usually#r#wf11#1 do#v#wf12#1 not#r#wf13#1 separate#v#wf14#1 receptacle#n#wf17#1
+
+ctx_12657082-n(white-flowered#a#wf1#00392367-a)#plants
+thimbleberry#n#wf0#2 white-flowered#a#wf1#1 raspberry#n#wf2#1 western#a#wf4#1 North_America#n#wf5#1 northern#a#wf8#1 Mexico#n#wf9#1 thimble-shaped#a#wf11#1 orange#a#wf12#1 berry#n#wf13#1
+
+ctx_12661227-n(formerly#r#wf10#00118965-r)#plants
+madder#n#wf0#2 Eurasian#a#wf1#1 herb#n#wf2#1 have#v#wf3#1 small#a#wf4#1 yellow#a#wf5#1 flower#n#wf6#1 red#a#wf8#1 root#n#wf9#1 formerly#r#wf10#1 important#a#wf12#1 source#n#wf13#1 dye#n#wf16#1 alizarin#n#wf17#1
+
+ctx_12670172-n(shrub#n#wf7#13112664-n)#biology
+genus_Sarcocephalus#n#wf0#2 genus#n#wf1#1 tropical#a#wf3#1 African#a#wf4#1 tree#n#wf5#1 shrub#n#wf7#1
+
+ctx_12680652-n(treelike#a#wf4#00613382-a)#plants
+wayfaring_tree#n#wf0#2 vigorous#a#wf1#1 deciduous#a#wf2#1 European#a#wf3#1 treelike#a#wf4#1 shrub#n#wf5#1 common#a#wf6#1 wayside#n#wf8#1 red#a#wf10#1 berry#n#wf11#1 turn#v#wf12#1 black#a#wf13#1
+
+ctx_12740514-n(toxic#a#wf24#02449430-a)#biology
+soapberry_family#n#wf0#2 chiefly#r#wf1#1 tropical#a#wf2#1 New_World#n#wf3#1 Old_World#n#wf5#1 deciduous#a#wf7#1 evergreen#a#wf9#1 tree#n#wf10#1 shrub#n#wf12#1 bear#v#wf13#1 leathery#a#wf14#1 drupe#n#wf15#1 yellow#a#wf17#1 translucent#a#wf18#1 flesh#n#wf19#1 plant#n#wf22#1 produce#v#wf23#1 toxic#a#wf24#1 saponin#n#wf25#1
+
+ctx_12767423-n(poisonous#a#wf1#02450512-a)#plants
+eastern_poison_oak#n#wf0#2 poisonous#a#wf1#1 shrub#n#wf2#1 southeastern_United_States#n#wf4#1 cause#v#wf7#1 rash#n#wf9#1 contact#n#wf11#1
+
+ctx_12779851-n(form#v#wf13#02621395-v)#plants
+huntsman's_cups#n#wf0#2 perennial#a#wf1#1 bog#n#wf2#1 herb#n#wf3#1 have#v#wf4#1 dark_red#n#wf5#1 flower#n#wf7#1 decumbent#a#wf9#1 broadly#r#wf10#1 winged#a#wf11#1 pitcher#n#wf12#1 form#v#wf13#1 rosette#n#wf15#1 northeastern#a#wf18#1 North_America#n#wf19#1 naturalize#v#wf22#1 Europe#n#wf24#1 especially#r#wf25#1 Ireland#n#wf26#1
+
+ctx_12810318-n(herbaceous#a#wf1#02576795-a)#biology
+genus_Phlox#n#wf0#2 herbaceous#a#wf1#1 shrubby#a#wf3#1 evergreen#a#wf4#1 deciduous#a#wf6#1 annual#n#wf7#1 perennial#n#wf9#1 diffuse#v#wf11#1 spreading#n#wf13#1 caespitose#a#wf16#1 tufted#a#wf18#1 matted#a#wf20#1 Alaska#n#wf24#1 western#a#wf26#1 Canada#n#wf27#1 Mexico#n#wf29#1
+
+ctx_12815198-n(long#a#wf19#01433493-a)#plants
+desert_willow#n#wf0#2 evergreen#a#wf1#1 shrubby#a#wf2#1 tree#n#wf3#1 resemble#v#wf4#1 willow#n#wf6#1 dry#a#wf8#1 region#n#wf9#1 southwestern#a#wf11#1 North_America#n#wf12#1 have#v#wf14#1 showy#a#wf15#1 purplish#a#wf16#1 flower#n#wf17#1 long#a#wf19#1 seed#n#wf20#1 pod#n#wf21#1
+
+ctx_12815668-n(produce#v#wf5#01752495-v)#plants
+calabash_tree#n#wf0#2 tropical#a#wf1#1 American#a#wf2#1 evergreen#n#wf3#1 produce#v#wf5#1 large#a#wf6#1 round#a#wf7#1 gourd#n#wf8#1
+
+ctx_12822955-n(pink#a#wf7#00379595-a)#plants
+common_comfrey#n#wf0#2 European#a#wf1#1 herb#n#wf2#1 have#v#wf3#1 small#a#wf4#1 white#a#wf5#1 pink#a#wf7#1 purple#a#wf9#1 flower#n#wf10#1 naturalize#v#wf12#1 weed#n#wf15#1 North_America#n#wf17#1
+
+ctx_12824053-n(perennial#n#wf4#11553240-n)#plants
+wild_morning-glory#n#wf0#2 weakly#r#wf1#1 climb#v#wf2#1 European#a#wf3#1 perennial#n#wf4#1 white#a#wf6#1 pink#a#wf8#1 flower#n#wf9#1 naturalize#v#wf11#1 North_America#n#wf13#1 invasive#a#wf17#1 weed#n#wf18#1
+
+ctx_12827907-n(perennial#n#wf7#11553240-n)#plants
+wild_sweet_potato_vine#n#wf0#2 tropical#a#wf1#1 American#a#wf2#1 prostrate#a#wf3#1 climb#v#wf5#1 herbaceous#a#wf6#1 perennial#n#wf7#1 have#v#wf8#1 enormous#a#wf10#1 starchy#a#wf11#1 root#n#wf12#1 sometimes#r#wf14#1 hold#v#wf15#1 be#v#wf17#1 source#n#wf18#1 sweet_potato#n#wf21#1
+
+ctx_12833985-n(primrose#n#wf18#12090890-n)#plants
+streptocarpus#n#wf0#2 various#a#wf3#1 plant#n#wf4#1 genus_Streptocarpus#n#wf7#1 have#v#wf9#1 leaf#n#wf10#1 basal#a#wf13#1 rosette#n#wf14#1 flower#n#wf16#1 primrose#n#wf18#1
+
+ctx_12843316-n(flower#n#wf6#11669335-n)#plants
+large-flowered_calamint#n#wf0#2 aromatic#a#wf1#1 herb#n#wf2#1 large#a#wf4#1 pink#a#wf5#1 flower#n#wf6#1 southern#a#wf8#1 southeastern#a#wf10#1 Europe#n#wf11#1 Anatolia#n#wf13#1 northern#a#wf15#1 Iran#n#wf16#1
+
+ctx_12846690-n(genus_Elsholtzia#n#wf8#12846546-n)#plants
+elsholtzia#n#wf0#2 various#a#wf3#1 aromatic#a#wf4#1 herb#n#wf5#1 genus_Elsholtzia#n#wf8#1 have#v#wf10#1 blue#a#wf11#1 purple#a#wf13#1 flower#n#wf14#1 one-sided#a#wf16#1 spike#n#wf17#1
+
+ctx_12869061-n(moist#a#wf9#02548820-a)#plants
+hedge_nettle#n#wf0#2 perennial#a#wf1#1 herb#n#wf2#1 odorless#a#wf5#1 rhizome#n#wf6#1 widespread#a#wf7#1 moist#a#wf9#1 place#n#wf10#1 northern_hemisphere#n#wf12#1
+
+ctx_12871992-n(aquatic_plant#n#wf2#13121544-n)#biology
+family_Lentibulariaceae#n#wf0#2 carnivorous#a#wf1#1 aquatic_plant#n#wf2#1 bog_plant#n#wf4#1 genus_Utricularia#n#wf7#1 Pinguicula#n#wf10#1
+
+ctx_12877041-n(family_Scrophulariaceae#n#wf7#12876032-n)#biology
+genus_Antirrhinum#n#wf0#2 genus#n#wf2#1 herb#n#wf4#1 family_Scrophulariaceae#n#wf7#1 brightly#r#wf10#1 colored#a#wf11#1 irregular#a#wf12#1 flower#n#wf13#1
+
+ctx_12925583-n(poisonous#a#wf22#00829656-a)#plants
+physic_nut#n#wf0#2 small#a#wf1#1 tropical#a#wf2#1 American#a#wf3#1 tree#n#wf4#1 yield#v#wf5#1 purple#a#wf6#1 dye#n#wf7#1 tanning#n#wf10#1 extract#n#wf11#1 bear#v#wf13#1 physic#n#wf14#1 nut#n#wf15#1 contain#v#wf16#1 purgative#a#wf18#1 oil#n#wf19#1 be#v#wf21#1 poisonous#a#wf22#1 large#a#wf24#1 quantity#n#wf25#1
+
+ctx_12944723-n(white#a#wf18#00393105-a)#plants
+stone_parsley#n#wf0#2 slender#a#wf2#1 roadside#n#wf3#1 herb#n#wf4#1 western#a#wf6#1 Europe#n#wf7#1 Mediterranean#n#wf9#1 area#n#wf10#1 have#v#wf12#1 foliage#n#wf13#1 resemble#v#wf14#1 parsley#n#wf15#1 have#v#wf17#1 white#a#wf18#1 flower#n#wf19#1 aromatic#a#wf21#1 seed#n#wf22#1
+
+ctx_12951465-n(fern#n#wf7#11545714-n)#biology
+family_Hymenophyllaceae#n#wf0#2 terrestrial#a#wf1#1 hygrophytic#a#wf3#1 epiphytic#a#wf6#1 fern#n#wf7#1 filmy_fern#n#wf9#1
+
+ctx_12962847-n(orange#a#wf10#00378892-a)#biology
+chromoplast#n#wf0#2 plastid#n#wf1#1 contain#v#wf2#1 pigment#n#wf3#1 other#a#wf4#1 chlorophyll#n#wf6#1 usually#r#wf7#1 yellow#a#wf8#1 orange#a#wf10#1 carotenoid#n#wf11#1
+
+ctx_12964750-n(genus#n#wf1#08108972-n)#plants
+genus_Ceratostomella#n#wf0#2 genus#n#wf1#1 fungus#n#wf3#1 form#v#wf4#1 continuous#a#wf5#1 hyaline#a#wf6#1 spore#n#wf7#1
+
+ctx_12972136-n(tissue#n#wf33#05267345-n)#plants
+Truncocolumella_citrina#n#wf0#2 fungus#n#wf2#1 round#n#wf5#1 yellow#a#wf6#1 orange#a#wf8#1 fruiting_body#n#wf9#1 be#v#wf12#1 find#v#wf13#1 surface#n#wf16#1 ground#n#wf19#1 partially#r#wf21#1 bury#v#wf22#1 have#v#wf24#1 distinctive#a#wf26#1 sterile#a#wf27#1 column#n#wf28#1 extend#v#wf29#1 spore-bearing#a#wf32#1 tissue#n#wf33#1
+
+ctx_12977795-n(plant#n#wf11#00017222-n)#plants
+order_Chytridiales#n#wf0#2 simple#a#wf1#1 aquatic#a#wf2#1 fungus#n#wf3#1 mostly#r#wf4#1 saprophytic#a#wf5#1 parasitic#a#wf8#1 high#a#wf10#1 plant#n#wf11#1 animal#n#wf13#1 freshwater#n#wf15#1 fungus#n#wf17#1 sometimes#r#wf19#1 place#v#wf20#1 class_Oomycetes#n#wf22#1
+
+ctx_12986447-n(treat#v#wf11#00078760-v)#plants
+division_Lichenes#n#wf0#2 comprise#v#wf1#1 lichen#n#wf3#1 grow#v#wf5#1 symbiotically#r#wf6#1 alga#n#wf8#1 sometimes#r#wf10#1 treat#v#wf11#1 independent#a#wf14#1 group#n#wf15#1 more_or_less#r#wf16#1 coordinate#a#wf19#1 alga#n#wf21#1 fungus#n#wf23#1
+
+ctx_13002209-n(stalk#n#wf15#13129165-n)#plants
+scaly_lentinus#n#wf0#2 fungus#n#wf2#1 scaly#a#wf5#1 cap#n#wf6#1 white#a#wf8#1 flesh#n#wf9#1 ring#n#wf12#1 stalk#n#wf15#1 scale#n#wf18#1 ring#n#wf21#1 odor#n#wf24#1 reminiscent#a#wf25#1 licorice#n#wf27#1
+
+ctx_13014265-n(agaric#n#wf2#12998815-n)#plants
+Lepiota_rhacodes#n#wf0#2 agaric#n#wf2#1 large#a#wf5#1 cap#n#wf6#1 brown#a#wf8#1 scale#n#wf9#1 thick#a#wf12#1 stalk#n#wf13#1
+
+ctx_13021689-n(cap#n#wf8#11532351-n)#plants
+Tricholoma_irinum#n#wf0#2 edible#a#wf2#1 agaric#n#wf3#1 large#a#wf5#1 silky#a#wf6#1 white#a#wf7#1 cap#n#wf8#1 thick#a#wf10#1 stalk#n#wf11#1
+
+ctx_13052248-n(whitish#a#wf5#00392460-a)#plants
+Polyporus_tenuiculus#n#wf0#2 fungus#n#wf2#1 whitish#a#wf5#1 kidney-shaped#a#wf6#1 cap#n#wf7#1 elongated#a#wf9#1 pore#n#wf10#1 cause#n#wf12#1 white#a#wf13#1 rot#n#wf14#1 dead#a#wf16#1 hardwood#n#wf17#1
+
+ctx_13055009-n(poisonous#a#wf15#00829656-a)#plants
+genus_Boletus#n#wf0#2 type_genus#n#wf1#1 Boletaceae#n#wf4#1 genus#n#wf6#1 soft#a#wf8#1 early#a#wf9#1 decay#v#wf10#1 pore_fungus#n#wf11#1 poisonous#a#wf15#1 edible#a#wf18#1
+
+ctx_13081778-n(parasite#n#wf7#01384687-n)#plants
+genus_Fusarium#n#wf0#2 form_genus#n#wf2#1 mostly#r#wf5#1 plant#n#wf6#1 parasite#n#wf7#1 cause#v#wf11#1 dry_rot#n#wf12#1 human#n#wf16#1 species#n#wf18#1 cause#v#wf20#1 inflammation#n#wf21#1 cornea#n#wf23#1 lead#v#wf24#1 blindness#n#wf26#1
+
+ctx_13150178-n(vine#n#wf5#13100677-n)#plants
+cubeb_vine#n#wf0#2 tropical#a#wf1#1 southeast#a#wf2#1 Asian#a#wf3#1 shrubby#a#wf4#1 vine#n#wf5#1 bear#v#wf6#1 spicy#a#wf7#1 berrylike#a#wf8#1 fruit#n#wf9#1
+
+ctx_13170840-n(China#n#wf15#08723006-n)#plants
+giant_scrambling_fern#n#wf0#2 large#a#wf1#1 scramble#v#wf2#1 fern#n#wf3#1 form#v#wf4#1 large#a#wf5#1 patch#n#wf6#1 foot#n#wf9#1 high#a#wf10#1 Pacific#n#wf12#1 region#n#wf13#1 China#n#wf15#1
+
+ctx_13179648-n(straplike#a#wf5#02562805-a)#biology
+genus_Vittaria#n#wf0#2 tropical#a#wf1#1 epiphytic#a#wf2#1 fern#n#wf3#1 straplike#a#wf5#1 frond#n#wf6#1
+
+ctx_13193856-n(North_America#n#wf3#09372504-n)#plants
+male_fern#n#wf0#2 fern#n#wf1#1 North_America#n#wf3#1 Europe#n#wf6#1 rhizome#n#wf8#1 stalk#n#wf10#1 yield#v#wf11#1 oleoresin#n#wf13#1 use#v#wf14#1 expel#v#wf16#1 tapeworm#n#wf17#1
+
+ctx_13198054-n(fern#n#wf2#11545714-n)#plants
+shuttlecock_fern#n#wf0#2 tall#a#wf1#1 fern#n#wf2#1 northern#a#wf4#1 temperate#a#wf5#1 region#n#wf6#1 have#v#wf7#1 graceful#a#wf8#1 arched#a#wf9#1 frond#n#wf10#1 sporophyll#n#wf12#1 resemble#v#wf13#1 ostrich#n#wf14#1 plume#n#wf15#1
+
+ctx_13199717-n(evergreen#a#wf3#00913551-a)#plants
+evergreen_wood_fern#n#wf0#2 North_American#n#wf1#1 evergreen#a#wf3#1 fern#n#wf4#1 have#v#wf5#1 pinnate_leaf#n#wf6#1 dense#a#wf9#1 cluster#n#wf10#1 lance-shaped#a#wf12#1 frond#n#wf13#1
+
+ctx_13201566-n(round#a#wf6#02040652-a)#plants
+Tectaria_macrodonta#n#wf0#2 fern#n#wf1#1 tropical#a#wf3#1 Asia#n#wf4#1 have#v#wf5#1 round#a#wf6#1 buttonlike#a#wf7#1 bulbil#n#wf8#1
+
+ctx_13208302-n(Central_America#n#wf5#08735705-n)#plants
+annual_fern#n#wf0#2 small#a#wf1#1 short-lived#a#wf2#1 fern#n#wf3#1 Central_America#n#wf5#1 South_America#n#wf7#1
+
+ctx_13213577-n(golden-yellow#a#wf12#00375217-a)#plants
+gold_fern#n#wf0#2 fern#n#wf1#1 West_Indies#n#wf3#1 South_America#n#wf6#1 have#v#wf8#1 frond#n#wf9#1 bright#a#wf11#1 golden-yellow#a#wf12#1 underside#n#wf13#1
+
+ctx_13244881-n(possess#v#wf6#02204692-v)#economy
+worldly_possessions#n#wf0#2 property#n#wf3#1 someone#n#wf5#1 possess#v#wf6#1
+
+ctx_13263257-n(eldest#a#wf8#01012100-a)#law
+primogeniture#n#wf0#2 right#n#wf1#1 inheritance#n#wf3#1 belong#v#wf4#1 exclusively#r#wf5#1 eldest#a#wf8#1 son#n#wf9#1
+
+ctx_13279913-n(wage#n#wf3#13279262-n)#economy
+double_time#n#wf0#2 doubled#a#wf2#1 wage#n#wf3#1 work#v#wf6#1 overtime#n#wf7#1
+
+ctx_13287239-n(prospector#n#wf5#10485298-n)#finance
+grubstake#n#wf0#2 fund#n#wf1#1 advance#v#wf2#1 prospector#n#wf5#1 someone#n#wf8#1 start#v#wf9#1 business#n#wf11#1 return#n#wf13#1 share#n#wf16#1 profit#n#wf19#1
+
+ctx_13287540-n(interest#n#wf19#13286801-n)#finance
+insurable_interest#n#wf0#2 interest#n#wf2#1 person#n#wf5#1 thing#n#wf7#1 support#v#wf10#1 issuance#n#wf12#1 insurance_policy#n#wf15#1 interest#n#wf19#1 survival#n#wf22#1 insured#n#wf25#1 preservation#n#wf29#1 thing#n#wf32#1 be#v#wf34#1 insure#v#wf35#1
+
+ctx_13297254-n(beneficiary#n#wf8#09850121-n)#economy
+death_benefit#n#wf0#2 insurance#n#wf1#1 pension#n#wf3#1 money#n#wf4#1 payable#a#wf5#1 beneficiary#n#wf8#1 deceased#n#wf11#1
+
+ctx_13321722-n(fee#n#wf2#13320168-n)#economy
+finder's_fee#n#wf0#2 fee#n#wf2#1 be#v#wf4#1 pay#v#wf5#1 someone#n#wf7#1 find#n#wf9#1 source#n#wf11#1 financial_backing#n#wf13#1 someone#n#wf17#1 bring_together#v#wf19#1 people#n#wf20#1 business#n#wf23#1 purpose#n#wf24#1
+
+ctx_13341593-n(ultimate#a#wf9#01578312-a)#law
+escheat#n#wf0#2 reversion#n#wf2#1 state#n#wf5#1 ultimate#a#wf9#1 owner#n#wf10#1 property#n#wf12#1 absence#n#wf16#1 legal#a#wf18#1 heir#n#wf19#1
+
+ctx_13350322-n(bind#v#wf10#00885217-v)#economy
+earnest_money#n#wf0#2 money#n#wf1#1 give#v#wf2#1 buyer#n#wf5#1 seller#n#wf8#1 bind#v#wf10#1 contract#n#wf12#1
+
+ctx_13351860-n(brokerage_firm#n#wf2#08069878-n)#economy
+custodial_account#n#wf0#2 brokerage_firm#n#wf2#1 account#n#wf4#1 parent#n#wf6#1 have#v#wf7#1 create#v#wf8#1 minor#n#wf11#1
+
+ctx_13360498-n(benefit#n#wf16#13296899-n)#economy
+trust#n#wf0#2 property#n#wf4#1 hold#v#wf6#1 party#n#wf9#1 trustee#n#wf12#1 benefit#n#wf16#1 beneficiary#n#wf21#1
+
+ctx_13365698-n(resource#n#wf2#13331778-n)#money
+support#n#wf0#2 financial#a#wf1#1 resource#n#wf2#1 provide#v#wf3#1 make#v#wf5#1 project#n#wf7#1 possible#n#wf8#1
+
+ctx_13382614-n(bank#n#wf7#08420278-n)#banking
+counter_check#n#wf0#2 blank_check#n#wf2#1 provide#v#wf4#1 bank#n#wf7#1 convenience#n#wf10#1 customer#n#wf12#1 be#v#wf14#1 make#v#wf15#1 withdrawal#n#wf16#1
+
+ctx_13394592-n(discount#n#wf22#13274597-n)#law
+Treasury_bill#n#wf0#2 short-term#a#wf2#1 obligation#n#wf3#1 be#v#wf5#1 not#r#wf6#1 interest-bearing#a#wf7#1 be#v#wf10#1 purchase#v#wf11#1 discount#n#wf14#1 be#v#wf18#1 trade#v#wf19#1 discount#n#wf22#1 basis#n#wf23#1 day#n#wf26#1
+
+ctx_13404655-n(credit#n#wf18#13405646-n)#economy
+general_ledger#n#wf0#2 ledger#n#wf2#1 contain#v#wf4#1 all#a#wf5#1 financial#a#wf8#1 account#n#wf9#1 business#n#wf12#1 contain#v#wf14#1 offset#v#wf15#1 debit#n#wf16#1 credit#n#wf18#1 account#n#wf19#1 include#v#wf21#1 control_account#n#wf22#1
+
+ctx_13420359-n(corporation#n#wf11#08059412-n)#exchange
+watered_stock#n#wf0#2 stock#n#wf1#1 represent#v#wf2#1 ownership#n#wf3#1 overvalue#v#wf5#1 asset#n#wf6#1 stock#n#wf8#1 corporation#n#wf11#1 total#a#wf13#1 worth#n#wf14#1 be#v#wf15#1 less#a#wf16#1 invest#v#wf19#1 capital#n#wf20#1
+
+ctx_13507472-n(make#v#wf4#01617192-v)#linguistics
+lexicalization#n#wf0#2 process#n#wf2#1 make#v#wf4#1 word#n#wf6#1 express#v#wf8#1 concept#n#wf10#1
+
+ctx_13658027-n(electromagnetic_radiation#n#wf20#11450869-n)#metrology
+angstrom_unit#n#wf0#2 metric_unit#n#wf2#1 length#n#wf5#1 equal#a#wf6#1 billionth#n#wf10#1 meter#n#wf13#1 micron#n#tok4#1 use#v#wf15#1 specify#v#wf17#1 wavelength#n#wf18#1 electromagnetic_radiation#n#wf20#1
+
+ctx_13672367-n(Bermuda#n#wf7#08710678-n)#money
+Bermuda_dollar#n#wf0#2 basic#a#wf2#1 unit#n#wf3#1 money#n#wf5#1 Bermuda#n#wf7#1
+
+ctx_13681142-n(monetary_unit#n#wf1#13604718-n)#money
+Czech_monetary_unit#n#wf0#2 monetary_unit#n#wf1#1 Czech_Republic#n#wf4#1
+
+ctx_13694160-n(fractional_monetary_unit#n#wf2#13662703-n)#money
+piastre#n#wf0#2 fractional_monetary_unit#n#wf2#1 Egypt#n#wf6#1 Lebanon#n#wf8#1 Sudan#n#wf10#1 Syria#n#wf12#1
+
+ctx_13766080-n(cap#n#wf5#02954938-n)#factotum
+capful#n#wf0#2 quantity#n#wf2#1 cap#n#wf5#1 hold#v#wf7#1
+
+ctx_13792468-n(emotional#a#wf2#00853776-a)#factotum
+silver_cord#n#wf0#2 emotional#a#wf2#1 bond#n#wf3#1 mother#n#wf6#1 offspring#n#wf9#1
+
+ctx_13800801-n(word#n#wf8#06286395-n)#grammar
+qualifying#n#wf0#2 grammatical_relation#n#wf2#1 exist#v#wf5#1 word#n#wf8#1 qualify#v#wf9#1 meaning#n#wf11#1 phrase#n#wf14#1
+
+ctx_13843601-n(concept#n#wf8#05835747-n)#mathematics
+reciprocal#n#wf0#2 term#n#wf4#1 expression#n#wf6#1 concept#n#wf8#1 have#v#wf11#1 reciprocal#a#wf13#1 relation#n#wf14#1
+
+ctx_13919173-n(channel#n#wf2#03006105-n)#factotum
+washout#n#wf0#2 channel#n#wf2#1 break#n#wf4#1 produce#v#wf5#1 erosion#n#wf7#1 relatively#r#wf9#1 soft#a#wf10#1 soil#n#wf11#1 water#n#wf13#1
+
+ctx_13929477-n(blood_brother#n#wf5#09860653-n)#factotum
+blood_brotherhood#n#wf0#2 friendship#n#wf2#1 characteristic#a#wf3#1 blood_brother#n#wf5#1
+
+ctx_13933221-n(confused#a#wf9#01669246-a)#factotum
+complication#n#wf0#2 situation#n#wf2#1 condition#n#wf4#1 be#v#wf6#1 complex#a#wf7#1 confused#a#wf9#1
+
+ctx_13950703-n(attract#v#wf3#01505254-v)#sociology
+high_profile#n#wf0#2 position#n#wf2#1 attract#v#wf3#1 attention#n#wf5#1 publicity#n#wf7#1
+
+ctx_13956905-n(eternal#a#wf4#01755024-a)#factotum
+timelessness#n#wf0#2 state#n#wf2#1 eternal#a#wf4#1 existence#n#wf5#1 believe_in#v#wf6#1 religion#n#wf9#1 characterize#v#wf11#1 afterlife#n#wf13#1
+
+ctx_13988101-n(bliss#n#wf5#13987905-n)#psychology
+rapture#n#wf0#2 state#n#wf2#1 elated#a#wf4#1 bliss#n#wf5#1
+
+ctx_13993030-n(jurisdiction#n#wf19#08590369-n)#politics
+local_option#n#wf0#2 freedom#n#wf1#1 local_government#n#wf4#1 determine#v#wf7#1 popular#a#wf9#1 vote#n#wf10#1 applicability#n#wf12#1 controversial#a#wf15#1 law#n#wf16#1 jurisdiction#n#wf19#1
+
+ctx_14000200-n(sentence#n#wf2#01189282-n)#law
+life_imprisonment#n#wf0#2 sentence#n#wf2#1 imprisonment#n#wf4#1 death#n#wf6#1
+
+ctx_14012667-n(inactivity#n#wf4#14010148-n)#economy
+stagnation#n#wf0#2 state#n#wf2#1 inactivity#n#wf4#1 business#n#wf7#1 art#n#wf9#1
+
+ctx_14028652-n(anesthetic#n#wf8#02710766-n)#physiology
+epidural_anesthesia#n#wf0#2 regional_anesthesia#n#wf1#1 result#v#wf3#1 injection#n#wf5#1 anesthetic#n#wf8#1 epidural#a#wf11#1 space#n#wf12#1 spinal_cord#n#wf15#1 sensation#n#wf18#1 be#v#wf19#1 lose#v#wf20#1 abdominal#a#wf23#1 genital#a#wf25#1 pelvic#a#wf27#1 area#n#wf28#1 use#v#wf30#1 childbirth#n#wf32#1 gynecological#a#wf34#1 surgery#n#wf35#1
+
+ctx_14031660-n(watchfulness#n#wf4#05705722-n)#military
+qui_vive#n#wf0#2 condition#n#wf1#1 heighten#v#wf3#1 watchfulness#n#wf4#1 preparation#n#wf6#1 action#n#wf8#1
+
+ctx_14036356-n(arousal#n#wf5#14023997-n)#physiology
+irritation#n#wf0#2 neural#a#wf2#1 electrical#a#wf4#1 arousal#n#wf5#1 organ#n#wf8#1 muscle#n#wf10#1 gland#n#wf12#1
+
+ctx_14053965-n(teeth#n#wf7#05282746-n)#medicine
+abocclusion#n#wf0#2 condition#n#wf2#1 upper#a#wf6#1 teeth#n#wf7#1 do#v#wf8#1 not#r#wf9#1 touch#v#wf10#1 low#a#wf12#1 teeth#n#wf13#1 bite#v#wf15#1
+
+ctx_14109101-n(consumption#n#wf37#00838098-n)#medicine
+kuru#n#wf0#2 progressive#a#wf2#1 disease#n#wf3#1 central_nervous_system#n#wf6#1 mark#v#wf9#1 increase#v#wf11#1 lack#n#wf12#1 coordination#n#wf14#1 advance#v#wf16#1 paralysis#n#wf18#1 death#n#wf20#1 year#n#wf23#1 appearance#n#wf26#1 symptom#n#wf28#1 think#v#wf30#1 have#v#wf32#1 be#v#wf33#1 transmit#v#wf34#1 cannibalistic#a#wf36#1 consumption#n#wf37#1 diseased#a#wf39#1 brain#n#wf40#1 tissue#n#wf41#1 disease#n#wf44#1 virtually#r#wf45#1 disappear#v#wf46#1 cannibalism#n#wf48#1 be#v#wf49#1 abandon#v#wf50#1
+
+ctx_14124070-n(communicable_disease#n#wf3#14122053-n)#medicine
+scarlet_fever#n#wf0#2 acute#a#wf2#1 communicable_disease#n#wf3#1 usually#r#wf6#1 child#n#wf8#1 characterize#v#wf10#1 fever#n#wf12#1 red#a#wf15#1 rash#n#wf16#1
+
+ctx_14137066-n(infection#n#wf27#14174549-n)#medicine
+listeriosis#n#wf0#2 infectious_disease#n#wf2#1 animal#n#wf5#1 human#n#wf7#1 especially#r#wf9#1 newborn#a#wf10#1 immunosuppressed#a#wf12#1 person#n#wf13#1 cause#v#wf15#1 bacterium#n#wf18#1 Listeria_monocytogenes#n#wf19#1 sheep#n#wf23#1 cattle#n#wf25#1 infection#n#wf27#1 frequently#r#wf28#1 involve#v#wf29#1 central_nervous_system#n#wf31#1 cause#v#wf35#1 various#a#wf36#1 neurological#a#wf37#1 symptom#n#wf38#1
+
+ctx_14146128-n(asthma_attack#n#wf5#14145911-n)#medicine
+status_asthmaticus#n#wf0#2 prolonged#a#wf2#1 severe#a#wf4#1 asthma_attack#n#wf5#1 do#v#wf8#1 not#r#wf9#1 respond#v#wf10#1 standard#a#wf12#1 treatment#n#wf13#1
+
+ctx_14151139-n(genetically#r#wf8#00123924-r)#medicine
+inherited_disorder#n#wf0#2 disease#n#wf2#1 disorder#n#wf4#1 be#v#wf6#1 inherit#v#wf7#1 genetically#r#wf8#1
+
+ctx_14157967-n(elongated#a#wf7#01434218-a)#medicine
+Marfan's_syndrome#n#wf0#2 autosomal_dominant_disease#n#wf2#1 characterize#v#wf5#1 elongated#a#wf7#1 bone#n#wf8#1 especially#r#wf10#1 limb#n#wf12#1 digit#n#wf14#1 abnormality#n#wf17#1 eye#n#wf20#1 circulatory_system#n#wf22#1
+
+ctx_14161795-n(affect#v#wf18#00019448-v)#medicine
+pseudohypertrophic_dystrophy#n#wf0#2 most#r#wf2#1 common#a#wf3#1 form#n#wf4#1 muscular_dystrophy#n#wf6#1 inheritance#n#wf9#1 be#v#wf10#1 X-linked#a#wf11#1 recessive#n#wf12#1 carry#v#wf14#1 female#n#wf16#1 affect#v#wf18#1 only#r#wf19#1 male#n#wf20#1
+
+ctx_14167426-n(progressive#a#wf3#00037653-a)#medicine
+pernicious_anemia#n#wf0#2 chronic#a#wf2#1 progressive#a#wf3#1 anemia#n#wf4#1 old#a#wf6#1 adult#n#wf7#1 think#v#wf9#1 result#v#wf11#1 lack#n#wf14#1 intrinsic_factor#n#wf16#1 substance#n#wf20#1 secrete#v#wf21#1 stomach#n#wf24#1 be#v#wf26#1 responsible#a#wf27#1 absorption#n#wf30#1 vitamin_B12#n#wf32#1
+
+ctx_14174011-n(disease#n#wf2#14070360-n)#medicine
+spasmodic_laryngitis#n#wf0#2 disease#n#wf2#1 infant#n#wf4#1 young#a#wf6#1 child#n#wf7#1 harsh#a#wf9#1 coughing#n#wf10#1 hoarseness#n#wf12#1 fever#n#wf14#1 difficult#a#wf16#1 breathing#n#wf17#1
+
+ctx_14192790-n(blood_disease#n#wf2#14189204-n)#medicine
+histiocytosis#n#wf0#2 blood_disease#n#wf2#1 characterize#v#wf4#1 abnormal#a#wf7#1 multiplication#n#wf8#1 macrophage#n#wf10#1
+
+ctx_14193571-n(serous#a#wf4#03116391-a)#medicine
+hydrocele#n#wf0#2 disorder#n#wf1#1 serous#a#wf4#1 fluid#n#wf5#1 accumulate#v#wf6#1 body#n#wf9#1 sac#n#wf10#1 especially#r#wf12#1 scrotum#n#wf15#1
+
+ctx_14231794-n(patch#n#wf9#04682462-n)#medicine
+psoriasis#n#wf0#2 chronic#a#wf2#1 skin_disease#n#wf3#1 characterize#v#wf5#1 dry#a#wf7#1 red#a#wf8#1 patch#n#wf9#1 cover#v#wf10#1 scale#n#wf12#1 occur#v#wf14#1 especially#r#wf15#1 scalp#n#wf18#1 ear#n#wf20#1 genitalia#n#wf22#1 skin#n#wf25#1 bony#a#wf27#1 prominence#n#wf28#1
+
+ctx_14249601-n(adult#n#wf24#09605289-n)#medicine
+osteoblastoma#n#wf0#2 benign_tumor#n#wf1#1 bone#n#wf4#1 fibrous_tissue#n#wf6#1 occur#v#wf9#1 vertebra#n#wf12#1 femur#n#wf14#1 tibia#n#wf16#1 arm_bone#n#wf18#1 especially#r#wf21#1 young#a#wf23#1 adult#n#wf24#1
+
+ctx_14267205-n(increase#n#wf3#07356676-n)#medicine
+ketosis#n#wf0#2 abnormal#a#wf2#1 increase#n#wf3#1 ketone_body#n#wf5#1 blood#n#wf9#1 diabetes_mellitus#n#wf12#1
+
+ctx_14308945-n(herpes_varicella_zoster_virus#n#wf7#01339471-n)#medicine
+Ramsay_Hunt_syndrome#n#wf0#2 syndrome#n#wf1#1 result#v#wf2#1 infection#n#wf4#1 herpes_varicella_zoster_virus#n#wf7#1 characterize#v#wf12#1 vertigo#n#wf14#1 pain#n#wf16#1 ear#n#wf19#1 facial_nerve#n#wf21#1 paralysis#n#wf23#1 sometimes#r#wf25#1 hearing_loss#n#wf26#1
+
+ctx_14310504-n(severe#a#wf13#01513050-a)#medicine
+tetany#n#wf0#2 clinical#a#wf1#1 neurological#a#wf2#1 syndrome#n#wf3#1 characterize#v#wf4#1 muscular#a#wf6#1 twitching#n#wf7#1 cramp#n#wf9#1 severe#a#wf13#1 seizure#n#wf15#1 associate#v#wf17#1 calcium#n#wf19#1 deficiency#n#wf20#1 hypoparathyroidism#n#wf22#1 vitamin_D#n#wf25#1 deficiency#n#wf27#1 alkalosis#n#wf29#1
+
+ctx_14311709-n(hallucinogenic_drug#n#wf6#03479647-n)#medicine
+bummer#n#wf0#2 bad#a#wf2#1 reaction#n#wf3#1 hallucinogenic_drug#n#wf6#1
+
+ctx_14339772-n(nose#n#wf4#05598147-n)#medicine
+catarrh#n#wf0#2 inflammation#n#wf1#1 nose#n#wf4#1 throat#n#wf6#1 increased#a#wf8#1 production#n#wf9#1 mucus#n#wf11#1
+
+ctx_14359816-n(symptom#n#wf1#14299637-n)#medicine
+meningism#n#wf0#2 symptom#n#wf1#1 mimic#v#wf3#1 meningitis#n#wf6#1 inflammation#n#wf9#1 meninges#n#wf12#1
+
+ctx_14375005-n(symptom#n#wf7#14299637-n)#psychology
+hypochondriasis#n#wf0#2 chronic#a#wf1#1 abnormal#a#wf3#1 anxiety#n#wf4#1 imaginary#a#wf6#1 symptom#n#wf7#1 ailment#n#wf9#1
+
+ctx_14377375-n(paranoia#n#wf6#14398390-n)#psychology
+delusions_of_persecution#n#wf0#2 delusion#n#wf2#1 common#a#wf4#1 paranoia#n#wf6#1 be#v#wf10#1 get#v#wf13#1 frustrate#v#wf16#1 embarrass#v#wf18#1 inflict#v#wf21#1 suffering#n#wf22#1 complicated#a#wf27#1 conspiracy#n#wf28#1 be#v#wf29#1 frequently#r#wf30#1 imagine#v#wf31#1
+
+ctx_14394783-n(personality#n#wf21#04617562-n)#psychiatry
+split_personality#n#wf0#2 relatively#r#wf2#1 rare#a#wf3#1 dissociative_disorder#n#wf4#1 usual#a#wf9#1 integrity#n#wf10#1 personality#n#wf13#1 break_down#v#wf14#1 more#r#wf19#1 independent#a#wf20#1 personality#n#wf21#1 emerge#v#wf22#1
+
+ctx_14428970-n(infection#n#wf18#14174549-n)#school
+biosafety_level_3#n#wf0#2 exposure#n#wf1#1 infectious_agent#n#wf3#1 be#v#wf7#1 transmit#v#wf8#1 respiratory#a#wf11#1 route#n#wf12#1 cause#v#wf16#1 serious#a#wf17#1 infection#n#wf18#1
+
+ctx_14455419-n(emptiness#n#wf9#14455206-n)#factotum
+blankness#n#wf0#2 state#n#wf2#1 be#v#wf4#1 blank#a#wf5#1 void#n#wf7#1 emptiness#n#wf9#1
+
+ctx_14459185-n(unlimited#a#wf8#01415605-a)#religion
+omnipotence#n#wf0#2 state#n#wf2#1 be#v#wf4#1 omnipotent#a#wf5#1 have#v#wf7#1 unlimited#a#wf8#1 power#n#wf9#1
+
+ctx_14512817-n(situation#n#wf10#13925752-n)#factotum
+setting#n#wf0#2 set#n#wf2#1 fact#n#wf4#1 circumstance#n#wf6#1 surround#v#wf8#1 situation#n#wf10#1 event#n#wf12#1
+
+ctx_14518539-n(noise#n#wf6#07387509-n)#town_planning
+sound_pollution#n#wf0#2 annoying#a#wf1#1 potentially#r#wf3#1 harmful#a#wf4#1 environmental#a#wf5#1 noise#n#wf6#1
+
+ctx_14528193-n(acquire#v#wf20#00545557-v)#medicine
+acquired_immunity#n#wf0#2 immunity#n#wf1#1 particular#a#wf4#1 disease#n#wf5#1 be#v#wf7#1 not#r#wf8#1 innate#a#wf9#1 have#v#wf11#1 be#v#wf12#1 acquire#v#wf13#1 life#n#wf15#1 immunity#n#wf17#1 be#v#wf19#1 acquire#v#wf20#1 development#n#wf23#1 antibody#n#wf25#1 attack#n#wf28#1 infectious_disease#n#wf31#1 pregnant#a#wf36#1 mother#n#wf37#1 pass_through#v#wf38#1 antibody#n#wf39#1 placenta#n#wf42#1 fetus#n#wf45#1 vaccination#n#wf48#1
+
+ctx_14537054-n(shortage#n#wf2#14449865-n)#factotum
+drouth#n#wf0#2 shortage#n#wf2#1 rainfall#n#wf4#1
+
+ctx_14559757-n(leg#n#wf7#05560787-n)#medicine
+quadriplegia#n#wf0#2 paralysis#n#wf1#1 both#a#wf3#1 arm#n#wf4#1 both#a#wf6#1 leg#n#wf7#1
+
+ctx_14571377-n(skin#n#wf6#05238282-n)#medicine
+kraurosis#n#wf0#2 atrophy#n#wf1#1 shrivel#v#wf3#1 skin#n#wf6#1 mucous_membrane#n#wf8#1
+
+ctx_14574504-n(operate#v#wf6#01224744-v)#factotum
+automation#n#wf0#2 condition#n#wf2#1 be#v#wf4#1 automatically#r#wf5#1 operate#v#wf6#1 control#v#wf8#1
+
+ctx_14577872-n(leak#n#wf5#07436661-n)#factotum
+leakiness#n#wf0#2 condition#n#wf2#1 permit#v#wf4#1 leak#n#wf5#1 leakage#n#wf7#1
+
+ctx_14609443-n(abundant#a#wf23#00013887-a)#chemistry
+alpha-linolenic_acid#n#wf0#2 polyunsaturated_fatty_acid#n#wf2#1 carbon_atom#n#wf7#1 only#a#wf11#1 omega-3_fatty_acid#n#wf12#1 find#v#wf15#1 vegetable#n#wf17#1 product#n#wf18#1 be#v#wf21#1 most#r#wf22#1 abundant#a#wf23#1 canola_oil#n#wf25#1 fatty_acid#n#wf29#1 essential#a#wf31#1 nutrition#n#wf33#1
+
+ctx_14615400-n(photographic#a#wf16#02838592-a)#chemistry
+pyrogallol#n#wf0#2 toxic#a#wf2#1 white#a#wf3#1 lustrous#a#wf4#1 crystalline#a#wf5#1 phenol#n#wf6#1 use#v#wf7#1 treat#v#wf9#1 certain#a#wf10#1 skin_disease#n#wf11#1 photographic#a#wf16#1 developer#n#wf17#1
+
+ctx_14632444-n(association#n#wf13#13435152-n)#chemistry
+cadmium#n#wf0#2 soft#a#wf2#1 bluish-white#a#wf3#1 ductile#a#wf4#1 malleable#a#wf5#1 toxic#a#wf6#1 bivalent#a#wf7#1 metallic_element#n#wf8#1 occur#v#wf11#1 association#n#wf13#1 zinc#n#wf15#1 ore#n#wf16#1
+
+ctx_14640222-n(metallic_element#n#wf3#14625458-n)#chemistry
+holmium#n#wf0#2 trivalent#a#wf2#1 metallic_element#n#wf3#1 rare_earth#n#wf7#1 group#n#wf9#1 occur#v#wf11#1 together#r#wf12#1 yttrium#n#wf14#1 form#v#wf16#1 highly#r#wf17#1 magnetic#a#wf18#1 compound#n#wf19#1
+
+ctx_14641046-n(isotope#n#wf2#14619658-n)#physics
+heavy_hydrogen#n#wf0#2 isotope#n#wf2#1 hydrogen#n#wf4#1 have#v#wf6#1 neutron#n#wf8#1 oppose#v#wf11#1 neutron#n#wf14#1 hydrogen#n#wf16#1
+
+ctx_14677610-n(form#n#wf15#05930736-n)#geology
+greenockite#n#wf0#2 ore#n#wf1#1 cadmium#n#wf3#1 rare#a#wf6#1 yellowish#a#wf7#1 mineral#n#wf8#1 consist#v#wf9#1 cadmium#n#wf11#1 sulphide#n#wf12#1 crystalline#a#wf14#1 form#n#wf15#1
+
+ctx_14678230-n(white#a#wf2#00393105-a)#geology
+heavy_spar#n#wf0#2 white#a#wf2#1 colorless#a#wf4#1 mineral#n#wf5#1 main#a#wf8#1 source#n#wf9#1 barium#n#wf11#1
+
+ctx_14680261-n(mineral#n#wf2#14662574-n)#geology
+lepidolite#n#wf0#2 mineral#n#wf2#1 mica#n#wf5#1 group#n#wf6#1 important#a#wf9#1 source#n#wf10#1 lithium#n#wf12#1
+
+ctx_14690607-n(magnesium#n#wf14#14644249-n)#geology
+periclase#n#wf0#2 white#a#wf2#1 solid#a#wf3#1 mineral#n#wf4#1 occur#v#wf6#1 naturally#r#wf7#1 periclase#n#wf9#1 source#n#wf12#1 magnesium#n#wf14#1
+
+ctx_14691231-n(hydrogen_atom#n#wf7#14640756-n)#chemistry
+quaternary_ammonium_compound#n#wf0#2 compound#n#wf2#1 derive#v#wf3#1 ammonium#n#wf5#1 hydrogen_atom#n#wf7#1 replace#v#wf9#1 organic#a#wf11#1 group#n#wf12#1 use#v#wf14#1 surface-active_agent#n#wf16#1 disinfectant#n#wf19#1 drug#n#wf23#1
+
+ctx_14692342-n(manganese#n#wf9#14644654-n)#geology
+psilomelane#n#wf0#2 mineral#n#wf2#1 consist#v#wf3#1 hydrated#a#wf5#1 basic#a#wf6#1 oxide#n#wf7#1 manganese#n#wf9#1 barium#n#wf11#1 source#n#wf14#1 manganese#n#wf16#1
+
+ctx_14694910-n(ore#n#wf13#14688500-n)#geology
+realgar#n#wf0#2 rare#a#wf2#1 soft#a#wf3#1 orange#a#wf4#1 mineral#n#wf5#1 consist#v#wf6#1 arsenic#n#wf8#1 sulphide#n#wf9#1 important#a#wf12#1 ore#n#wf13#1 arsenic#n#wf15#1
+
+ctx_14705533-n(surface#n#wf13#08660339-n)#buildings
+sealing_material#n#wf0#2 substance#n#wf2#1 use#v#wf3#1 seal#v#wf5#1 joint#n#wf6#1 fill#v#wf8#1 crack#n#wf9#1 porous#a#wf12#1 surface#n#wf13#1
+
+ctx_14715786-n(increase#v#wf17#00156601-v)#chemistry
+alloy_iron#n#wf0#2 cast_iron#n#wf1#1 contain#v#wf3#1 alloy#v#wf4#1 element#n#wf5#1 usually#r#wf7#1 nickel#n#wf8#1 chromium#n#wf10#1 copper#n#wf12#1 molybdenum#n#wf14#1 increase#v#wf17#1 strength#n#wf19#1 facilitate#v#wf21#1 heat#n#wf22#1 treatment#n#wf23#1
+
+ctx_14736510-n(produce#v#wf12#01752884-v)#chemistry
+prostate_specific_antigen#n#wf0#2 protein#n#wf2#1 manufacture#v#wf3#1 exclusively#r#wf4#1 prostate_gland#n#wf7#1 be#v#wf11#1 produce#v#wf12#1 ejaculate#n#wf15#1 liquify#v#wf18#1 semen#n#wf20#1 allow#v#wf22#1 sperm_cell#n#wf23#1 swim#v#wf26#1 freely#r#wf27#1 elevated#a#wf29#1 level#n#wf30#1 blood_serum#n#wf34#1 be#v#wf36#1 associate#v#wf37#1 benign_prostatic_hyperplasia#n#wf39#1 prostate_cancer#n#wf43#1
+
+ctx_14772716-n(white#a#wf2#00393105-a)#chemistry
+malonylurea#n#wf0#2 white#a#wf2#1 crystalline#a#wf3#1 acid#n#wf4#1 derive#v#wf5#1 pyrimidine#n#wf7#1 use#v#wf9#1 prepare#v#wf11#1 barbiturate#n#wf12#1 drug#n#wf13#1
+
+ctx_14818238-n(form#v#wf3#02621395-v)#chemistry
+compound#n#wf0#2 chemistry#n#tok2#1 substance#n#wf2#1 form#v#wf3#1 chemical#a#wf5#1 union#n#wf6#1 element#n#wf11#1 ingredient#n#wf13#1 definite#a#wf15#1 proportion#n#wf16#1 weight#n#wf18#1
+
+ctx_14823227-n(cork_oak#n#wf5#12278650-n)#plants
+cork#n#wf0#2 outer#a#wf1#1 bark#n#wf2#1 cork_oak#n#wf5#1 use#v#wf8#1 stopper#n#wf10#1 bottle#n#wf12#1
+
+ctx_14826613-n(hydrolyze#v#wf8#00564151-v)#chemistry
+cyanic_acid#n#wf0#2 colorless#a#wf2#1 poisonous#a#wf3#1 volatile#a#wf4#1 liquid#a#wf5#1 acid#n#wf6#1 hydrolyze#v#wf8#1 readily#r#wf9#1 ammonia#n#wf11#1 carbon_dioxide#n#wf13#1
+
+ctx_14891988-n(mortar#n#wf3#14955889-n)#chemistry
+grout#n#wf0#2 thin#a#wf2#1 mortar#n#wf3#1 be#v#wf6#1 pour#v#wf7#1 use#v#wf9#1 fill#v#wf11#1 crack#n#wf12#1 masonry#n#wf14#1 brickwork#n#wf16#1
+
+ctx_14893652-n(liquid#n#wf2#14940386-n)#chemistry
+turps#n#wf0#2 volatile#a#wf1#1 liquid#n#wf2#1 distil#v#wf3#1 turpentine#n#wf5#1 oleoresin#n#wf6#1 use#v#wf8#1 paint#n#wf10#1 thinner#n#wf11#1 solvent#n#wf13#1 medicinally#r#wf15#1
+
+ctx_14936905-n(salt#n#wf2#15010703-n)#chemistry
+calcium_carbonate#n#wf0#2 salt#n#wf2#1 find#v#wf3#1 nature#n#wf5#1 chalk#n#wf7#1 calcite#n#wf9#1 aragonite#n#wf11#1 limestone#n#wf13#1
+
+ctx_14966530-n(saturated#a#wf3#00757236-a)#chemistry
+octane#n#wf0#2 isomeric#a#wf2#1 saturated#a#wf3#1 hydrocarbon#n#wf4#1 find#v#wf5#1 petroleum#n#wf7#1 use#v#wf9#1 fuel#n#wf12#1 solvent#n#wf14#1
+
+ctx_14973303-n(meat#n#wf11#07649854-n)#chemistry
+palmitic_acid#n#wf0#2 saturated_fatty_acid#n#wf2#1 be#v#wf6#1 major#a#wf8#1 fat#n#wf9#1 meat#n#wf11#1 dairy_product#n#wf13#1
+
+ctx_15006012-n(plaster#n#wf3#14992287-n)#chemistry
+roughcast#n#wf0#2 coarse#a#wf2#1 plaster#n#wf3#1 surface#n#wf6#1 external#a#wf8#1 wall#n#wf9#1
+
+ctx_15010430-n(coating#n#wf28#04700642-n)#pharmacy
+salol#n#wf0#2 white#a#wf2#1 powder#n#wf3#1 pleasant#a#wf6#1 taste#n#wf7#1 odor#n#wf9#1 use#v#wf11#1 absorb#v#wf13#1 light#n#wf14#1 sun#n#wf16#1 tan#a#wf17#1 lotion#n#wf18#1 preservative#n#wf22#1 antiseptic#n#wf25#1 coating#n#wf28#1 pill#n#wf30#1 medicine#n#wf34#1 be#v#wf35#1 intend#v#wf36#1 enteric#a#wf38#1 release#n#wf39#1
+
+ctx_15073784-n(secrete#v#wf3#00069295-v)#anatomy
+melanocyte-stimulating_hormone#n#wf0#2 hormone#n#wf2#1 secrete#v#wf3#1 anterior_pituitary_gland#n#wf6#1 control#v#wf10#1 degree#n#wf12#1 pigmentation#n#wf14#1 melanocyte#n#wf16#1
+
+ctx_15082524-n(ripe#a#wf19#01493173-a)#chemistry
+tyramine#n#wf0#2 amino_acid#n#wf1#1 derive#v#wf3#1 tyrosine#n#wf5#1 have#v#wf7#1 sympathomimetic#a#wf9#1 action#n#wf10#1 find#v#wf12#1 chocolate#n#wf14#1 cola#n#wf16#1 drink#n#wf17#1 ripe#a#wf19#1 cheese#n#wf20#1 beer#n#wf22#1
+
+ctx_15104488-n(refine#v#wf8#01953297-a)#industry
+raw_wool#n#wf0#2 wool#n#wf1#1 natural#a#wf4#1 condition#n#wf5#1 not#r#wf7#1 refine#v#wf8#1 process#v#wf10#1
+
+ctx_15118935-n(worker#n#wf8#09632518-n)#free_time
+compensatory_time#n#wf0#2 time#n#wf1#1 be#v#wf4#1 grant#v#wf5#1 worker#n#wf8#1 compensation#n#wf10#1 work#v#wf12#1 overtime#r#wf13#1
+
+ctx_15129572-n(ago#r#wf37#00074095-r)#geology
+Priscoan_eon#n#wf0#2 earliest#a#wf2#1 eon#n#wf3#1 history#n#wf6#1 Earth#n#wf9#1 first#a#wf12#1 accretion#n#wf13#1 planetary#a#wf15#1 material#n#wf16#1 year#n#wf21#1 ago#r#wf22#1 date#n#wf26#1 old#a#wf29#1 known#a#wf30#1 rock#n#wf31#1 about#r#wf33#1 year#n#wf36#1 ago#r#wf37#1 evidence#n#wf41#1 life#n#wf43#1
+
+ctx_15178694-n(solar#a#wf5#02799016-a)#metrology
+solar_calendar#n#wf0#2 calendar#n#wf2#1 base#v#wf3#1 solar#a#wf5#1 cycle#n#wf6#1
+
+ctx_15195622-n(Lent#n#wf11#15242029-n)#time_period
+Ash_Wednesday#n#wf0#2 7th#a#wf2#1 Wednesday#n#wf3#1 Easter#n#wf5#1 first#a#wf8#1 day#n#wf9#1 Lent#n#wf11#1 day#n#wf14#1 follow#v#wf15#1 Mardi_Gras#n#wf16#1 Fat_Tuesday#n#wf19#1 day#n#wf24#1 fasting#n#wf26#1 repentance#n#wf28#1
+
+ctx_15217911-n(month#n#wf3#15209413-n)#time_period
+Jumada_II#n#wf0#2 sixth#a#wf2#1 month#n#wf3#1 Islamic_calendar#n#wf6#1
+
+ctx_15220267-n(month#n#wf3#15209413-n)#time_period
+Asarh#n#wf0#2 fourth#a#wf2#1 month#n#wf3#1 Hindu_calendar#n#wf6#1
+
+ctx_15220625-n(month#n#wf3#15209413-n)#time_period
+Asvina#n#wf0#2 seventh#a#wf2#1 month#n#wf3#1 Hindu_calendar#n#wf6#1
+
+ctx_15259812-n(14th#a#wf26#02203868-a)#time_period
+Renascence#n#wf0#2 period#n#wf2#1 European#a#wf4#1 history#n#wf5#1 close#n#wf8#1 Middle_Ages#n#wf11#1 rise#n#wf15#1 modern_world#n#wf18#1 cultural#a#wf22#1 rebirth#n#wf23#1 14th#a#wf26#1 middle#n#wf29#1 17th#a#wf32#1 century#n#wf33#1
+
+ctx_15274863-n(conveying#n#wf9#02221454-v)#law
+term_of_a_contract#n#wf0#2 period_of_time#n#wf2#1 contract#n#wf8#1 conveying#n#wf9#1 property#n#wf10#1 person#n#wf13#1 be#v#wf14#1
+
+ctx_15277462-n(red_blood_cell#n#wf5#05454070-n)#metrology
+sedimentation_rate#n#wf0#2 rate#n#wf2#1 red_blood_cell#n#wf5#1 settle#v#wf8#1 out#r#wf9#1 tube#n#wf12#1 blood#n#wf14#1 standardized#a#wf16#1 condition#n#wf17#1 high#a#wf20#1 rate#n#wf21#1 usually#r#wf22#1 indicate#v#wf23#1 presence#n#wf25#1 inflammation#n#wf27#1
+
+ctx_00019182-v(awaken#v#wf1#00018526-v)#medicine
+reawaken#v#wf0#2 awaken#v#wf1#1 once_again#r#wf2#1
+
+ctx_00068627-v(face#n#wf11#05600637-n)#biology
+reek#v#wf0#2 be#v#wf1#1 wet#a#wf2#1 sweat#n#wf4#1 blood#n#wf6#1 face#n#wf11#1
+
+ctx_00108121-v(break#v#wf1#00107739-v)#factotum
+refracture#v#wf0#2 break#v#wf1#1 bone#n#wf4#1 be#v#wf7#1 previously#r#wf8#1 break#v#wf9#1 mend#v#wf11#1 abnormal#a#wf14#1 way#n#wf15#1
+
+ctx_00117346-v(sound#n#wf3#05718254-n)#factotum
+receive#v#wf0#2 convert#v#wf1#1 sound#n#wf3#1 picture#n#wf5#1
+
+ctx_00200397-v(revise#v#wf9#00996102-v)#publishing
+redact#v#wf0#2 prepare#v#wf1#1 publication#n#wf3#1 presentation#n#wf5#1 correct#v#wf7#1 revise#v#wf9#1 adapt#v#wf12#1
+
+ctx_00237259-v(liquid#n#wf6#14940386-n)#gastronomy
+reduce#v#wf0#2 be#v#wf1#1 cook#v#wf2#1 very#r#wf4#1 little#a#wf5#1 liquid#n#wf6#1 be#v#wf7#1 leave#v#wf8#1
+
+ctx_00255654-v(steel#n#wf2#14802450-n)#factotum
+face-harden#v#wf0#2 harden#v#wf1#1 steel#n#wf2#1 add#v#wf4#1 carbon#n#wf5#1
+
+ctx_00265673-v(better#a#wf14#00230335-a)#factotum
+reform#v#wf0#2 improve#v#wf1#1 alteration#n#wf3#1 correction#n#wf5#1 error#n#wf7#1 defect#n#wf9#1 put#v#wf11#1 better#a#wf14#1 condition#n#wf15#1
+
+ctx_00287848-v(color#n#wf4#04956594-n)#factotum
+complexion#v#wf0#2 give#v#wf1#1 certain#a#wf3#1 color#n#wf4#1
+
+ctx_00296973-v(action#n#wf10#00037396-n)#factotum
+time#v#wf0#2 adjust#v#wf1#1 so#r#wf2#1 force#n#wf5#1 be#v#wf6#1 apply#v#wf7#1 action#n#wf10#1 occur#v#wf11#1 desired#a#wf14#1 time#n#wf15#1
+
+ctx_00364064-v(terminate#v#wf1#00352826-v)#factotum
+interrupt#v#wf0#2 terminate#v#wf1#1
+
+ctx_00364868-v(fall#n#wf13#01972298-v)#physics
+distill#v#wf0#2 undergo#v#wf1#1 condensation#n#wf2#1 change#v#wf4#1 fall#n#wf13#1 drop#n#wf15#1
+
+ctx_00373766-v(freeze#n#wf6#00375865-v)#medicine
+cauterize#v#wf0#2 burn#v#wf1#1 sear#v#wf3#1 freeze#n#wf6#1 tissue#n#wf8#1 use#v#wf10#1 hot#a#wf12#1 iron#n#wf13#1 electric_current#n#wf15#1 caustic#a#wf19#1 agent#n#wf20#1
+
+ctx_00481941-v(final#a#wf2#00349894-a)#factotum
+settle#v#wf0#2 make#v#wf1#1 final#a#wf2#1 put#v#wf4#1 last#a#wf6#1 touch#n#wf7#1 put#v#wf10#1 final#a#wf12#1 form#n#wf13#1
+
+ctx_00511318-v(tail#n#wf5#02157557-n)#medicine
+nick#v#wf0#2 divide#v#wf1#1 reset#v#wf3#1 tail#n#wf5#1 muscle#n#wf6#1
+
+ctx_00549217-v(translucent#a#wf9#00432626-a)#factotum
+clear#v#wf0#2 make#v#wf1#1 clear#a#wf2#1 bright#a#wf4#1 light#a#wf6#1 translucent#a#wf9#1
+
+ctx_00568234-v(conventional#a#wf2#00605516-a)#factotum
+schematize#v#wf0#2 give#v#wf1#1 conventional#a#wf2#1 form#n#wf3#1
+
+ctx_00581509-v(appearance#n#wf3#04673965-n)#factotum
+variegate#v#wf0#2 change#v#wf1#1 appearance#n#wf3#1 especially#r#wf6#1 mark#v#wf8#1 different#a#wf10#1 color#n#wf11#1
+
+ctx_00627420-v(divine#v#wf1#02107588-v)#factotum
+scry#v#wf0#2 divine#v#wf1#1 gaze#v#wf3#1 crystal#n#wf5#1
+
+ctx_00636061-v(guess#v#wf1#00672433-v)#factotum
+infer#v#wf0#2 guess#v#wf1#1 correctly#r#wf2#1 solve#v#wf4#1 guess#v#wf6#1
+
+ctx_00745078-v(nasal_twang#n#wf4#04989512-n)#linguistics
+twang#v#wf0#2 pronounce#v#wf1#1 nasal_twang#n#wf4#1
+
+ctx_00745383-v(rapidly#r#wf4#00085811-r)#factotum
+troll#v#wf0#2 speak#v#wf1#1 recite#v#wf3#1 rapidly#r#wf4#1 roll#v#wf8#1 voice#n#wf9#1
+
+ctx_00767807-v(talk#v#wf1#00963570-v)#factotum
+chat_up#v#wf0#2 talk#v#wf1#1 someone#n#wf3#1 aim#n#wf6#1 persuade#v#wf8#1
+
+ctx_00868979-v(challenge#v#wf1#00868591-v)#factotum
+call_out#v#wf0#2 challenge#v#wf1#1 duel#n#wf4#1
+
+ctx_00888519-v(nun#n#wf3#10368009-n)#religion
+take_the_veil#v#wf0#2 become#v#wf1#1 nun#n#wf3#1
+
+ctx_00888657-v(religious_order#n#wf4#08149781-n)#factotum
+profess#v#wf0#2 receive#v#wf1#1 religious_order#n#wf4#1 congregation#n#wf7#1
+
+ctx_00950936-v(way#n#wf8#04928903-n)#linguistics
+lilt#v#wf0#2 articulate#v#wf1#1 very#r#wf4#1 careful#a#wf5#1 rhythmic#a#wf7#1 way#n#wf8#1
+
+ctx_00973888-v(again#r#wf2#00040365-r)#telecommunication
+rerun#v#wf0#2 broadcast#v#wf1#1 again#r#wf2#1 film#n#wf7#1
+
+ctx_00976487-v(sell#v#wf13#02242464-v)#commerce
+plug#v#wf0#2 make#v#wf1#1 plug#n#wf3#1 praise#v#wf6#1 quality#n#wf8#1 order#n#wf11#1 sell#v#wf13#1 promote#v#wf15#1
+
+ctx_01002740-v(film#n#wf3#06613686-n)#photography
+take#v#wf0#2 make#v#wf1#1 film#n#wf3#1 photograph#n#wf5#1
+
+ctx_01033030-v(express_mail#n#wf3#06265475-n)#post
+express-mail#v#wf0#2 send#v#wf1#1 express_mail#n#wf3#1 courier#n#wf6#1
+
+ctx_01069090-v(legal#a#wf2#02499148-a)#law
+demand#v#wf0#2 lay_claim#v#wf1#1 legal#a#wf2#1
+
+ctx_01091844-v(obstinately#r#wf14#00198845-r)#factotum
+recalcitrate#v#wf0#2 show#v#wf1#1 strong#a#wf2#1 objection#n#wf3#1 repugnance#n#wf5#1 manifest#v#wf7#1 vigorous#a#wf8#1 opposition#n#wf9#1 resistance#n#wf11#1 be#v#wf13#1 obstinately#r#wf14#1 disobedient#a#wf15#1
+
+ctx_01093465-v(hostilities#n#wf2#00964781-n)#factotum
+take_up_arms#v#wf0#2 commence#v#wf1#1 hostilities#n#wf2#1
+
+ctx_01167188-v(take_in#v#wf1#01156834-v)#gastronomy
+victual#v#wf0#2 take_in#v#wf1#1 nourishment#n#wf3#1
+
+ctx_01218084-v(responsibility#n#wf13#04669247-n)#factotum
+carry#v#wf0#2 bear#v#wf1#1 be#v#wf3#1 able#a#wf4#1 bear#v#wf6#1 weight#n#wf8#1 pressure#n#wf10#1 responsibility#n#wf13#1
+
+ctx_01350449-v(forcibly#r#wf2#00342624-r)#factotum
+force#v#wf0#2 do#v#wf1#1 forcibly#r#wf2#1 exert#v#wf4#1 force#n#wf5#1
+
+ctx_01373718-v(brush#v#wf3#01243809-v)#factotum
+brush#v#wf0#2 cover#v#wf1#1 brush#v#wf3#1
+
+ctx_01416193-v(thrashing#n#wf3#01160729-n)#factotum
+thresh#v#wf0#2 give#v#wf1#1 thrashing#n#wf3#1 beat#v#wf6#1 hard#a#wf7#1
+
+ctx_01489734-v(wharf#n#wf4#03933529-n)#telecommunication
+wharf#v#wf0#2 discharge#v#wf1#1 wharf#n#wf4#1
+
+ctx_01592669-v(pinch#v#wf1#01456771-v)#factotum
+tweak#v#wf0#2 pinch#v#wf1#1 squeeze#v#wf3#1 sharply#r#wf4#1
+
+ctx_01682446-v(gold#n#wf4#14638799-n)#fashion
+damascene#v#wf0#2 inlay#v#wf1#1 metal#n#wf2#1 gold#n#wf4#1 silver#n#wf6#1
+
+ctx_01707737-v(orchestra#n#wf3#08248157-n)#music
+orchestrate#v#wf0#2 write#v#wf1#1 orchestra#n#wf3#1 score#n#wf4#1
+
+ctx_01713491-v(carry_out#v#wf3#01640855-v)#factotum
+cut#v#wf0#2 perform#v#wf1#1 carry_out#v#wf3#1
+
+ctx_01762963-v(composure#n#wf5#04903813-n)#psychological_features
+jolt#v#wf0#2 disturb#v#wf1#1 someone#n#wf3#1 composure#n#wf5#1
+
+ctx_01796582-v(remorse#n#wf2#07536074-n)#psychological_features
+rue#v#wf0#2 feel#v#wf1#1 remorse#n#wf2#1 feel#v#wf5#1 sorry#a#wf6#1 be#v#wf9#1 contrite#a#wf10#1
+
+ctx_01864038-v(regularly#r#wf4#00195024-r)#factotum
+run#v#wf0#2 travel#v#wf1#1 route#n#wf3#1 regularly#r#wf4#1
+
+ctx_01864865-v(motion#n#wf10#00331950-n)#factotum
+jolt#v#wf0#2 move#v#wf1#1 cause#v#wf3#1 move#v#wf5#1 sudden#a#wf8#1 jerky#a#wf9#1 motion#n#wf10#1
+
+ctx_01984317-v(upright#a#wf3#01235859-a)#factotum
+fall_down#v#wf0#2 lose#v#wf1#1 upright#a#wf3#1 position#n#wf4#1 suddenly#r#wf5#1
+
+ctx_02018372-v(reach#v#wf1#02020590-v)#transport
+catch#v#wf0#2 reach#v#wf1#1 in_time#r#wf2#1
+
+ctx_02022804-v(meet#v#wf1#02023107-v)#factotum
+meet#v#wf0#2 meet#v#wf1#1 design#n#wf3#1 be#v#wf5#1 present#a#wf6#1 arrival#n#wf9#1
+
+ctx_02103612-v(go#v#wf3#01835496-v)#transport
+beetle#v#wf0#2 fly#v#wf1#1 go#v#wf3#1 manner#n#wf6#1 resemble#v#wf7#1 beetle#n#wf9#1
+
+ctx_02168710-v(eyelid#n#wf4#05313822-n)#factotum
+seel#v#wf0#2 sew#v#wf1#1 eyelid#n#wf4#1 hawk#n#wf6#1 falcon#n#wf8#1
+
+ctx_02213690-v(hold_back#v#wf1#02283324-v)#factotum
+withhold#v#wf0#2 hold_back#v#wf1#1 refuse#v#wf4#1 hand_over#v#wf6#1 share#v#wf9#1
+
+ctx_02258291-v(simplify#v#wf1#00400427-v)#mathematics
+reduce#v#wf0#2 simplify#v#wf1#1 form#n#wf3#1 mathematical#a#wf6#1 equation#n#wf7#1 expression#n#wf9#1 substitute#v#wf11#1 term#n#wf13#1
+
+ctx_02284429-v(bribe#n#wf6#13284562-n)#law
+sop#v#wf0#2 give#v#wf1#1 conciliatory#a#wf3#1 gift#n#wf4#1 bribe#n#wf6#1
+
+ctx_02284544-v(buy#v#wf1#02207206-v)#exchange
+buy_into#v#wf0#2 buy#v#wf1#1 stock#n#wf2#1 share#n#wf4#1 company#n#wf7#1
+
+ctx_02345856-v(export#v#wf3#02346409-v)#factotum
+smuggle#v#wf0#2 import#v#wf1#1 export#v#wf3#1 paying#a#wf5#1 customs_duty#n#wf6#1
+
+ctx_02352019-v(debt#n#wf6#13397174-n)#economy
+pay_off#v#wf0#2 eliminate#v#wf1#1 pay_off#v#wf3#1 debt#n#wf6#1
+
+ctx_02354736-v(wiring#n#wf4#04595855-n)#electrotechnology
+rewire#v#wf0#2 provide#v#wf1#1 new#a#wf3#1 wiring#n#wf4#1
+
+ctx_02372326-v(mutually#r#wf7#00405645-r)#factotum
+reciprocate#v#wf0#2 act#v#wf1#1 feel#v#wf3#1 give#v#wf6#1 mutually#r#wf7#1 return#n#wf10#1
+
+ctx_02448886-v(form#v#wf1#02448185-v)#factotum
+regiment#v#wf0#2 form#v#wf1#1 military_personnel#n#wf3#1 regiment#n#wf8#1
+
+ctx_02498136-v(record#v#wf1#01000214-v)#law
+book#v#wf0#2 record#v#wf1#1 charge#n#wf3#1 police#n#wf6#1 register#n#wf7#1
+
+ctx_02525868-v(fail#v#wf1#02528380-v)#factotum
+overreach#v#wf0#2 fail#v#wf1#1 aim#v#wf3#1 too#r#wf4#1 high#a#wf5#1 trying#a#wf7#1 too#r#wf8#1 hard#a#wf9#1
+
+ctx_00040685-a(volcano#n#wf4#09472597-n)#factotum
+inactive#a#wf0#2 volcano#n#wf4#1 not#r#wf6#1 erupt#v#wf7#1 not#r#wf9#1 extinct#a#wf10#1
+
+ctx_00049683-a(relate#v#wf3#02676054-v)#factotum
+summative#a#wf0#2 relate#v#wf3#1 summation#n#wf6#1 produce#v#wf8#1 summation#n#wf10#1
+
+ctx_00085870-a(especially#r#wf3#00084223-r)#factotum
+overwrought#a#wf0#2 deeply#r#wf1#1 agitate#v#wf2#1 especially#r#wf3#1 emotion#n#wf5#1
+
+ctx_00090718-a(operate#v#wf1#01525666-v)#factotum
+air-to-surface#a#wf0#2 operate#v#wf1#1 design#v#wf4#1 be#v#wf6#1 fire#v#wf7#1 aircraft#n#wf9#1 target#n#wf11#1 ground#n#wf14#1
+
+ctx_00195383-a(inspire#v#wf1#00771961-v)#psychological_features
+unnerving#a#wf0#2 inspire#v#wf1#1 fear#n#wf2#1
+
+ctx_00196312-a(shock#v#wf1#01809064-v)#psychological_features
+stupefying#a#wf0#2 shock#v#wf1#1 surprise#n#wf3#1 consternation#n#wf5#1
+
+ctx_00203237-a(direct#v#wf5#01683061-a)#nautical
+forward#a#wf0#2 direct#v#wf5#1 front#n#wf8#1
+
+ctx_00219809-a(emotion#n#wf4#07480068-n)#quality
+lovely#a#wf0#2 appeal#v#wf1#1 emotion#n#wf4#1 as_well#r#wf5#1 eye#n#wf9#1
+
+ctx_00263463-a(action#n#wf7#00037396-n)#psychological_features
+heroic#a#wf0#2 show#v#wf1#1 extreme#a#wf2#1 courage#n#wf3#1 especially#r#wf5#1 action#n#wf7#1 courageously#r#wf8#1 undertake#v#wf9#1 desperation#n#wf11#1 last_resort#n#wf14#1
+
+ctx_00314794-a(animal#n#wf4#00015388-n)#animals
+saprozoic#a#wf0#2 certain#a#wf3#1 animal#n#wf4#1 feed#v#wf6#1 dead#n#wf8#1 decay#v#wf10#1 animal#a#wf11#1 matter#n#wf12#1
+
+ctx_00327857-a(cell#n#wf3#02991711-n)#factotum
+cell-like#a#wf0#2 resemble#v#wf1#1 cell#n#wf3#1
+
+ctx_00355950-a(change#n#wf13#00109660-v)
+isotonic#a#wf0#2 involve#v#wf3#1 muscular_contraction#n#wf4#1 tension#n#wf8#1 be#v#wf9#1 constant#a#wf10#1 length#n#wf12#1 change#n#wf13#1
+
+ctx_00383291-a(color#n#wf5#04956594-n)#color
+sapphire#a#wf0#2 have#v#wf3#1 color#n#wf5#1 blue#a#wf8#1 sapphire#n#wf9#1
+
+ctx_00387593-a(light#a#wf3#00408660-a)#color
+ashy#a#wf0#2 light#a#wf3#1 grey#n#wf4#1
+
+ctx_00436645-a(especially#r#wf7#00084223-r)#factotum
+stupid#a#wf0#2 state#n#wf3#1 mental#a#wf5#1 numbness#n#wf6#1 especially#r#wf7#1 result#v#wf9#1 shock#n#wf11#1
+
+ctx_00438567-a(severe#a#wf7#01513050-a)#meteorology
+inclement#a#wf0#2 weather#n#wf3#1 climate#n#wf5#1 severe#a#wf7#1
+
+ctx_00561896-a(coincide#v#wf1#02658734-v)#geometry
+superposable#a#wf0#2 coincide#v#wf1#1 exactly#r#wf2#1 superimpose#v#wf4#1
+
+ctx_00710585-a(require#v#wf1#02627934-v)#factotum
+exigent#a#wf0#2 require#v#wf1#1 precise#a#wf2#1 accuracy#n#wf3#1
+
+ctx_00735195-a(financially#r#wf2#00207127-r)#factotum
+wiped_out#a#wf0#2 destroy#v#wf1#1 financially#r#wf2#1
+
+ctx_00739495-a(capable#a#wf2#00306314-a)#factotum
+indeterminate#a#wf0#2 not#r#wf1#1 capable#a#wf2#1 be#v#wf4#1 determine#v#wf5#1
+
+ctx_00746451-a(make#v#wf1#01755816-v)#quality
+tough#a#wf0#2 make#v#wf1#1 great#a#wf2#1 mental#a#wf3#1 demand#n#wf4#1 hard#a#wf6#1 comprehend#v#wf8#1 solve#v#wf10#1 believe#v#wf12#1
+
+ctx_00788821-a(submit#v#wf5#00878348-v)#factotum
+submissive#a#wf0#2 incline#v#wf1#1 will#v#wf3#1 submit#v#wf5#1 order#n#wf7#1 wish#n#wf9#1 show#v#wf13#1 such#a#wf14#1 inclination#n#wf15#1
+
+ctx_00828095-a(physique#n#wf4#04998530-n)#anatomy
+asthenic#a#wf0#2 have#v#wf1#1 slender#a#wf3#1 physique#n#wf4#1
+
+ctx_00971933-a(mark#v#wf1#00651991-v)#fashion
+spruce#a#wf0#2 mark#v#wf1#1 up-to-dateness#n#wf3#1 dress#n#wf5#1 manner#n#wf7#1
+
+ctx_00997394-a(show#v#wf7#00943837-v)#factotum
+invidious#a#wf0#2 contain#v#wf1#1 imply#v#wf3#1 slight#a#wf5#1 show#v#wf7#1 prejudice#n#wf8#1
+
+ctx_01074650-a(characteristic#a#wf1#00356926-a)#psychological_features
+friendly#a#wf0#2 characteristic#a#wf1#1 befit#v#wf4#1 friend#n#wf6#1
+
+ctx_01104709-a(direct#v#wf1#01150559-v)#quality
+particularized#a#wf0#2 direct#v#wf1#1 specific#a#wf4#1 object#n#wf5#1
+
+ctx_01109914-a(make#v#wf9#01621555-v)#commerce
+proprietary#a#wf0#2 protect#v#wf1#1 trademark#v#wf3#1 patent#v#wf5#1 copyright#v#wf7#1 make#v#wf9#1 produce#v#wf11#1 distribute#v#wf13#1 have#v#wf16#1 exclusive_right#n#wf17#1
+
+ctx_01110251-a(label#v#wf9#01588493-v)#commerce
+branded#a#wf0#2 good#n#wf3#1 merchandise#n#wf5#1 mark#v#wf7#1 label#v#wf9#1 distinctive#a#wf12#1 word#n#wf13#1 symbol#n#wf15#1 indicate#v#wf16#1 exclusive_right#n#wf17#1
+
+ctx_01114434-a(petty#a#wf2#00288498-a)#factotum
+generous#a#wf0#2 not#r#wf1#1 petty#a#wf2#1 character#n#wf4#1 mind#n#wf6#1
+
+ctx_01143855-a(unexpectedly#r#wf2#00040719-r)
+emergent#a#wf0#2 occur#v#wf1#1 unexpectedly#r#wf2#1 require#v#wf4#1 urgent#a#wf5#1 action#n#wf6#1
+
+ctx_01157494-a(produce#v#wf1#01752884-v)#factotum
+palatalized#a#wf0#2 produce#v#wf1#1 front#n#wf4#1 tongue#n#wf7#1 touch#v#wf10#1 hard_palate#n#wf12#1 y#n#wf16#1 blade#n#wf21#1 tongue#n#wf24#1 hard_palate#n#wf27#1 chin#n#wf33#1 j#n#wf35#1 gin#n#wf37#1
+
+ctx_01190993-a(degree#n#wf4#05093890-n)#factotum
+light#a#wf0#2 not#r#wf1#1 great#a#wf2#1 degree#n#wf4#1 quantity#n#wf6#1 number#n#wf8#1
+
+ctx_01195341-a(deprive#v#wf1#02313250-v)#factotum
+disqualifying#a#wf0#2 deprive#v#wf1#1 legal_right#n#wf3#1 render#v#wf6#1 legally#r#wf7#1 disqualified#a#wf8#1
+
+ctx_01196775-a(mean#n#wf6#00172710-n)#factotum
+subservient#a#wf0#2 serve#v#wf1#1 act_as#v#wf3#1 mean#n#wf6#1 aid#n#wf8#1
+
+ctx_01207007-a(plant#n#wf2#00017222-n)
+low-growing#a#wf0#2 plant#n#wf2#1 grow#v#wf4#1 relatively#r#wf5#1 low#a#wf6#1 ground#n#wf9#1
+
+ctx_01240029-a(support#v#wf15#01217043-v)#person
+sitting#a#wf0#2 person#n#wf3#1 have#v#wf5#1 torso#n#wf7#1 erect#a#wf8#1 leg#n#wf10#1 bend#v#wf11#1 body#n#wf14#1 support#v#wf15#1 buttock#n#wf18#1
+
+ctx_01255296-a(characteristic#a#wf3#00356926-a)#factotum
+autumnal#a#wf0#2 characteristic#a#wf3#1 occur#v#wf6#1 autumn#n#wf8#1
+
+ctx_01287808-a(noticeable#a#wf5#01746995-a)#factotum
+pronounced#a#wf0#2 strongly#r#wf1#1 mark#v#wf2#1 easily#r#wf4#1 noticeable#a#wf5#1
+
+ctx_01355746-a(solidify#v#wf7#00445169-v)#geology
+volcanic#a#wf0#2 igneous_rock#n#wf1#1 produce#v#wf3#1 eruption#n#wf5#1 solidify#v#wf7#1 Earth's_surface#n#wf12#1 rhyolite#n#wf15#1 andesite#n#wf17#1 basalt#n#wf19#1
+
+ctx_01357206-a(strengthening#n#wf7#00374063-n)#medicine
+corroborant#a#wf0#2 use#v#wf1#1 medicine#n#wf4#1 be#v#wf6#1 strengthening#n#wf7#1
+
+ctx_01365544-a(mark#v#wf3#00651991-v)#factotum
+heartrending#a#wf0#2 cause#v#wf1#1 mark#v#wf3#1 grief#n#wf5#1 anguish#n#wf7#1
+
+ctx_01395330-a(degree#n#wf7#05093890-n)#factotum
+greater#a#wf0#2 great#a#wf1#1 size#n#wf3#1 importance#n#wf5#1 degree#n#wf7#1
+
+ctx_01437268-a(short#a#wf2#01436003-a)#quality
+snub#a#wf0#2 unusually#r#wf1#1 short#a#wf2#1
+
+ctx_01490603-a(wormlike#a#wf17#00789871-a)#biology
+larval#a#wf0#2 immature#a#wf1#1 kind#n#wf4#1 especially#r#wf6#1 be#v#wf7#1 characteristic#a#wf9#1 immature#a#wf11#1 insect#n#wf12#1 newly#r#wf15#1 hatched#a#wf16#1 wormlike#a#wf17#1 feeding#n#wf18#1 stage#n#wf19#1
+
+ctx_01491691-a(develop#v#wf4#00543410-v)#photography
+underdeveloped#a#wf0#2 not#r#wf1#1 fully#r#wf3#1 develop#v#wf4#1
+
+ctx_01567694-a(entire#a#wf6#00515380-a)#factotum
+worldwide#a#wf0#2 span#v#wf1#1 extend#v#wf3#1 entire#a#wf6#1 world#n#wf7#1
+
+ctx_01569549-a(relation#n#wf7#00040962-n)#factotum
+interstate#a#wf0#2 involve#v#wf1#1 relate#v#wf3#1 mutual#a#wf6#1 relation#n#wf7#1 state#n#wf9#1 especially#r#wf10#1 United_States#n#wf13#1
+
+ctx_01587077-a(person#n#wf6#00007846-n)#quality
+nasty#a#wf0#2 offensive#a#wf1#1 even#r#wf3#1 person#n#wf6#1 malicious#a#wf8#1
+
+ctx_01616891-a(moral_obligation#n#wf3#01130560-n)#factotum
+obliged#a#wf0#2 moral_obligation#n#wf3#1 do#v#wf6#1
+
+ctx_01652782-a(not#r#wf1#00024073-r)#factotum
+unopen#a#wf0#2 not#r#wf1#1 open#a#wf2#1
+
+ctx_01665184-a(region#n#wf8#05221895-n)#anatomy
+oral#a#wf0#2 involve#v#wf3#1 mouth#n#wf5#1 mouth#n#wf7#1 region#n#wf8#1 surface#n#wf11#1 mouth#n#wf15#1 be#v#wf16#1 locate#v#wf17#1
+
+ctx_01834121-a(plant#v#wf4#01567275-v)#factotum
+potted#a#wf0#2 plant#n#wf2#1 plant#v#wf4#1 grow#v#wf6#1 pot#n#wf9#1
+
+ctx_01930417-a(not#r#wf1#00024073-r)#physics
+stable#a#wf0#2 not#r#wf1#1 take_part#v#wf2#1 readily#r#wf4#1 chemical_change#n#wf6#1
+
+ctx_01943067-a(juxtaposition#n#wf7#08624095-n)#factotum
+surrealistic#a#wf0#2 characterize#v#wf1#1 fantastic#a#wf3#1 imagery#n#wf4#1 incongruous#a#wf6#1 juxtaposition#n#wf7#1
+
+ctx_02139652-a(shape#n#wf5#05217168-n)#factotum
+fully_fashioned#a#wf0#2 knitted#a#wf1#1 fit#v#wf3#1 shape#n#wf5#1 body#n#wf8#1
+
+ctx_02160696-a(color#n#wf5#04956594-n)#factotum
+tritanopic#a#wf0#2 inability#n#wf1#1 see#v#wf3#1 color#n#wf5#1 blue#a#wf6#1 distinguish#v#wf9#1 color#n#wf11#1 blue#n#wf12#1 yellow#n#wf14#1
+
+ctx_02221723-a(traffic#n#wf5#08425303-n)#town_planning
+two-lane#a#wf0#2 have#v#wf1#1 lane#n#wf3#1 traffic#n#wf5#1 direction#n#wf8#1
+
+ctx_02235330-a(particle#n#wf15#14585519-n)#gastronomy
+nonstick#a#wf0#2 surface#n#wf3#1 especially#r#wf4#1 cooking_utensil#n#wf6#1 permit#v#wf9#1 easy#a#wf10#1 removal#n#wf11#1 adherent#a#wf13#1 food#n#wf14#1 particle#n#wf15#1
+
+ctx_02248204-a(rifling#n#wf7#00926026-n)#factotum
+unrifled#a#wf0#2 firearm#n#wf3#1 not#r#wf5#1 have#v#wf6#1 rifling#n#wf7#1 internal#a#wf9#1 spiral#a#wf10#1 groove#n#wf11#1 barrel#n#wf14#1
+
+ctx_02289738-a(form#v#wf2#02621395-v)#factotum
+unsyllabic#a#wf0#2 not#r#wf1#1 form#v#wf2#1 syllable#n#wf4#1 nucleus#n#wf7#1 syllable#n#wf10#1 consist#v#wf12#1 consonant#a#wf15#1 sound#n#wf16#1 accompany#v#wf17#1 same#a#wf20#1 syllable#n#wf21#1 vowel_sound#n#wf24#1 consist#v#wf27#1 vowel_sound#n#wf30#1 dominate#v#wf32#1 other#a#wf34#1 vowel_sound#n#wf35#1 syllable#n#wf39#1 second#a#wf43#1 vowel#n#wf44#1 falling#a#wf47#1 diphthong#n#wf48#1
+
+ctx_02308001-a(significance#n#wf2#05169813-n)#factotum
+vapid#a#wf0#2 lack#v#wf1#1 significance#n#wf2#1 liveliness#n#wf4#1 spirit#n#wf6#1 zest#n#wf8#1
+
+ctx_02333147-a(Preakness#n#wf16#07462269-n)#racing
+triple-crown#a#wf0#2 horse#n#wf3#1 have#v#wf5#1 win#v#wf6#1 Kentucky_Derby#n#wf8#1 Belmont_Stakes#n#wf12#1 Preakness#n#wf16#1 race#n#wf17#1
+
+ctx_02390724-a(mark#v#wf1#00651991-v)#factotum
+unrestrained#a#wf0#2 mark#v#wf1#1 uncontrolled#a#wf3#1 excitement#n#wf4#1 emotion#n#wf6#1
+
+ctx_02411559-a(relatively#r#wf2#00160834-r)
+heavy#a#wf0#2 relatively#r#wf2#1 large#a#wf3#1 extent#n#wf4#1 density#n#wf6#1
+
+ctx_02445207-a(touch#v#wf1#02445093-a)#factotum
+brushed#a#wf0#2 touch#v#wf1#1 lightly#r#wf2#1 passing#n#wf4#1 graze#v#wf6#1
+
+ctx_02453921-a(caterpillar_tread#n#wf2#04464418-n)#factotum
+half-tracked#a#wf0#2 have#v#wf1#1 caterpillar_tread#n#wf2#1 rear#n#wf6#1 wheel#n#wf8#1 front#n#wf10#1
+
+ctx_02513521-a(capable#a#wf2#00306314-a)#factotum
+impeccable#a#wf0#2 not#r#wf1#1 capable#a#wf2#1 sin#n#wf4#1
+
+ctx_02537946-a(volume#n#wf4#04990220-n)#music
+crescendo#a#wf0#2 gradually#r#wf1#1 increase#v#wf2#1 volume#n#wf4#1
+
+ctx_02570183-a(age#n#wf6#15145171-n)#factotum
+sage#a#wf0#2 have#v#wf1#1 wisdom#n#wf2#1 come#v#wf4#1 age#n#wf6#1 experience#n#wf8#1
+
+ctx_02577734-a(interest#n#wf7#05682950-n)#factotum
+material#a#wf0#2 concern#v#wf1#1 worldly#a#wf3#1 rather#r#wf4#1 spiritual#a#wf6#1 interest#n#wf7#1
+
+ctx_02591088-a(skin#n#wf18#05238282-n)#animals
+webbed#a#wf0#2 foot#n#wf4#1 animal#n#wf7#1 have#v#wf9#1 digit#n#wf11#1 connect#v#wf12#1 thin#a#wf15#1 fold#n#wf16#1 skin#n#wf18#1
+
+ctx_02624834-a(anisogamic#a#wf10#02624615-a)#biology
+anisogametic#a#wf0#2 relate#v#wf1#1 pair#n#wf6#1 dissimilar#a#wf8#1 anisogamic#a#wf10#1 gamete#n#wf12#1 combine#v#wf13#1 sexual_reproduction#n#wf15#1
+
+ctx_02673022-a(cadastre#n#wf9#06502192-n)#buildings
+cadastral#a#wf0#2 relate#v#wf3#1 record#n#wf6#1 cadastre#n#wf9#1
+
+ctx_02707283-a(comb#n#wf12#03074855-n)
+ctenoid#a#wf0#2 resemble#v#wf1#1 comb#n#wf3#1 have#v#wf5#1 projection#n#wf6#1 teeth#n#wf9#1 comb#n#wf12#1
+
+ctx_02708649-a(cell#n#wf8#00006484-n)
+cytophotometric#a#wf0#2 relate#v#wf3#1 study#n#wf6#1 cell#n#wf8#1 mean#n#wf10#1 cytophotometer#n#wf13#1
+
+ctx_02715567-a(relate#v#wf1#02676054-v)#medicine
+dysplastic#a#wf0#2 relate#v#wf1#1 evidence#v#wf4#1 dysplasia#n#wf5#1
+
+ctx_02776576-a(capable#a#wf1#00306314-a)#biology
+phagocytic#a#wf0#2 capable#a#wf1#1 function#v#wf3#1 phagocyte#n#wf6#1
+
+ctx_02818600-a(tuberculosis#n#wf3#14143415-n)#physiology
+tubercular#a#wf0#2 relate#v#wf1#1 tuberculosis#n#wf3#1 suffering#n#wf6#1
+
+ctx_02845585-a(eye#n#wf11#05311054-n)#anatomy
+ciliary#a#wf0#2 relate#v#wf1#1 ciliary_body#n#wf4#1 associate#v#wf7#1 structure#n#wf8#1 eye#n#wf11#1
+
+ctx_02849904-a(brain#n#wf12#05481095-n)#animals
+gyral#a#wf0#2 relate#v#wf1#1 associate#v#wf4#1 comprise#v#wf7#1 convolution#n#wf9#1 brain#n#wf12#1
+
+ctx_02921199-a(British#a#wf3#03022177-a)#geography
+Anglo-Indian#a#wf0#2 relate#v#wf1#1 British#a#wf3#1 India#n#wf4#1 English#a#wf7#1 India#n#wf9#1
+
+ctx_02962272-a(characteristic#a#wf6#00356926-a)#geography
+Rumanian#a#wf0#2 relate#v#wf3#1 characteristic#a#wf6#1 country#n#wf9#1 Romania#n#wf11#1 people#n#wf14#1 language#n#wf16#1
+
+ctx_03026902-a(Mexico#n#wf5#08740875-n)#geography
+Mexican#a#wf0#2 relate#v#wf3#1 Mexico#n#wf5#1 inhabitant#n#wf8#1
+
+ctx_03029400-a(manner#n#wf8#04928903-n)#politics
+Caesarian#a#wf0#2 relate#v#wf3#1 manner#n#wf8#1 Julius_Caesar#n#wf10#1
+
+ctx_03049475-a(blade#n#wf6#04373894-n)#military
+bladed#a#wf0#2 bear#v#wf1#1 characterize#v#wf3#1 blade#n#wf6#1 sword#n#wf8#1 often#r#tok1#1 use#v#tok2#1 combination#n#tok4#1
+
+ctx_03066978-a(pertain#v#wf3#02676054-v)#geography
+Gallic#a#wf0#2 pertain#v#wf3#1 Gaul#n#wf5#1 Gaul#n#wf8#1
+
+ctx_03073251-a(characteristic#a#wf4#00356926-a)#literature
+Homeric#a#wf0#2 relate#v#wf1#1 characteristic#a#wf4#1 Homer#n#wf6#1 age#n#wf9#1 work#n#wf12#1 attribute#v#wf13#1
+
+ctx_03074565-a(former#a#wf6#01729566-a)#anthropology
+Indo-European#a#wf0#2 relate#v#wf3#1 former#a#wf6#1 Indo-European#a#wf7#1 people#n#wf8#1
+
+ctx_03129490-a(language#n#wf8#06282651-n)#grammar
+vocative#a#wf0#2 relate#v#wf1#1 case#n#wf4#1 use#v#wf5#1 language#n#wf8#1
+
+ctx_03145145-a(text#n#wf12#06387980-n)
+WYSIWYG#a#wf0#2 relate#v#wf1#1 be#v#wf4#1 word_processing_system#n#wf6#1 print#v#wf10#1 text#n#wf12#1 exactly#r#wf13#1 appear#v#wf16#1 computer_screen#n#wf19#1
+
+ctx_00137459-r(chromatographic#a#wf5#02987910-a)#chemistry
+chromatographically#r#wf0#2 mean#n#wf2#1 chromatographic#a#wf5#1 process#n#wf6#1
+
+ctx_00203783-r(indefinite#a#wf8#00336564-a)#factotum
+indefinitely#r#wf0#2 indefinite#a#wf3#1 extent#n#wf4#1 indefinite#a#wf8#1 time#n#wf9#1
+
+ctx_00254978-r(month#n#wf4#15209413-n)#factotum
+monthly#r#wf0#2 occur#v#wf1#1 month#n#wf4#1
+
+ctx_00267137-r(manner#n#wf4#04928903-n)#factotum
+avidly#r#wf0#2 avid#a#wf3#1 manner#n#wf4#1
+
+ctx_00332906-r(manner#n#wf4#04928903-n)#physiology
+unexcitingly#r#wf0#2 unexciting#a#wf3#1 manner#n#wf4#1
+
+ctx_00350521-r(grating#a#wf5#00299476-a)#quality
+raspingly#r#wf0#2 harsh#a#wf3#1 grating#a#wf5#1 manner#n#wf6#1
+
+ctx_00383972-r(manner#n#wf4#04928903-n)#factotum
+maturely#r#wf0#2 mature#a#wf3#1 manner#n#wf4#1
+
+ctx_00439687-r(manner#n#wf4#04928903-n)#politics
+reassuringly#r#wf0#2 reassuring#a#wf3#1 manner#n#wf4#1
+
+ctx_00458610-r(manner#n#wf4#04928903-n)#factotum
+sloppily#r#wf0#2 sloppy#a#wf3#1 manner#n#wf4#1
+
+ctx_00463340-r(spurt#n#wf2#07436100-n)#factotum
+spasmodically#r#wf0#2 spurt#n#wf2#1 fit#n#wf4#1
+
