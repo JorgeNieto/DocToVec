@@ -130,9 +130,12 @@ Porcentaje fallados: 67.6312968917%
 
 Para crear este repositorio he utilizado [Gensim], puedes conseguirlo descargandolo [aquí] o en el siguiente [repositorio].
 
+Puedes conseguir información adicional en este [enlace].
+
 [Gensim]: https://radimrehurek.com/gensim/
 [aquí]: https://radimrehurek.com/gensim/install.html
 [repositorio]: https://github.com/RaRe-Technologies/gensim
+[enlace]: http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
 
 
 
